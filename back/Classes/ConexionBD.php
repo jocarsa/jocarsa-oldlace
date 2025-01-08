@@ -1,5 +1,5 @@
 <?php
-
+	include "../config.php";
 	class ConexionBD{
 		// Propiedades de la clase
 		private $conexion;
@@ -7,10 +7,10 @@
 			// Método constructor
 				public function __construct(){
 					$this->conexion = mysqli_connect(
-						"", 
-						"", 
-						"", 
-						""
+						$dbservidor, 
+						$dbusuario, 
+						$dbcontrasena, 
+						$dbbasededatos
 					);	
 				}
 			// Otros métodos que necesito
