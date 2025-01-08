@@ -1,0 +1,77 @@
+#carrusel{
+	overflow-x:hidden;
+	position:relative;
+}
+#carrusel button{
+	padding:20px;
+	border:2px solid white; 
+	border-radius:40px;
+	width:200px;
+	background:rgba(255,255,255,0.5);
+	color:white;
+	margin:10px;
+}
+#carrusel1{
+	width:1000%;
+	left:0px;
+	transition:all 1s;
+	position:relative;
+}
+#carrusel1 article{
+	width:1024px;
+	min-height:300px;
+	background:black;
+	color:white;
+	display:inline-block;
+	box-sizing:border-box;
+	padding:40px;
+}
+.animado1{
+	animation:muevecadapoco 60s;
+	
+}
+@keyframes muevecadapoco{
+	0%{left:0px;}
+	5%{left:-1024px;}
+	10%{left:-1024px;}
+	15%{left:-2048px;}
+	20%{left:-2048px;}
+	25%{left:-3072px;}
+	30%{left:-3072px;}
+	35%{left:-4096px;}
+	40%{left:-4096px;}
+}
+
+#carrusel2{
+	width:1000%;
+	
+	position:relative;
+}
+#carrusel2 article{
+	width:340px;
+	min-height:300px;
+	background:black;
+	color:white;
+	display:inline-block;
+	box-sizing:border-box;
+	padding:40px;
+}
+.animado2{
+	animation:muevecontinuo 190s;
+	animation-timing-function:linear;
+}
+@keyframes muevecontinuo{
+	0%{left:0px;}
+	100%{left:-10240px;}
+}
+#botonera{
+	text-align:center;
+}
+.punto{
+	width:10px;
+	height:10px;
+	background:grey;
+	border-radius:20px;
+	margin:5px;
+	display:inline-block;
+}

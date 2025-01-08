@@ -1,0 +1,134 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Organiza y Comparte tu Mundo con Marcadores Digitales",
+      "subtitulo": "La solución ideal para gestionar tus enlaces y recursos digitales",
+      "texto": "Nuestro software permite a usuarios y equipos crear, organizar y compartir marcadores digitales de forma sencilla y eficiente, todo desde una interfaz intuitiva.",
+      "imagen": "path_to_main_image.jpg",
+      "fondo": "#f4f4f4"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f4f4f4"}
+    ]
+  },
+  {
+    "tipo": "bloque",
+    "contenido": {
+      "titulo": "Gestión Centralizada",
+      "subtitulo": "Todos tus marcadores en un solo lugar",
+      "texto": "Con nuestra plataforma, puedes almacenar y categorizar todos tus enlaces importantes, desde recursos personales hasta colaborativos, en una base de datos accesible desde cualquier dispositivo.",
+      "imagen": "path_to_features_image.jpg",
+      "fondo": "#ffffff"
+    },
+    "estilo": [
+      {"color": "#000"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Funciones Principales",
+      "subtitulo": "Herramientas diseñadas para la productividad",
+      "texto": "Nuestro software de marcadores digitales incluye características que facilitan el acceso y la colaboración.",
+      "imagen": "path_to_tools_image.jpg",
+      "fondo": "#f9f9f9",
+      "columnas": [
+        {
+          "titulo": "Creación de Categorías",
+          "subtitulo": "Organiza eficientemente",
+          "texto": "Agrupa tus enlaces en categorías personalizables para un acceso más rápido."
+        },
+        {
+          "titulo": "Compartir Marcadores",
+          "subtitulo": "Colaboración mejorada",
+          "texto": "Comparte enlaces y recursos con tu equipo de forma segura y rápida."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f9f9f9"}
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Mira cómo funciona nuestra plataforma",
+      "subtitulo": "Video demostrativo",
+      "texto": "Explora todas las funcionalidades y beneficios de nuestro software de marcadores digitales.",
+      "imagen": "path_to_video_thumbnail.jpg",
+      "fondo": "#e0e0e0",
+      "url": "0_MKO_87vtE"
+    },
+    "estilo": [
+      {"color": "#111"},
+      {"background": "#e0e0e0"}
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Por qué elegir nuestro software",
+      "subtitulo": "Beneficios clave",
+      "texto": "Nuestra solución ofrece ventajas únicas para individuos y equipos de trabajo.",
+      "imagen": "path_to_benefits_image.jpg",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Acceso Seguro",
+          "subtitulo": "Protección de datos",
+          "texto": "Tus marcadores están siempre seguros gracias a nuestra infraestructura de seguridad avanzada."
+        },
+        {
+          "titulo": "Interfaz Intuitiva",
+          "subtitulo": "Fácil de usar",
+          "texto": "Navega y organiza tus recursos con una experiencia amigable."
+        },
+        {
+          "titulo": "Escalabilidad",
+          "subtitulo": "Crece con tus necesidades",
+          "texto": "Nuestra plataforma está diseñada para ajustarse al crecimiento de tu negocio o equipo."
+        },
+        {
+          "titulo": "Soporte Técnico",
+          "subtitulo": "Siempre a tu disposición",
+          "texto": "Recibe asistencia rápida y efectiva en cualquier momento."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#444"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Casos de Éxito",
+      "subtitulo": "Cómo otros están utilizando nuestra plataforma",
+      "texto": "Empresas y usuarios individuales han mejorado su organización y productividad con nuestro software.",
+      "imagen": "path_to_success_image.jpg",
+      "fondo": "#f3f3f3",
+      "columnas": [
+        {
+          "titulo": "Equipos Colaborativos",
+          "subtitulo": "Más organización",
+          "texto": "Equipos han reducido el tiempo de búsqueda de recursos en un 40%."
+        },
+        {
+          "titulo": "Profesionales Independientes",
+          "subtitulo": "Mayor productividad",
+          "texto": "Usuarios han reportado un incremento en su eficiencia al centralizar todos sus enlaces importantes."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f3f3f3"}
+    ]
+  }
+]
+

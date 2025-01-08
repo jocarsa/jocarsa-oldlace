@@ -1,0 +1,134 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Revoluciona la Formación con Nuestro LMS",
+      "subtitulo": "Un sistema de gestión de aprendizaje para instituciones y empresas",
+      "texto": "Nuestro LMS es una solución integral que combina facilidad de uso y funcionalidades avanzadas para gestionar cursos, estudiantes y contenidos educativos de manera eficiente.",
+      "imagen": "path_to_main_image.jpg",
+      "fondo": "#f4f4f4"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f4f4f4"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Una plataforma que se adapta a tus necesidades",
+      "texto": "Desde el seguimiento de alumnos hasta la creación de contenidos interactivos, nuestro LMS tiene todo lo que necesitas para una experiencia educativa completa.",
+      "imagen": "path_to_features_image.jpg",
+      "fondo": "#ffffff",
+      "columnas": [
+        {
+          "titulo": "Gestión de Cursos",
+          "subtitulo": "Control total",
+          "texto": "Administra módulos, contenidos y actividades fácilmente con herramientas intuitivas."
+        },
+        {
+          "titulo": "Seguimiento del Aprendizaje",
+          "subtitulo": "Resultados claros",
+          "texto": "Obtén informes detallados sobre el progreso y desempeño de los estudiantes."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#000"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "bloque",
+    "contenido": {
+      "titulo": "Facilidad de Acceso",
+      "subtitulo": "Disponible en cualquier momento y lugar",
+      "texto": "Accede a cursos y materiales desde cualquier dispositivo, promoviendo una experiencia de aprendizaje flexible y accesible.",
+      "imagen": "path_to_accessibility_image.jpg",
+      "fondo": "#f9f9f9"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f9f9f9"}
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Descubre Cómo Nuestro LMS Transforma la Educación",
+      "subtitulo": "Video explicativo",
+      "texto": "Conoce todas las funcionalidades de nuestra plataforma y cómo puede mejorar los procesos educativos en tu institución.",
+      "imagen": "path_to_video_thumbnail.jpg",
+      "fondo": "#e0e0e0",
+      "url": "TpcklC4DHkg"
+    },
+    "estilo": [
+      {"color": "#111"},
+      {"background": "#e0e0e0"}
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas Clave",
+      "subtitulo": "Por qué elegir nuestro LMS",
+      "texto": "Diseñado para facilitar la gestión educativa y mejorar los resultados de aprendizaje.",
+      "imagen": "path_to_benefits_image.jpg",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Interfaz Intuitiva",
+          "subtitulo": "Fácil de usar",
+          "texto": "La navegación sencilla permite a estudiantes y docentes concentrarse en lo importante."
+        },
+        {
+          "titulo": "Personalización Total",
+          "subtitulo": "Hecho a medida",
+          "texto": "Adapta la plataforma a las necesidades específicas de tu institución."
+        },
+        {
+          "titulo": "Seguridad Avanzada",
+          "subtitulo": "Protección de datos",
+          "texto": "Garantizamos la privacidad y la seguridad de toda la información almacenada."
+        },
+        {
+          "titulo": "Escalabilidad",
+          "subtitulo": "Crecimiento sin límites",
+          "texto": "Nuestro LMS está preparado para evolucionar junto con tu institución."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#444"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Casos de Éxito",
+      "subtitulo": "Cómo otros han transformado su enseñanza",
+      "texto": "Desde universidades hasta empresas, nuestro LMS está facilitando el aprendizaje en múltiples sectores.",
+      "imagen": "path_to_success_image.jpg",
+      "fondo": "#f3f3f3",
+      "columnas": [
+        {
+          "titulo": "Educación Superior",
+          "subtitulo": "Alcance global",
+          "texto": "Facilitando el aprendizaje en línea para miles de estudiantes alrededor del mundo."
+        },
+        {
+          "titulo": "Capacitación Corporativa",
+          "subtitulo": "Mayor productividad",
+          "texto": "Empresas han optimizado la formación de sus equipos con nuestra plataforma."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f3f3f3"}
+    ]
+  }
+]
+

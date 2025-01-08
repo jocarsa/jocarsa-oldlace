@@ -1,0 +1,122 @@
+[
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Renderizado 3D de Alta Calidad",
+			"subtitulo": "Transforma tus ideas en imágenes realistas e impactantes",
+			"texto": "El renderizado es el paso final para dar vida a los modelos 3D. En Jocarsa, utilizamos tecnología avanzada para producir imágenes y videos de alta calidad, realistas y detallados, ideales para presentaciones, marketing, y más. Nuestro enfoque combina creatividad y precisión técnica para garantizar que cada render sea perfecto.",
+			"imagen": "renderizado_principal.jpg",
+			"fondo": "fondo_renderizado.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "black"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Renderizado Fotorrealista",
+			"subtitulo": "Imágenes que parecen reales",
+			"texto": "Creamos imágenes y animaciones que destacan por su realismo, cuidando cada detalle como iluminación, materiales y texturas. Perfecto para arquitectura, diseño de productos y publicidad.",
+			"imagen": "render_fotorrealista.jpg",
+			"fondo": "fondo_caja_render.jpg"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "lightgray"}
+		]
+	},
+	{
+		"tipo": "doscolumnas",
+		"contenido": {
+			"titulo": "Tipos de Renderizado",
+			"subtitulo": "Adaptados a cada proyecto",
+			"texto": "Ofrecemos diferentes estilos y enfoques de renderizado según las necesidades de tu proyecto.",
+			"imagen": "render_tipos.jpg",
+			"fondo": "fondo_doscolumnas_render.jpg",
+			"columnas": [
+				{
+					"titulo": "Renderizado Estático",
+					"subtitulo": "Imágenes de alta calidad",
+					"texto": "Perfecto para presentaciones de productos o visualizaciones arquitectónicas."
+				},
+				{
+					"titulo": "Renderizado en Movimiento",
+					"subtitulo": "Videos animados",
+					"texto": "Ideal para demostrar funcionalidades o crear experiencias inmersivas."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "gray"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "mosaico",
+		"contenido": {
+			"titulo": "Beneficios del Renderizado 3D",
+			"subtitulo": "Ventajas para tus proyectos",
+			"texto": "El renderizado 3D aporta un nivel superior de presentación y comunicación visual.",
+			"imagen": "mosaico_render.jpg",
+			"fondo": "fondo_mosaico_render.jpg",
+			"bloques": [
+				{
+					"titulo": "Realismo Impactante",
+					"subtitulo": "Cautiva a tu audiencia",
+					"texto": "Representaciones fieles que generan confianza y atracción."
+				},
+				{
+					"titulo": "Versatilidad de Estilo",
+					"subtitulo": "Adapta tu mensaje",
+					"texto": "Desde minimalismo hasta entornos complejos con gran detalle."
+				},
+				{
+					"titulo": "Ahorro de Costes",
+					"subtitulo": "Optimiza recursos",
+					"texto": "Simula resultados finales sin necesidad de producir físicamente los objetos."
+				},
+				{
+					"titulo": "Rapidez",
+					"subtitulo": "Menos tiempo, más calidad",
+					"texto": "Resultados en tiempos ajustados a las necesidades de tu proyecto."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkgray"}
+		]
+	},
+	{
+		"tipo": "youtube",
+		"contenido": {
+			"titulo": "Ejemplo de Renderizado 3D",
+			"subtitulo": "Descubre el poder del renderizado",
+			"texto": "Mira cómo un modelo 3D se convierte en una imagen o animación realista. Este video muestra el proceso y los resultados.",
+			"imagen": "video_render_preview.jpg",
+			"fondo": "fondo_video_render.jpg",
+			"url": "https://www.youtube.com/watch?v=ejemplo_renderizado3d"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Procesos y Técnicas",
+			"subtitulo": "Calidad garantizada",
+			"texto": "Nuestro equipo domina técnicas como iluminación global, texturizado avanzado y renderizado en tiempo real para adaptarse a tus necesidades.",
+			"imagen": "tecnicas_renderizado.jpg",
+			"fondo": "fondo_tecnicas_render.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	}
+]
+

@@ -1,0 +1,108 @@
+[
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Modelado 3D Profesional",
+			"subtitulo": "Modelos tridimensionales que capturan la esencia de tus ideas",
+			"texto": "El modelado 3D es la base de muchos proyectos creativos e industriales. En Jocarsa, transformamos tus conceptos en modelos digitales detallados y precisos, utilizando herramientas de vanguardia y un enfoque artístico y técnico. Desde el diseño de productos hasta la visualización arquitectónica, garantizamos calidad, realismo y funcionalidad.",
+			"imagen": "modelado3d_principal.jpg",
+			"fondo": "fondo_modelado3d.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Servicios de Modelado 3D",
+			"subtitulo": "Soluciones adaptadas a diferentes industrias",
+			"texto": "Nuestros servicios cubren una amplia gama de necesidades: diseño de personajes para videojuegos, modelado de piezas mecánicas, mobiliario, y estructuras arquitectónicas. Nos adaptamos a las especificaciones técnicas y creativas de cada proyecto.",
+			"imagen": "modelado_servicios.jpg",
+			"fondo": "fondo_caja_modelado.jpg"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "lightgray"}
+		]
+	},
+	{
+		"tipo": "doscolumnas",
+		"contenido": {
+			"titulo": "Tecnologías y Enfoque",
+			"subtitulo": "Precisión técnica y creatividad artística",
+			"texto": "Utilizamos herramientas avanzadas y técnicas modernas para garantizar que cada modelo sea fiel a las especificaciones y necesidades del cliente.",
+			"imagen": "tecnologia_modelado.jpg",
+			"fondo": "fondo_doscolumnas.jpg",
+			"columnas": [
+				{
+					"titulo": "Software de Última Generación",
+					"subtitulo": "Diseño con precisión",
+					"texto": "Trabajamos con programas líderes como Blender, 3ds Max, Maya, y ZBrush para crear modelos de alta calidad."
+				},
+				{
+					"titulo": "Versatilidad de Uso",
+					"subtitulo": "Para cualquier sector",
+					"texto": "Nuestros modelos se adaptan a usos industriales, publicitarios, educativos y de entretenimiento."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "gray"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "mosaico",
+		"contenido": {
+			"titulo": "Aplicaciones del Modelado 3D",
+			"subtitulo": "Desde el diseño conceptual hasta la fabricación",
+			"texto": "Nuestros modelos tienen aplicaciones prácticas en diferentes sectores. Descubre cómo podemos ayudarte.",
+			"imagen": "mosaico_modelado.jpg",
+			"fondo": "fondo_mosaico.jpg",
+			"bloques": [
+				{
+					"titulo": "Visualización Arquitectónica",
+					"subtitulo": "Presenta tu proyecto",
+					"texto": "Modelos detallados para planos, edificios y estructuras."
+				},
+				{
+					"titulo": "Diseño de Producto",
+					"subtitulo": "Muestra cada detalle",
+					"texto": "Ideal para prototipos y marketing de productos."
+				},
+				{
+					"titulo": "Videojuegos",
+					"subtitulo": "Crea mundos inmersivos",
+					"texto": "Modelado de personajes, escenarios y objetos interactivos."
+				},
+				{
+					"titulo": "Impresión 3D",
+					"subtitulo": "Del modelo al objeto físico",
+					"texto": "Modelos listos para impresión con precisión milimétrica."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkgray"}
+		]
+	},
+	{
+		"tipo": "youtube",
+		"contenido": {
+			"titulo": "Modelado 3D en Acción",
+			"subtitulo": "Mira un ejemplo de nuestros proyectos",
+			"texto": "Conoce nuestro proceso y los resultados de un modelado 3D completo. Observa cómo convertimos una idea en realidad.",
+			"imagen": "video_preview_modelado.jpg",
+			"fondo": "fondo_video_modelado.jpg",
+			"url": "https://www.youtube.com/watch?v=ejemplo_modelado3d"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "white"}
+		]
+	}
+]
+

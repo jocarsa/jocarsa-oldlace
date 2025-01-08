@@ -1,0 +1,134 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Potencia la Experiencia de Usuario con Nuestro SaaS",
+      "subtitulo": "Gestión intuitiva de usuarios y datos personalizados",
+      "texto": "Diseñado para empresas que buscan simplicidad y eficiencia, este SaaS ofrece una solución completa para el manejo de usuarios, análisis personalizados y una interfaz de acceso amigable y segura.",
+      "imagen": "path_to_main_image.jpg",
+      "fondo": "#f4f4f4"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f4f4f4"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Un sistema que se adapta a tus necesidades",
+      "texto": "Nuestro SaaS combina herramientas avanzadas de gestión con análisis personalizados para ofrecerte control total sobre tus datos.",
+      "imagen": "path_to_features_image.jpg",
+      "fondo": "#ffffff",
+      "columnas": [
+        {
+          "titulo": "Gestión de Usuarios",
+          "subtitulo": "Registro y acceso simplificado",
+          "texto": "Ofrece a tus clientes una experiencia de registro e inicio de sesión fluida y segura."
+        },
+        {
+          "titulo": "Análisis Personalizados",
+          "subtitulo": "Gráficos y datos a medida",
+          "texto": "Obtén información valiosa con gráficos personalizables basados en tus métricas."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#000"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Conoce más sobre nuestra plataforma",
+      "subtitulo": "Video explicativo",
+      "texto": "Descubre cómo nuestra solución puede facilitar la gestión y análisis de datos para tu empresa.",
+      "imagen": "path_to_video_thumbnail.jpg",
+      "fondo": "#e0e0e0",
+      "url": "UPGHPABE07E"
+    },
+    "estilo": [
+      {"color": "#111"},
+      {"background": "#e0e0e0"}
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Por qué elegirnos",
+      "subtitulo": "Ventajas de nuestra plataforma",
+      "texto": "Ofrecemos beneficios clave que ayudan a optimizar tus operaciones empresariales.",
+      "imagen": "path_to_benefits_image.jpg",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Interfaz Amigable",
+          "subtitulo": "Fácil de usar",
+          "texto": "Un diseño limpio que facilita la navegación y el uso."
+        },
+        {
+          "titulo": "Seguridad Avanzada",
+          "subtitulo": "Protección de datos",
+          "texto": "Mantén tu información segura con encriptación y medidas avanzadas."
+        },
+        {
+          "titulo": "Personalización Total",
+          "subtitulo": "A tu medida",
+          "texto": "Adapta las funciones y el diseño a las necesidades específicas de tu negocio."
+        },
+        {
+          "titulo": "Soporte Técnico",
+          "subtitulo": "Siempre disponible",
+          "texto": "Recibe ayuda rápida y profesional cuando la necesites."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#444"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "caja",
+    "contenido": {
+      "titulo": "Resultados Comprobados",
+      "subtitulo": "Historias de éxito",
+      "texto": "Numerosas empresas han optimizado sus procesos y mejorado la satisfacción de sus usuarios gracias a nuestra plataforma.",
+      "imagen": "path_to_success_image.jpg",
+      "fondo": "#f9f9f9"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f9f9f9"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Adaptable y Escalable",
+      "subtitulo": "Crece con tu negocio",
+      "texto": "Nuestra solución está diseñada para evolucionar junto a las necesidades de tu empresa.",
+      "imagen": "path_to_growth_image.jpg",
+      "fondo": "#f3f3f3",
+      "columnas": [
+        {
+          "titulo": "Crecimiento Sin Límites",
+          "subtitulo": "Escalabilidad",
+          "texto": "La arquitectura de nuestra plataforma permite manejar grandes volúmenes de datos y usuarios."
+        },
+        {
+          "titulo": "Actualizaciones Constantes",
+          "subtitulo": "Siempre innovando",
+          "texto": "Recibe mejoras y nuevas funcionalidades de manera continua."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f3f3f3"}
+    ]
+  }
+]
+

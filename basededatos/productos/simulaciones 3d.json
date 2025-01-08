@@ -1,0 +1,136 @@
+[
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Simulaciones y Análisis en 3D",
+			"subtitulo": "Anticípate al futuro con soluciones virtuales",
+			"texto": "Las simulaciones y análisis en 3D permiten evaluar el comportamiento de sistemas, productos y procesos en entornos virtuales antes de implementarlos en el mundo real. En Jocarsa, utilizamos tecnología avanzada para realizar simulaciones precisas y análisis detallados, reduciendo riesgos y optimizando el diseño y la funcionalidad de tus proyectos.",
+			"imagen": "simulaciones_principal.jpg",
+			"fondo": "fondo_simulaciones.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Simulaciones Digitales",
+			"subtitulo": "Entornos virtuales para pruebas reales",
+			"texto": "Ofrecemos simulaciones en 3D para procesos industriales, diseño de productos y situaciones complejas. Reduce riesgos y costes al probar ideas en un entorno virtual seguro.",
+			"imagen": "simulaciones_digitales.jpg",
+			"fondo": "fondo_caja_simulaciones.jpg"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "lightgray"}
+		]
+	},
+	{
+		"tipo": "doscolumnas",
+		"contenido": {
+			"titulo": "Tipos de Simulaciones",
+			"subtitulo": "Adaptadas a tus necesidades",
+			"texto": "Ofrecemos una variedad de simulaciones en 3D diseñadas para diferentes sectores y aplicaciones.",
+			"imagen": "tipos_simulaciones.jpg",
+			"fondo": "fondo_doscolumnas_simulaciones.jpg",
+			"columnas": [
+				{
+					"titulo": "Simulación de Procesos",
+					"subtitulo": "Optimización en tiempo real",
+					"texto": "Evalúa y mejora procesos industriales o de fabricación con precisión milimétrica."
+				},
+				{
+					"titulo": "Simulación de Entornos",
+					"subtitulo": "Exploración segura",
+					"texto": "Simula condiciones reales para pruebas en sectores como la arquitectura y la ingeniería."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "gray"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "mosaico",
+		"contenido": {
+			"titulo": "Ventajas de las Simulaciones y Análisis",
+			"subtitulo": "Optimización y reducción de riesgos",
+			"texto": "Nuestros servicios ofrecen soluciones efectivas y precisas para tus proyectos.",
+			"imagen": "ventajas_simulaciones.jpg",
+			"fondo": "fondo_mosaico_simulaciones.jpg",
+			"bloques": [
+				{
+					"titulo": "Ahorro de Costes",
+					"subtitulo": "Prueba antes de construir",
+					"texto": "Evalúa proyectos antes de invertir en producción física."
+				},
+				{
+					"titulo": "Mejora de Eficiencia",
+					"subtitulo": "Identifica puntos críticos",
+					"texto": "Optimiza el diseño y funcionamiento de sistemas complejos."
+				},
+				{
+					"titulo": "Predicción Precisa",
+					"subtitulo": "Minimiza riesgos",
+					"texto": "Simula escenarios realistas para prevenir fallos y problemas futuros."
+				},
+				{
+					"titulo": "Flexibilidad",
+					"subtitulo": "Pruebas sin límites",
+					"texto": "Explora múltiples alternativas sin riesgos asociados."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkgray"}
+		]
+	},
+	{
+		"tipo": "youtube",
+		"contenido": {
+			"titulo": "Simulaciones en 3D",
+			"subtitulo": "Un ejemplo práctico de nuestras capacidades",
+			"texto": "Observa cómo las simulaciones en 3D pueden transformar la forma en que planificas y ejecutas proyectos.",
+			"imagen": "video_simulaciones_preview.jpg",
+			"fondo": "fondo_video_simulaciones.jpg",
+			"url": "https://www.youtube.com/watch?v=ejemplo_simulaciones"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Análisis Detallado",
+			"subtitulo": "Datos precisos para decisiones informadas",
+			"texto": "Realizamos análisis exhaustivos en áreas como aerodinámica, estructuras y flujos de trabajo, utilizando herramientas avanzadas de simulación.",
+			"imagen": "analisis_digital.jpg",
+			"fondo": "fondo_caja_analisis.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Simulaciones en Diversas Industrias",
+			"subtitulo": "Aplica nuestras soluciones a cualquier sector",
+			"texto": "Desde la ingeniería civil hasta la automotriz y el sector médico, nuestras simulaciones están diseñadas para satisfacer las necesidades de diversas industrias. Trabajamos contigo para garantizar que cada simulación sea relevante y útil para tus objetivos específicos.",
+			"imagen": "industria_simulaciones.jpg",
+			"fondo": "fondo_industria_simulaciones.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "black"}
+		]
+	}
+]
+

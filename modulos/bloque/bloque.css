@@ -1,0 +1,148 @@
+.completo{
+	width:100%;
+	text-align:center;
+	box-sizing:border-box;
+	padding:20px;
+	height:600px;
+	background:rgb(240,240,240);
+	margin-bottom:20px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;
+	color:white;
+}
+.completo .texto{
+	margin:auto;
+	width:1024px;
+}
+.caja{
+	width:1024px;
+	text-align:justify;
+	box-sizing:border-box;
+	padding:20px;
+	height:600px;
+	background:rgb(240,240,240);
+	margin:auto;
+	margin-bottom:20px;
+}
+.doscolumnas{
+	width:800px;
+	text-align:justify;
+	box-sizing:border-box;
+	padding:20px;
+	height:200px;
+	background:rgb(240,240,240);
+	margin:auto;
+	margin-bottom:20px;
+	display:flex;
+	justify-content: space-between;
+}
+.doscolumnas div{
+	width:48%;
+	background:white;
+	gap:20px;
+}
+.celda{
+	width:49%;
+	background:rgb(250,250,250);
+	min-height:300px;
+	box-sizing:border-box;
+	padding:20px;
+	margin-bottom:10px;
+	width:100%;
+}
+.mosaico{
+	width:800px;
+	text-align:justify;
+	box-sizing:border-box;
+	padding:20px;
+	min-height:200px;
+	background:rgb(240,240,240);
+	margin:auto;
+	
+}
+.rejilla{
+	display:grid;
+	grid-template-columns: auto auto;
+	gap:20px;
+}
+.bloque h3{
+	font-size:48px;
+}
+iframe{
+	width:100%;
+	height:100%;
+}
+.doscolumnastexto{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: stretch;
+	align-content: stretch;
+	gap:20px;
+	height:100%;
+}
+.doscolumnastexto p{
+	background:white;
+	padding:20px;
+	height:40%;
+	width:50%;
+}
+.contenedorpasafotos{
+	width:3300px;
+	height:100%;
+	position:relative;
+	left:0px;
+	transition:all 1s;
+}
+.contenedorpasafotos article{
+	width:800px;
+	display:inline-block;
+	height:100%;
+	border:0px solid grey;
+	padding:0px;
+	margin:0px;
+	margin-right:-3px;
+	
+}
+.contenedorpasafotos article .texto{
+	width:100%;
+	height:100%;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;
+}
+.controlador{
+	width:100px;
+	height:40px;
+	background:blue;
+	border-radius:30px;
+	margin:auto;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: stretch;
+	padding:10px;
+}
+.controlador button{
+	font-size:1px;
+	background:white;
+	border:none;
+	width:5px;
+	height:12px;
+	display:block;
+	border-radius:10px;
+}
+.cajapasafotos{
+	padding:0px;
+}
+

@@ -1,0 +1,23 @@
+{
+    "cliente": {
+        "nombre": "Juan",
+        "apellidos": "Lopez Martinez",
+        "email": "juan@lopez.com"
+    },
+    "pedido": {
+        "fecha": "2024-12-18",
+        "numerodepedido": "20241218152947"
+    },
+    "productos": [
+        {
+            "nombre": "AliceBlue",
+            "descripcion": "Software para digital proctoring en exámenes",
+            "precio": "90.00"
+        },
+        {
+            "nombre": "DarkKhaki",
+            "descripcion": "Aplicación de toma de notas",
+            "precio": "20.00"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "cliente": {
+        "nombre": "Jose Vicente",
+        "apellidos": "Carratala",
+        "email": "info@josevicentecarratala.com"
+    },
+    "pedido": {
+        "fecha": "2024-12-18",
+        "numerodepedido": "20241218153212"
+    },
+    "productos": [
+        {
+            "nombre": "AliceBlue",
+            "descripcion": "Software para digital proctoring en exámenes",
+            "precio": "90.00"
+        },
+        {
+            "nombre": "DarkKhaki",
+            "descripcion": "Aplicación de toma de notas",
+            "precio": "20.00"
+        }
+    ]
+}

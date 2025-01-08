@@ -1,0 +1,136 @@
+[
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Visualización Médica y Científica en 3D",
+			"subtitulo": "Explora y comprende el mundo desde una nueva perspectiva",
+			"texto": "La visualización médica y científica en 3D permite una representación clara y precisa de datos complejos. En Jocarsa, transformamos información médica y científica en modelos y animaciones tridimensionales de alta calidad, facilitando la comprensión, la educación y la comunicación de ideas en estas áreas tan críticas.",
+			"imagen": "visualizacion_medica_principal.jpg",
+			"fondo": "fondo_visualizacion_medica.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Modelos Anatómicos en 3D",
+			"subtitulo": "Detallados y realistas",
+			"texto": "Creamos modelos anatómicos tridimensionales para educación médica, investigaciones y simulaciones quirúrgicas. Nuestros modelos son precisos, interactivos y adaptables a diversas aplicaciones.",
+			"imagen": "modelos_anatomicos.jpg",
+			"fondo": "fondo_caja_visualizacion.jpg"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "lightgray"}
+		]
+	},
+	{
+		"tipo": "doscolumnas",
+		"contenido": {
+			"titulo": "Áreas de Aplicación",
+			"subtitulo": "Soluciones para medicina y ciencia",
+			"texto": "Nuestras visualizaciones 3D son útiles en múltiples áreas, desde la educación hasta la investigación avanzada.",
+			"imagen": "aplicaciones_medicas.jpg",
+			"fondo": "fondo_doscolumnas_visualizacion.jpg",
+			"columnas": [
+				{
+					"titulo": "Educación Médica",
+					"subtitulo": "Aprendizaje interactivo",
+					"texto": "Modelos para anatomía, fisiología y procedimientos quirúrgicos."
+				},
+				{
+					"titulo": "Investigación Científica",
+					"subtitulo": "Comunicación precisa",
+					"texto": "Representación de datos científicos complejos en 3D para una mejor comprensión."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "gray"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "mosaico",
+		"contenido": {
+			"titulo": "Ventajas de la Visualización en 3D",
+			"subtitulo": "Beneficios para las áreas médica y científica",
+			"texto": "Descubre cómo nuestras soluciones 3D aportan valor a tus proyectos.",
+			"imagen": "ventajas_visualizacion.jpg",
+			"fondo": "fondo_mosaico_visualizacion.jpg",
+			"bloques": [
+				{
+					"titulo": "Comprensión Mejorada",
+					"subtitulo": "Más claridad",
+					"texto": "Modelos detallados que facilitan la comunicación de conceptos complejos."
+				},
+				{
+					"titulo": "Interactividad",
+					"subtitulo": "Exploración directa",
+					"texto": "Permite manipular modelos y realizar simulaciones para un aprendizaje más efectivo."
+				},
+				{
+					"titulo": "Precisión",
+					"subtitulo": "Resultados confiables",
+					"texto": "Representaciones exactas basadas en datos médicos y científicos reales."
+				},
+				{
+					"titulo": "Presentación Profesional",
+					"subtitulo": "Impacto visual",
+					"texto": "Cautiva a tu audiencia con modelos y animaciones de alta calidad."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkgray"}
+		]
+	},
+	{
+		"tipo": "youtube",
+		"contenido": {
+			"titulo": "Visualización Médica y Científica",
+			"subtitulo": "Un ejemplo práctico de nuestras capacidades",
+			"texto": "Observa cómo utilizamos la visualización 3D para mejorar la comprensión y comunicación en áreas médicas y científicas.",
+			"imagen": "video_visualizacion_preview.jpg",
+			"fondo": "fondo_video_visualizacion.jpg",
+			"url": "https://www.youtube.com/watch?v=ejemplo_visualizacion_medica"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Soluciones Personalizadas",
+			"subtitulo": "Adaptadas a tus necesidades",
+			"texto": "Colaboramos contigo para desarrollar soluciones 3D específicas que se adapten perfectamente a los objetivos de tu proyecto.",
+			"imagen": "soluciones_personalizadas.jpg",
+			"fondo": "fondo_caja_personalizadas.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Visualizaciones para Publicaciones Científicas",
+			"subtitulo": "Comunica tus descubrimientos con claridad",
+			"texto": "Producimos gráficos y animaciones en 3D que ilustran tus hallazgos científicos de manera atractiva y comprensible, ideales para presentaciones, publicaciones y conferencias.",
+			"imagen": "publicaciones_cientificas.jpg",
+			"fondo": "fondo_publicaciones.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "black"}
+		]
+	}
+]
+

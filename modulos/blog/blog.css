@@ -1,0 +1,53 @@
+/* Container: 6-column Grid */
+#contienearticulos {
+  margin: auto;
+  width: 1024px;         /* adjust as needed */
+  margin-top: 100px;
+  display: grid;         /* use CSS grid */
+  grid-template-columns: repeat(6, 1fr); /* 6 equal columns */
+  gap: 30px;
+}
+
+/* FIRST post => full width = spans all 6 columns */
+#contienearticulos > article:first-child {
+  grid-column: 1 / 7; /* from column 1 to column 7 => all 6 columns */
+  display: flex;      /* your existing styling for the first item */
+  height: 300px;
+  width: 100%;
+}
+
+/* The first post’s image (optional styling carried over) */
+#contienearticulos > article:first-child img {
+  width: 60%;
+  height: auto;
+}
+
+/* Posts #2–5 => each occupies half (3 out of 6 columns = 50%) */
+#contienearticulos > article:nth-child(2),
+#contienearticulos > article:nth-child(3),
+#contienearticulos > article:nth-child(4),
+#contienearticulos > article:nth-child(5) {
+  grid-column: span 3; /* each takes 3 columns => 50% */
+}
+
+/* From post #6 onwards => each occupies 1/3 (2 out of 6 columns = ~33%) */
+#contienearticulos > article:nth-child(n+6) {
+  grid-column: span 2; /* each takes 2 columns => ~33% */
+}
+
+/* General article styling for all posts */
+#contienearticulos article {
+  background: white;
+  box-sizing: border-box;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#contienearticulos article img {
+  width: 100%;
+}
+
+#contienearticulos article .texto {
+  box-sizing: border-box;
+  padding: 20px;
+}

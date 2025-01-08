@@ -1,0 +1,134 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Crea tu Propio Sistema de Gestión Empresarial sin Saber Programar",
+      "subtitulo": "Diseña y personaliza sistemas adaptados a tus necesidades en minutos",
+      "texto": "Nuestro creador de sistemas de gestión empresarial ofrece una solución intuitiva y potente para empresas que buscan automatizar y organizar procesos, sin necesidad de conocimientos técnicos.",
+      "imagen": "path_to_main_image.jpg",
+      "fondo": "#f4f4f4"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f4f4f4"}
+    ]
+  },
+  {
+    "tipo": "bloque",
+    "contenido": {
+      "titulo": "Personalización Completa",
+      "subtitulo": "Diseñado a tu medida",
+      "texto": "Configura tablas, relaciones y colores corporativos para reflejar la identidad y las necesidades de tu empresa.",
+      "imagen": "path_to_customization_image.jpg",
+      "fondo": "#ffffff"
+    },
+    "estilo": [
+      {"color": "#000"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Funciones Clave",
+      "subtitulo": "Potente, intuitivo y escalable",
+      "texto": "Diseña sistemas empresariales para gestionar procesos y datos con facilidad.",
+      "imagen": "path_to_features_image.jpg",
+      "fondo": "#f9f9f9",
+      "columnas": [
+        {
+          "titulo": "Creador de Tablas",
+          "subtitulo": "Organización simplificada",
+          "texto": "Crea tablas con columnas personalizadas y define relaciones con claves foráneas sin complicaciones."
+        },
+        {
+          "titulo": "Gestión Intuitiva",
+          "subtitulo": "Fácil de usar",
+          "texto": "Administra datos y estructuras con una interfaz diseñada para maximizar la productividad."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f9f9f9"}
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Conoce Cómo Funciona Nuestra Herramienta",
+      "subtitulo": "Video explicativo",
+      "texto": "Descubre cómo puedes crear y personalizar sistemas de gestión para tu empresa sin conocimientos técnicos.",
+      "imagen": "path_to_video_thumbnail.jpg",
+      "fondo": "#e0e0e0",
+      "url": "KGK6arHlbgk"
+    },
+    "estilo": [
+      {"color": "#111"},
+      {"background": "#e0e0e0"}
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Por Qué Elegir Nuestra Plataforma",
+      "subtitulo": "Beneficios Clave",
+      "texto": "Simplifica la creación y gestión de sistemas empresariales con estas ventajas únicas.",
+      "imagen": "path_to_benefits_image.jpg",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Flexibilidad",
+          "subtitulo": "Adaptado a tus necesidades",
+          "texto": "Crea sistemas personalizados para gestionar cualquier aspecto de tu negocio."
+        },
+        {
+          "titulo": "Sin Conocimientos Técnicos",
+          "subtitulo": "Fácil de usar",
+          "texto": "No necesitas experiencia en programación para comenzar a utilizar nuestra herramienta."
+        },
+        {
+          "titulo": "Escalabilidad",
+          "subtitulo": "Crecimiento asegurado",
+          "texto": "Nuestro sistema crece contigo, adaptándose a las necesidades de tu empresa."
+        },
+        {
+          "titulo": "Soporte Técnico",
+          "subtitulo": "Siempre contigo",
+          "texto": "Recibe asistencia profesional para resolver cualquier duda o problema."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#444"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Casos de Éxito",
+      "subtitulo": "Cómo otros están utilizando nuestra plataforma",
+      "texto": "Empresas de diferentes sectores están aprovechando nuestra herramienta para mejorar su gestión interna.",
+      "imagen": "path_to_success_image.jpg",
+      "fondo": "#f3f3f3",
+      "columnas": [
+        {
+          "titulo": "Pequeñas Empresas",
+          "subtitulo": "Eficiencia mejorada",
+          "texto": "Empresas locales han optimizado su flujo de trabajo y organización gracias a nuestro sistema."
+        },
+        {
+          "titulo": "Startups",
+          "subtitulo": "Crecimiento acelerado",
+          "texto": "Startups han utilizado nuestra herramienta para gestionar procesos de manera ágil y eficiente."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f3f3f3"}
+    ]
+  }
+]
+

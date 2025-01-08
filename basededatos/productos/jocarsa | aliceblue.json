@@ -1,0 +1,134 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Transforma la Evaluación con Nuestra Plataforma de Digital Proctoring",
+      "subtitulo": "Una solución segura y eficiente para evaluaciones en línea",
+      "texto": "Nuestra plataforma combina herramientas avanzadas de supervisión digital con funcionalidades específicas para estudiantes y administradores, asegurando transparencia y facilidad de uso en todo el proceso de evaluación.",
+      "imagen": "path_to_main_image.jpg",
+      "fondo": "#f4f4f4"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f4f4f4"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Adaptado para Estudiantes y Profesores",
+      "subtitulo": "Roles claros y herramientas específicas",
+      "texto": "Nuestra plataforma se adapta a las necesidades de estudiantes y profesores, ofreciendo experiencias personalizadas según el rol.",
+      "imagen": "path_to_roles_image.jpg",
+      "fondo": "#ffffff",
+      "columnas": [
+        {
+          "titulo": "Para Estudiantes",
+          "subtitulo": "Una experiencia sencilla",
+          "texto": "Accede a tus evaluaciones con facilidad, sigue instrucciones claras y realiza tus pruebas en un entorno supervisado seguro."
+        },
+        {
+          "titulo": "Para Profesores",
+          "subtitulo": "Gestión eficiente",
+          "texto": "Administra pruebas, monitorea resultados y mantén el control total de tus evaluaciones con herramientas avanzadas."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#000"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Descubre cómo funciona nuestra solución",
+      "subtitulo": "Video demostrativo",
+      "texto": "Conoce las funcionalidades principales de nuestra plataforma y cómo puede facilitar evaluaciones remotas seguras y efectivas.",
+      "imagen": "path_to_video_thumbnail.jpg",
+      "fondo": "#e0e0e0",
+      "url": "https://www.youtube.com/watch?v=your_video_id"
+    },
+    "estilo": [
+      {"color": "#111"},
+      {"background": "#e0e0e0"}
+    ]
+  },
+  {
+    "tipo": "bloque",
+    "contenido": {
+      "titulo": "Supervisión en Tiempo Real",
+      "subtitulo": "Seguridad avanzada para evaluaciones en línea",
+      "texto": "Nuestra tecnología de proctoring digital garantiza la integridad académica mediante monitoreo en vivo y grabaciones automáticas, adaptándose a las políticas de cada institución.",
+      "imagen": "path_to_monitoring_image.jpg",
+      "fondo": "#f9f9f9"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f9f9f9"}
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Beneficios Clave",
+      "subtitulo": "Por qué elegir nuestra plataforma",
+      "texto": "Nuestra solución está diseñada para ofrecer la máxima seguridad, eficiencia y facilidad de uso.",
+      "imagen": "path_to_benefits_image.jpg",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Acceso Seguro",
+          "subtitulo": "Protección total",
+          "texto": "Control de acceso avanzado para garantizar que solo usuarios autorizados ingresen."
+        },
+        {
+          "titulo": "Automatización Inteligente",
+          "subtitulo": "Ahorro de tiempo",
+          "texto": "Automatiza tareas repetitivas para que los profesores puedan enfocarse en lo importante."
+        },
+        {
+          "titulo": "Análisis Detallados",
+          "subtitulo": "Resultados claros",
+          "texto": "Genera informes detallados y monitorea el progreso de tus estudiantes."
+        },
+        {
+          "titulo": "Soporte Técnico",
+          "subtitulo": "Siempre disponible",
+          "texto": "Contamos con un equipo dedicado para resolver cualquier inconveniente rápidamente."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#444"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Resultados Tangibles",
+      "subtitulo": "Beneficios comprobados",
+      "texto": "Nuestra plataforma ha transformado la manera en que las instituciones realizan evaluaciones digitales.",
+      "imagen": "path_to_results_image.jpg",
+      "fondo": "#f3f3f3",
+      "columnas": [
+        {
+          "titulo": "Incremento en la Eficiencia",
+          "subtitulo": "50% menos tiempo",
+          "texto": "Instituciones han reportado una disminución significativa en el tiempo de administración de evaluaciones."
+        },
+        {
+          "titulo": "Satisfacción Estudiantil",
+          "subtitulo": "Más comodidad",
+          "texto": "Los estudiantes valoran la facilidad y accesibilidad de las pruebas en línea."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f3f3f3"}
+    ]
+  }
+]
+

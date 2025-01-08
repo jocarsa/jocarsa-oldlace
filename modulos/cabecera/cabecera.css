@@ -1,0 +1,96 @@
+html,body{
+	padding:0px;
+	margin:0px;
+}
+header{
+	height:44px !important;				/* Altura de la barra */
+	position:fixed;
+	top:0px;
+	width:100%;
+	background:white;
+	box-shadow:0px 2px 4px rgba(0,0,0,0.3);
+	transition:all 1s;
+	z-index:100000;
+	overflow:hidden;
+}
+
+.grande{
+	height:240px !important;
+}
+header .contenedor{
+	text-align:center;
+}
+header .contenedor img{
+	width:30px;
+	display:inline-block;
+	margin-top:6px;
+}
+header .contenedor nav{
+	display:inline-block;
+	vertical-align:top;
+}
+header .contenedor nav ul{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+header .contenedor nav ul li{
+	display:inline-block;
+	margin:0px 12px;
+	line-height:44px;
+	font-size:12px;
+}
+header .contenedor ul li a{
+	text-decoration:none;
+	color:inherit;
+}
+#supermenu{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	align-content: stretch;
+}
+#supermenu .columna{
+	width:100%;
+	column-count:4;
+	padding:40px;
+	box-sizing:border-box;
+}
+#supermenu{
+	
+	text-align:left;
+}
+#supermenu ul{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+#supermenu ul li{
+	line-height:26px;
+}
+.difuminado{
+	filter:blur(10px);
+}
+main{
+	transition:all 1s;
+}
+
+h1{
+	display:inline-block;
+	padding:0px;
+	margin:0px;
+	color:indigo;
+	font-size:14px;
+	position:relative;
+	top:-10px;
+}
+#corporativo{
+	display: inline-block; /* This makes the container behave as an inline-block element */
+  vertical-align: top;
+  margin-right:10px;
+}
+
+
+

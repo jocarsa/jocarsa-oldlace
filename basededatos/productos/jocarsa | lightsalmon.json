@@ -1,0 +1,134 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Organiza tu Tiempo con Nuestro Calendario Online",
+      "subtitulo": "La solución perfecta para gestionar tus eventos y agendas",
+      "texto": "Nuestro software de calendario online está diseñado para simplificar la organización personal y profesional, integrándose a la perfección en tu flujo de trabajo diario.",
+      "imagen": "path_to_main_image.jpg",
+      "fondo": "#f4f4f4"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f4f4f4"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Funciones Esenciales",
+      "subtitulo": "Todo lo que necesitas en un calendario",
+      "texto": "Nuestro software ofrece herramientas avanzadas para que puedas administrar tu tiempo de manera eficiente.",
+      "imagen": "path_to_features_image.jpg",
+      "fondo": "#ffffff",
+      "columnas": [
+        {
+          "titulo": "Gestión de Eventos",
+          "subtitulo": "Crea y personaliza",
+          "texto": "Añade, edita y organiza eventos fácilmente con opciones de repetición y recordatorios."
+        },
+        {
+          "titulo": "Colaboración en Equipo",
+          "subtitulo": "Comparte agendas",
+          "texto": "Permite a equipos compartir y coordinar sus calendarios en tiempo real."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#000"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "bloque",
+    "contenido": {
+      "titulo": "Accesibilidad Multiplataforma",
+      "subtitulo": "Siempre a tu alcance",
+      "texto": "Accede a tu calendario desde cualquier dispositivo, ya sea en la oficina, en casa o en movimiento.",
+      "imagen": "path_to_accessibility_image.jpg",
+      "fondo": "#f9f9f9"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f9f9f9"}
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Conoce cómo nuestra herramienta puede ayudarte",
+      "subtitulo": "Video explicativo",
+      "texto": "Descubre todas las funcionalidades y beneficios de nuestro calendario online, diseñado para simplificar tu día a día.",
+      "imagen": "path_to_video_thumbnail.jpg",
+      "fondo": "#e0e0e0",
+      "url": "l8Lho0RL7_0"
+    },
+    "estilo": [
+      {"color": "#111"},
+      {"background": "#e0e0e0"}
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Beneficios Clave",
+      "subtitulo": "Por qué elegir nuestra plataforma",
+      "texto": "Nuestro calendario online está diseñado para ofrecerte una experiencia fluida y eficiente.",
+      "imagen": "path_to_benefits_image.jpg",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Interfaz Intuitiva",
+          "subtitulo": "Fácil de usar",
+          "texto": "Una experiencia diseñada para que cualquier usuario pueda dominarla rápidamente."
+        },
+        {
+          "titulo": "Notificaciones Inteligentes",
+          "subtitulo": "Nunca olvides un evento",
+          "texto": "Recibe recordatorios personalizados para mantenerte siempre al día."
+        },
+        {
+          "titulo": "Sincronización en Tiempo Real",
+          "subtitulo": "Siempre actualizado",
+          "texto": "Tus eventos y cambios se sincronizan instantáneamente entre dispositivos."
+        },
+        {
+          "titulo": "Seguridad Avanzada",
+          "subtitulo": "Protección de datos",
+          "texto": "Garantizamos la privacidad y seguridad de toda tu información."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#444"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Casos de Éxito",
+      "subtitulo": "Cómo otros están utilizando nuestro calendario",
+      "texto": "Organizaciones y profesionales han optimizado su gestión del tiempo gracias a nuestra herramienta.",
+      "imagen": "path_to_success_image.jpg",
+      "fondo": "#f3f3f3",
+      "columnas": [
+        {
+          "titulo": "Pequeñas Empresas",
+          "subtitulo": "Mayor productividad",
+          "texto": "Han mejorado la coordinación entre equipos y departamentos." 
+        },
+        {
+          "titulo": "Usuarios Individuales",
+          "subtitulo": "Menos estrés",
+          "texto": "Han logrado organizar sus agendas personales y profesionales con facilidad."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f3f3f3"}
+    ]
+  }
+]
+

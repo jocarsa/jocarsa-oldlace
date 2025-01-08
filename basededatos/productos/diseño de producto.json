@@ -1,0 +1,136 @@
+[
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Diseño de Producto y Prototipos Digitales",
+			"subtitulo": "Concreta tus ideas con precisión y funcionalidad",
+			"texto": "El diseño de producto y los prototipos digitales en 3D permiten visualizar y perfeccionar ideas antes de pasar a la producción. En Jocarsa, desarrollamos diseños detallados y prototipos funcionales que te ayudan a validar conceptos, reducir costes y optimizar tu proceso de desarrollo.",
+			"imagen": "diseno_producto_principal.jpg",
+			"fondo": "fondo_diseno_producto.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Diseño de Producto",
+			"subtitulo": "Soluciones creativas y prácticas",
+			"texto": "Trabajamos contigo para diseñar productos innovadores que combinan estética, funcionalidad y viabilidad técnica. Desde la conceptualización hasta los detalles finales, nuestro equipo está comprometido con la excelencia.",
+			"imagen": "diseno_producto.jpg",
+			"fondo": "fondo_caja_diseno.jpg"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "lightgray"}
+		]
+	},
+	{
+		"tipo": "doscolumnas",
+		"contenido": {
+			"titulo": "Prototipos Digitales",
+			"subtitulo": "Visualiza y prueba antes de producir",
+			"texto": "Creamos prototipos digitales interactivos que te permiten experimentar, evaluar y ajustar tus ideas antes de la fabricación.",
+			"imagen": "prototipos_digitales.jpg",
+			"fondo": "fondo_doscolumnas_prototipos.jpg",
+			"columnas": [
+				{
+					"titulo": "Prototipado 3D",
+					"subtitulo": "Precisión y detalle",
+					"texto": "Prototipos detallados que replican el diseño y funcionalidad del producto final."
+				},
+				{
+					"titulo": "Optimización de Diseño",
+					"subtitulo": "Pruebas y mejoras",
+					"texto": "Identifica áreas de mejora antes de la producción en masa."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "gray"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "mosaico",
+		"contenido": {
+			"titulo": "Beneficios del Diseño y Prototipado Digital",
+			"subtitulo": "Mejora tu proceso de desarrollo",
+			"texto": "El diseño digital y los prototipos en 3D ofrecen múltiples ventajas para acelerar y perfeccionar tus productos.",
+			"imagen": "beneficios_prototipado.jpg",
+			"fondo": "fondo_mosaico_prototipado.jpg",
+			"bloques": [
+				{
+					"titulo": "Validación Temprana",
+					"subtitulo": "Evita errores costosos",
+					"texto": "Evalúa y ajusta tus diseños en las etapas iniciales del proyecto."
+				},
+				{
+					"titulo": "Ahorro de Costes",
+					"subtitulo": "Optimización del presupuesto",
+					"texto": "Reduce el riesgo de producir versiones no funcionales o defectuosas."
+				},
+				{
+					"titulo": "Personalización",
+					"subtitulo": "Ajustado a tus necesidades",
+					"texto": "Desarrollamos prototipos que reflejan fielmente tus especificaciones y objetivos."
+				},
+				{
+					"titulo": "Escalabilidad",
+					"subtitulo": "Desde el concepto al producto final",
+					"texto": "Prototipos que sirven como base para la producción en masa."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkgray"}
+		]
+	},
+	{
+		"tipo": "youtube",
+		"contenido": {
+			"titulo": "Diseño y Prototipado en Acción",
+			"subtitulo": "Un ejemplo práctico de nuestro trabajo",
+			"texto": "Mira cómo transformamos una idea en un diseño digital y prototipo funcional. Nuestro video muestra el proceso paso a paso.",
+			"imagen": "video_diseno_prototipado.jpg",
+			"fondo": "fondo_video_diseno.jpg",
+			"url": "https://www.youtube.com/watch?v=ejemplo_diseno_prototipado"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Herramientas y Tecnologías",
+			"subtitulo": "Innovación al servicio de tu proyecto",
+			"texto": "Utilizamos las mejores herramientas de diseño y prototipado, como CAD, impresión 3D, y renderizado avanzado, para garantizar precisión y calidad.",
+			"imagen": "herramientas_diseno.jpg",
+			"fondo": "fondo_herramientas_diseno.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Adaptabilidad a Diversas Industrias",
+			"subtitulo": "Diseño y prototipado para cualquier sector",
+			"texto": "Desde productos de consumo hasta herramientas industriales, nuestro equipo tiene la experiencia y los recursos necesarios para abordar proyectos en una amplia variedad de industrias, garantizando resultados excepcionales.",
+			"imagen": "diseno_industria.jpg",
+			"fondo": "fondo_industria_diseno.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "black"}
+		]
+	}
+]
+

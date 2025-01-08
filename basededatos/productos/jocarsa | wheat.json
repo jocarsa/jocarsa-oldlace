@@ -1,0 +1,134 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Revoluciona la Gestión de Contenido Empresarial",
+      "subtitulo": "La solución SaaS más completa para simplificar procesos y potenciar la colaboración",
+      "texto": "Nuestro sistema combina un editor intuitivo, herramientas avanzadas de gestión y una interfaz adaptable para cubrir todas las necesidades de tu empresa.",
+      "imagen": "path_to_main_image.jpg",
+      "fondo": "#f4f4f4"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f4f4f4"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Potente y Flexible",
+      "subtitulo": "Todo lo que necesitas en un solo lugar",
+      "texto": "Nuestro SaaS integra herramientas diseñadas para optimizar tu flujo de trabajo y centralizar tus operaciones.",
+      "imagen": "path_to_features_image.jpg",
+      "fondo": "#ffffff",
+      "columnas": [
+        {
+          "titulo": "Editor WYSIWYG",
+          "subtitulo": "Edición avanzada",
+          "texto": "Crea y edita contenido fácilmente con una interfaz amigable y moderna."
+        },
+        {
+          "titulo": "Gestión Centralizada",
+          "subtitulo": "Control total",
+          "texto": "Administra contenido y bases de datos desde una plataforma única."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#000"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Explora nuestro SaaS en acción",
+      "subtitulo": "Video introductorio",
+      "texto": "Descubre cómo nuestra solución puede transformar tu manera de trabajar.",
+      "imagen": "path_to_video_thumbnail.jpg",
+      "fondo": "#e0e0e0",
+      "url": "StcmnWNDC6c"
+    },
+    "estilo": [
+      {"color": "#111"},
+      {"background": "#e0e0e0"}
+    ]
+  },
+  {
+    "tipo": "caja",
+    "contenido": {
+      "titulo": "Diseñado para Equipos",
+      "subtitulo": "Colabora de manera eficiente",
+      "texto": "Nuestra herramienta permite que múltiples usuarios trabajen simultáneamente, mejorando la comunicación y reduciendo errores.",
+      "imagen": "path_to_collaboration_image.jpg",
+      "fondo": "#f9f9f9"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f9f9f9"}
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Principales Beneficios",
+      "subtitulo": "Lo que nos hace diferentes",
+      "texto": "Estas son algunas de las razones por las que nuestro SaaS es la opción ideal para tu empresa.",
+      "imagen": "path_to_benefits_image.jpg",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Personalización",
+          "subtitulo": "Hecho a medida",
+          "texto": "Adapta cada aspecto a las necesidades específicas de tu negocio."
+        },
+        {
+          "titulo": "Seguridad",
+          "subtitulo": "Protección garantizada",
+          "texto": "Tu información estará siempre segura con nosotros."
+        },
+        {
+          "titulo": "Escalabilidad",
+          "subtitulo": "Crece con tu negocio",
+          "texto": "Nuestro sistema se ajusta a las demandas de tu empresa."
+        },
+        {
+          "titulo": "Soporte Dedicado",
+          "subtitulo": "Siempre contigo",
+          "texto": "Contarás con ayuda profesional en todo momento."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#444"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Resultados Tangibles",
+      "subtitulo": "Casos de éxito",
+      "texto": "Nuestro SaaS ha ayudado a empresas de diversos sectores a optimizar sus procesos y aumentar su productividad.",
+      "imagen": "path_to_results_image.jpg",
+      "fondo": "#f3f3f3",
+      "columnas": [
+        {
+          "titulo": "Incremento de Productividad",
+          "subtitulo": "50% más rápido",
+          "texto": "Empresas han reducido el tiempo de gestión en la mitad."
+        },
+        {
+          "titulo": "Mayor Organización",
+          "subtitulo": "Todo bajo control",
+          "texto": "La centralización de datos mejora la toma de decisiones."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f3f3f3"}
+    ]
+  }
+]
+

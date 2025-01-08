@@ -1,0 +1,122 @@
+[
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Animación 3D Profesional",
+			"subtitulo": "Dale movimiento y vida a tus ideas",
+			"texto": "La animación 3D es una herramienta poderosa para contar historias, presentar productos y crear experiencias visuales impactantes. En Jocarsa, transformamos conceptos en animaciones dinámicas que cautivan al público, combinando creatividad, tecnología y atención al detalle.",
+			"imagen": "animacion3d_principal.jpg",
+			"fondo": "fondo_animacion3d.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "black"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Nuestros Servicios de Animación",
+			"subtitulo": "Soluciones creativas para cada necesidad",
+			"texto": "Desde animaciones promocionales hasta contenido educativo y proyectos de entretenimiento, ofrecemos servicios personalizados para diferentes industrias. Creamos animaciones de personajes, entornos y objetos, garantizando un resultado visual impresionante.",
+			"imagen": "servicios_animacion3d.jpg",
+			"fondo": "fondo_caja_animacion.jpg"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "lightgray"}
+		]
+	},
+	{
+		"tipo": "doscolumnas",
+		"contenido": {
+			"titulo": "¿Por qué elegir nuestras animaciones?",
+			"subtitulo": "Creatividad, calidad y tecnología",
+			"texto": "Utilizamos herramientas avanzadas y un equipo altamente capacitado para garantizar animaciones fluidas y visualmente atractivas.",
+			"imagen": "doscolumnas_animacion3d.jpg",
+			"fondo": "fondo_doscolumnas_animacion.jpg",
+			"columnas": [
+				{
+					"titulo": "Herramientas Avanzadas",
+					"subtitulo": "Tecnología de punta",
+					"texto": "Software líder como Maya, Blender y After Effects para un rendimiento óptimo."
+				},
+				{
+					"titulo": "Enfoque Personalizado",
+					"subtitulo": "Adaptado a tus necesidades",
+					"texto": "Creamos animaciones que reflejan tu visión y cumplen con tus objetivos."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "gray"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "mosaico",
+		"contenido": {
+			"titulo": "Áreas de Aplicación",
+			"subtitulo": "Animaciones para cada industria",
+			"texto": "Explora cómo nuestras animaciones 3D pueden transformar tu proyecto.",
+			"imagen": "mosaico_animacion.jpg",
+			"fondo": "fondo_mosaico_animacion.jpg",
+			"bloques": [
+				{
+					"titulo": "Publicidad",
+					"subtitulo": "Impacto visual",
+					"texto": "Animaciones para campañas publicitarias y branding corporativo."
+				},
+				{
+					"titulo": "Videojuegos",
+					"subtitulo": "Mundos vivos",
+					"texto": "Movimientos realistas para personajes y escenarios interactivos."
+				},
+				{
+					"titulo": "Cine y Televisión",
+					"subtitulo": "Narrativas inmersivas",
+					"texto": "Creación de secuencias animadas y efectos visuales de alto impacto."
+				},
+				{
+					"titulo": "Educación",
+					"subtitulo": "Explicaciones claras",
+					"texto": "Animaciones para material educativo y demostraciones técnicas."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkgray"}
+		]
+	},
+	{
+		"tipo": "youtube",
+		"contenido": {
+			"titulo": "Animación 3D en Acción",
+			"subtitulo": "Un vistazo a nuestras creaciones",
+			"texto": "Mira ejemplos de nuestras animaciones 3D y cómo pueden aportar dinamismo a tu proyecto.",
+			"imagen": "video_preview_animacion.jpg",
+			"fondo": "fondo_video_animacion.jpg",
+			"url": "https://www.youtube.com/watch?v=ejemplo_animacion3d"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Proceso de Trabajo",
+			"subtitulo": "Un enfoque meticuloso y creativo",
+			"texto": "Desde la conceptualización hasta el render final, nuestro equipo trabaja en estrecha colaboración contigo para garantizar que la animación refleje tu visión y supere tus expectativas.",
+			"imagen": "proceso_animacion3d.jpg",
+			"fondo": "fondo_proceso_animacion.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	}
+]
+

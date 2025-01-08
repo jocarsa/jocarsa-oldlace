@@ -1,0 +1,13 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+# Ensure that the .php file exists
+RewriteCond %{REQUEST_FILENAME}.php -f
+
+# Redirect requests without .php to the corresponding .php file
+RewriteRule ^(.+?)/?$ $1.php [L]
+
+# Optional: Redirect to remove trailing slashes (canonicalize URLs)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [R=301,L]

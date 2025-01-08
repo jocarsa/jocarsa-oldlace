@@ -1,0 +1,136 @@
+[
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Digital Twins (Gemelos Digitales)",
+			"subtitulo": "La clave para una monitorización y simulación precisa",
+			"texto": "Los gemelos digitales son réplicas virtuales de sistemas, procesos o productos físicos que permiten una monitorización, simulación y análisis en tiempo real. En Jocarsa, desarrollamos soluciones de gemelos digitales personalizadas, ayudando a optimizar el rendimiento, reducir riesgos y mejorar la eficiencia en una amplia variedad de industrias.",
+			"imagen": "digital_twins_principal.jpg",
+			"fondo": "fondo_digital_twins.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Creación de Gemelos Digitales",
+			"subtitulo": "Réplicas virtuales precisas",
+			"texto": "Creamos modelos digitales de alta fidelidad que simulan el comportamiento de sistemas físicos, permitiendo análisis predictivo y optimización constante.",
+			"imagen": "creacion_digital_twins.jpg",
+			"fondo": "fondo_caja_digital_twins.jpg"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "lightgray"}
+		]
+	},
+	{
+		"tipo": "doscolumnas",
+		"contenido": {
+			"titulo": "Aplicaciones de Gemelos Digitales",
+			"subtitulo": "Soluciones versátiles para diversas industrias",
+			"texto": "Los gemelos digitales tienen múltiples aplicaciones que ayudan a transformar procesos en sectores clave.",
+			"imagen": "aplicaciones_digital_twins.jpg",
+			"fondo": "fondo_doscolumnas_digital_twins.jpg",
+			"columnas": [
+				{
+					"titulo": "Industria y Manufactura",
+					"subtitulo": "Optimización de operaciones",
+					"texto": "Monitoriza equipos y procesos para maximizar la eficiencia y minimizar el tiempo de inactividad."
+				},
+				{
+					"titulo": "Smart Cities",
+					"subtitulo": "Planificación urbana avanzada",
+					"texto": "Simula infraestructuras urbanas para mejorar la gestión de recursos y servicios públicos."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "gray"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "mosaico",
+		"contenido": {
+			"titulo": "Ventajas de los Gemelos Digitales",
+			"subtitulo": "Transforma tus procesos con datos precisos",
+			"texto": "Los gemelos digitales ofrecen una visión en tiempo real que permite decisiones informadas y mejoras continuas.",
+			"imagen": "ventajas_digital_twins.jpg",
+			"fondo": "fondo_mosaico_digital_twins.jpg",
+			"bloques": [
+				{
+					"titulo": "Monitorización Continua",
+					"subtitulo": "Datos en tiempo real",
+					"texto": "Accede a información actualizada para tomar decisiones rápidas y precisas."
+				},
+				{
+					"titulo": "Simulación Predictiva",
+					"subtitulo": "Anticípate a problemas",
+					"texto": "Identifica fallos potenciales antes de que ocurran, reduciendo costes y riesgos."
+				},
+				{
+					"titulo": "Optimización del Rendimiento",
+					"subtitulo": "Mejora constante",
+					"texto": "Ajusta y mejora procesos basados en datos del gemelo digital."
+				},
+				{
+					"titulo": "Reducción de Costes",
+					"subtitulo": "Ahorra recursos",
+					"texto": "Evita inversiones innecesarias al probar cambios en el modelo digital."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkgray"}
+		]
+	},
+	{
+		"tipo": "youtube",
+		"contenido": {
+			"titulo": "Gemelos Digitales en Acción",
+			"subtitulo": "Un vistazo práctico a nuestras soluciones",
+			"texto": "Descubre cómo los gemelos digitales pueden transformar procesos complejos en soluciones eficientes.",
+			"imagen": "video_digital_twins_preview.jpg",
+			"fondo": "fondo_video_digital_twins.jpg",
+			"url": "https://www.youtube.com/watch?v=ejemplo_digital_twins"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Tecnologías de Soporte",
+			"subtitulo": "Infraestructura avanzada para gemelos digitales",
+			"texto": "Utilizamos tecnologías como IoT, inteligencia artificial y análisis de datos para crear gemelos digitales efectivos y personalizados.",
+			"imagen": "tecnologias_digital_twins.jpg",
+			"fondo": "fondo_tecnologias_digital_twins.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Soluciones Personalizadas en Gemelos Digitales",
+			"subtitulo": "Adaptado a las necesidades de tu negocio",
+			"texto": "En Jocarsa, trabajamos contigo para desarrollar gemelos digitales personalizados que aborden desafíos específicos y aprovechen oportunidades únicas en tu industria.",
+			"imagen": "soluciones_personalizadas_twins.jpg",
+			"fondo": "fondo_soluciones_twins.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "black"}
+		]
+	}
+]
+

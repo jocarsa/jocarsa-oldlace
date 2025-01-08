@@ -1,0 +1,136 @@
+[
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Realidad Virtual y Realidad Aumentada",
+			"subtitulo": "Transforma la interacción con tu entorno",
+			"texto": "La Realidad Virtual (VR) y la Realidad Aumentada (AR) son tecnologías revolucionarias que cambian la forma en que las personas interactúan con el mundo digital y físico. En Jocarsa, diseñamos experiencias inmersivas y personalizadas para entretenimiento, educación, formación y marketing.",
+			"imagen": "vr_ar_principal.jpg",
+			"fondo": "fondo_vr_ar.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "black"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Realidad Virtual (VR)",
+			"subtitulo": "Explora mundos completamente nuevos",
+			"texto": "Creamos experiencias inmersivas en entornos completamente digitales, ideales para simulaciones, videojuegos y presentaciones interactivas. La VR ofrece una forma única de conectar con tu audiencia.",
+			"imagen": "vr_experiencias.jpg",
+			"fondo": "fondo_vr.jpg"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "lightgray"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Realidad Aumentada (AR)",
+			"subtitulo": "Integra lo virtual con el mundo real",
+			"texto": "Desarrollamos aplicaciones AR que superponen elementos digitales en el entorno físico. Desde marketing hasta soluciones industriales, la AR transforma cómo interactuamos con el mundo.",
+			"imagen": "ar_aplicaciones.jpg",
+			"fondo": "fondo_ar.jpg"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "lightgray"}
+		]
+	},
+	{
+		"tipo": "doscolumnas",
+		"contenido": {
+			"titulo": "Aplicaciones de VR y AR",
+			"subtitulo": "Tecnología en diferentes industrias",
+			"texto": "Explora cómo la VR y la AR pueden aportar innovación y eficiencia a tus proyectos.",
+			"imagen": "aplicaciones_vr_ar.jpg",
+			"fondo": "fondo_doscolumnas_vr_ar.jpg",
+			"columnas": [
+				{
+					"titulo": "Entretenimiento y Juegos",
+					"subtitulo": "Inmersión total",
+					"texto": "Desarrollamos experiencias interactivas que sumergen a los usuarios en mundos virtuales."
+				},
+				{
+					"titulo": "Formación y Simulaciones",
+					"subtitulo": "Aprendizaje práctico",
+					"texto": "Creamos entornos seguros para entrenamiento en áreas como medicina, ingeniería y más."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "gray"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "mosaico",
+		"contenido": {
+			"titulo": "Ventajas de VR y AR",
+			"subtitulo": "Beneficios clave para tu negocio",
+			"texto": "Descubre cómo estas tecnologías pueden transformar tu sector.",
+			"imagen": "mosaico_vr_ar.jpg",
+			"fondo": "fondo_mosaico_vr_ar.jpg",
+			"bloques": [
+				{
+					"titulo": "Interacción",
+					"subtitulo": "Conexión única",
+					"texto": "Mejora el compromiso del usuario con experiencias personalizadas."
+				},
+				{
+					"titulo": "Innovación",
+					"subtitulo": "Diferénciate",
+					"texto": "Adopta tecnologías emergentes para destacar en tu industria."
+				},
+				{
+					"titulo": "Escalabilidad",
+					"subtitulo": "Para cualquier sector",
+					"texto": "Desde pequeñas empresas hasta grandes corporaciones, la VR y AR tienen cabida."
+				},
+				{
+					"titulo": "Rentabilidad",
+					"subtitulo": "Ahorro a largo plazo",
+					"texto": "Reduce costes de materiales, desplazamientos y riesgos mediante simulaciones."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkgray"}
+		]
+	},
+	{
+		"tipo": "youtube",
+		"contenido": {
+			"titulo": "VR y AR en Acción",
+			"subtitulo": "Mira ejemplos de nuestras soluciones",
+			"texto": "Experimenta cómo las aplicaciones de VR y AR pueden transformar proyectos de diversas industrias.",
+			"imagen": "video_vr_ar_preview.jpg",
+			"fondo": "fondo_video_vr_ar.jpg",
+			"url": "https://www.youtube.com/watch?v=ejemplo_vr_ar"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Tecnologías y Equipamiento",
+			"subtitulo": "Desarrollo con las mejores herramientas",
+			"texto": "Utilizamos las últimas tecnologías en desarrollo de VR y AR, trabajando con dispositivos como Oculus, HTC Vive, y frameworks avanzados como Unity y Unreal Engine.",
+			"imagen": "tecnologias_vr_ar.jpg",
+			"fondo": "fondo_tecnologias_vr_ar.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	}
+]
+

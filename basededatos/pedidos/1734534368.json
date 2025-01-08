@@ -1,0 +1,23 @@
+{
+    "cliente": {
+        "nombre": "Jaime",
+        "apellidos": "Garcia Lopez",
+        "email": "jaime@garcia.com"
+    },
+    "pedido": {
+        "fecha": "2024-12-18",
+        "numerodepedido": "202412181668"
+    },
+    "productos": [
+        {
+            "nombre": "DarkKhaki",
+            "descripcion": "Aplicación de toma de notas",
+            "precio": "20.00"
+        },
+        {
+            "nombre": "AliceBlue",
+            "descripcion": "Software para digital proctoring en exámenes",
+            "precio": "90.00"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+[
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Efectos Visuales (VFX)",
+			"subtitulo": "Lleva tus producciones al siguiente nivel",
+			"texto": "Los efectos visuales (VFX) son esenciales para crear experiencias visuales impactantes en cine, televisión, videojuegos y publicidad. En Jocarsa, combinamos creatividad y tecnología avanzada para desarrollar VFX que transforman tus ideas en realidades visuales espectaculares.",
+			"imagen": "vfx_principal.jpg",
+			"fondo": "fondo_vfx.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Creación de Efectos Visuales",
+			"subtitulo": "Impacto visual asegurado",
+			"texto": "Creamos efectos visuales adaptados a las necesidades de tu proyecto, desde explosiones realistas hasta mundos fantásticos. Nuestro equipo domina herramientas avanzadas para garantizar resultados impresionantes.",
+			"imagen": "creacion_vfx.jpg",
+			"fondo": "fondo_caja_vfx.jpg"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "lightgray"}
+		]
+	},
+	{
+		"tipo": "doscolumnas",
+		"contenido": {
+			"titulo": "Áreas de Especialización en VFX",
+			"subtitulo": "Soluciones personalizadas para tus necesidades",
+			"texto": "Nuestro equipo se especializa en diversas áreas de efectos visuales para producir resultados únicos y de alta calidad.",
+			"imagen": "especializacion_vfx.jpg",
+			"fondo": "fondo_doscolumnas_vfx.jpg",
+			"columnas": [
+				{
+					"titulo": "Composición Digital",
+					"subtitulo": "Integración perfecta",
+					"texto": "Integramos elementos virtuales en entornos reales para crear escenas cohesivas."
+				},
+				{
+					"titulo": "Simulación de Partículas",
+					"subtitulo": "Explosiones, agua y más",
+					"texto": "Recreamos fenómenos naturales y efectos dinámicos de manera realista."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "gray"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "mosaico",
+		"contenido": {
+			"titulo": "Beneficios de los Efectos Visuales",
+			"subtitulo": "Añade magia a tus producciones",
+			"texto": "Descubre cómo los VFX pueden transformar tu contenido audiovisual.",
+			"imagen": "beneficios_vfx.jpg",
+			"fondo": "fondo_mosaico_vfx.jpg",
+			"bloques": [
+				{
+					"titulo": "Mejora la Narrativa",
+					"subtitulo": "Cuenta historias impactantes",
+					"texto": "Los efectos visuales enriquecen tus producciones, generando mayor interés y emoción."
+				},
+				{
+					"titulo": "Producciones Atractivas",
+					"subtitulo": "Diferénciate",
+					"texto": "Capta la atención del público con escenas visualmente impresionantes."
+				},
+				{
+					"titulo": "Flexibilidad Creativa",
+					"subtitulo": "Sin límites",
+					"texto": "Crea mundos, personajes y escenarios imposibles en la realidad."
+				},
+				{
+					"titulo": "Ahorro de Costes",
+					"subtitulo": "Menos producción física",
+					"texto": "Reemplaza decorados y efectos prácticos por soluciones digitales más eficientes."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkgray"}
+		]
+	},
+	{
+		"tipo": "youtube",
+		"contenido": {
+			"titulo": "Efectos Visuales en Acción",
+			"subtitulo": "Mira un ejemplo de nuestro trabajo en VFX",
+			"texto": "Explora cómo utilizamos efectos visuales para transformar producciones y crear escenas inolvidables.",
+			"imagen": "video_vfx_preview.jpg",
+			"fondo": "fondo_video_vfx.jpg",
+			"url": "https://www.youtube.com/watch?v=ejemplo_vfx"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Herramientas Avanzadas",
+			"subtitulo": "Tecnología líder en VFX",
+			"texto": "Utilizamos software como Houdini, After Effects, Nuke y Maya para crear efectos visuales de alta calidad, optimizados para diferentes plataformas.",
+			"imagen": "herramientas_vfx.jpg",
+			"fondo": "fondo_herramientas_vfx.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Efectos Visuales para Diversas Producciones",
+			"subtitulo": "Cine, publicidad, videojuegos y más",
+			"texto": "Adaptamos nuestros efectos visuales a cualquier tipo de producción, garantizando que cada proyecto destaque por su calidad visual y creatividad.",
+			"imagen": "vfx_producciones.jpg",
+			"fondo": "fondo_producciones_vfx.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "black"}
+		]
+	}
+]
+

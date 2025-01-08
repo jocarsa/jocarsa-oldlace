@@ -1,0 +1,48 @@
+#contacto{
+	width:1024px;
+	margin:auto;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: stretch;
+	gap:20px;
+	padding-top:20px;
+}
+#formulario,iframe{
+	width:50%;
+}
+#formulario input,
+#formulario textarea,
+#formulario button{
+	width:100%;
+	box-sizing:border-box;
+	padding:10px;
+	
+}
+iframe{
+	border-radius:10px;
+}
+#formulario button{
+	background:indigo;
+	border:none;
+	border-radius:30px;
+	color:white;
+	padding:20px;
+}
+#formulario p{
+	padding:0px;
+	margin:0px;
+}
+.ayuda{
+	margin-bottom:10px !important;
+	color:red;
+}
+.rojo{
+	border:2px solid red;
+}
+#retroalimentacion{
+	text-align:center;
+	color:green;
+}

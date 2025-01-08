@@ -1,0 +1,134 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Crea Tu Propia Red Social en Minutos",
+      "subtitulo": "Una plataforma completa para conectar comunidades y fomentar la interacción",
+      "texto": "Nuestro software permite a individuos y organizaciones crear redes sociales personalizadas, diseñadas para sus necesidades únicas. Desde la gestión de usuarios hasta el diseño de la interfaz, tienes el control completo.",
+      "imagen": "path_to_main_image.jpg",
+      "fondo": "#f4f4f4"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f4f4f4"}
+    ]
+  },
+  {
+    "tipo": "bloque",
+    "contenido": {
+      "titulo": "Personalización Total",
+      "subtitulo": "Diseña a tu medida",
+      "texto": "Configura cada aspecto de tu red social, desde colores y estilos hasta funcionalidades únicas, para reflejar la identidad de tu comunidad.",
+      "imagen": "path_to_customization_image.jpg",
+      "fondo": "#ffffff"
+    },
+    "estilo": [
+      {"color": "#000"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Funciones Principales",
+      "subtitulo": "Herramientas para construir tu comunidad",
+      "texto": "Desde la interacción entre usuarios hasta la administración de contenidos, nuestra plataforma lo tiene todo.",
+      "imagen": "path_to_features_image.jpg",
+      "fondo": "#f9f9f9",
+      "columnas": [
+        {
+          "titulo": "Gestión de Usuarios",
+          "subtitulo": "Control total",
+          "texto": "Administra cuentas de usuarios, roles y permisos de manera sencilla."
+        },
+        {
+          "titulo": "Publicaciones y Contenido",
+          "subtitulo": "Crea y comparte",
+          "texto": "Permite a los usuarios publicar, comentar y compartir contenido en tiempo real."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f9f9f9"}
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Descubre cómo nuestra plataforma puede ayudarte",
+      "subtitulo": "Video explicativo",
+      "texto": "Aprende a utilizar nuestro software para construir una red social desde cero, diseñada específicamente para tus necesidades.",
+      "imagen": "path_to_video_thumbnail.jpg",
+      "fondo": "#e0e0e0",
+      "url": "DZ9_qT0aBGs"
+    },
+    "estilo": [
+      {"color": "#111"},
+      {"background": "#e0e0e0"}
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas Clave",
+      "subtitulo": "Por qué elegir nuestro software",
+      "texto": "Nuestra plataforma está diseñada para facilitar la creación de redes sociales eficientes y atractivas.",
+      "imagen": "path_to_benefits_image.jpg",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Fácil de Usar",
+          "subtitulo": "Sin complicaciones",
+          "texto": "Nuestra interfaz intuitiva hace que cualquiera pueda crear una red social sin experiencia técnica."
+        },
+        {
+          "titulo": "Escalabilidad",
+          "subtitulo": "Crece contigo",
+          "texto": "Nuestra arquitectura soporta el crecimiento de tu comunidad, sin importar su tamaño."
+        },
+        {
+          "titulo": "Seguridad",
+          "subtitulo": "Protección garantizada",
+          "texto": "Mantén la privacidad y seguridad de tus usuarios con herramientas avanzadas de protección."
+        },
+        {
+          "titulo": "Soporte Técnico",
+          "subtitulo": "Siempre contigo",
+          "texto": "Contamos con un equipo de soporte dedicado para ayudarte en todo momento."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#444"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Casos de Éxito",
+      "subtitulo": "Cómo otros han utilizado nuestra plataforma",
+      "texto": "Desde comunidades locales hasta grandes empresas, nuestro software está ayudando a conectar personas en todo el mundo.",
+      "imagen": "path_to_success_image.jpg",
+      "fondo": "#f3f3f3",
+      "columnas": [
+        {
+          "titulo": "Pequeñas Comunidades",
+          "subtitulo": "Impacto local",
+          "texto": "Grupos locales han construido redes sociales para conectar a sus miembros de manera efectiva."
+        },
+        {
+          "titulo": "Empresas Globales",
+          "subtitulo": "Alcance mundial",
+          "texto": "Grandes organizaciones están utilizando nuestra plataforma para gestionar redes sociales corporativas."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f3f3f3"}
+    ]
+  }
+]
+

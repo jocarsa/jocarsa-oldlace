@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&family=Monsieur+La+Doulaise&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+html,body{
+	font-family:Ubuntu,sans-serif;
+	height:100%;
+}
+body{
+	min-height:100% !important;
+}
+.contenedor{
+	width:1024px;
+	margin:auto;
+}
+main{
+	margin-top:50px;
+	min-height:100%;
+}
+p{
+	text-align:justify;
+}
+h2{
+	text-align:center;
+}
+section{
+	margin-bottom:20px;
+}

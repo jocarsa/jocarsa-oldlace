@@ -1,0 +1,134 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Descubre el CMS Más Ligero para Crear y Administrar Contenido",
+      "subtitulo": "Potencia tu presencia online con facilidad y eficiencia",
+      "texto": "Nuestro CMS combina simplicidad y potencia, ideal para gestionar páginas web y blogs sin complicaciones. Diseñado para ser rápido, seguro y fácil de usar.",
+      "imagen": "path_to_main_image.jpg",
+      "fondo": "#f4f4f4"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f4f4f4"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Esenciales",
+      "subtitulo": "Ligero, flexible y confiable",
+      "texto": "Nuestro CMS ofrece todas las herramientas necesarias para administrar tu contenido de forma rápida y segura.",
+      "imagen": "path_to_features_image.jpg",
+      "fondo": "#ffffff",
+      "columnas": [
+        {
+          "titulo": "Gestión de Páginas",
+          "subtitulo": "Contenido centralizado",
+          "texto": "Crea, edita y organiza tus páginas con un sistema simple basado en SQLite3."
+        },
+        {
+          "titulo": "Blog Integrado",
+          "subtitulo": "Publica fácilmente",
+          "texto": "Publica entradas de blog con contenido enriquecido y gestiona tus publicaciones con facilidad."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#000"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "bloque",
+    "contenido": {
+      "titulo": "Fácil Personalización",
+      "subtitulo": "Hazlo único",
+      "texto": "Con estilos personalizables y plantillas ligeras, puedes adaptar el diseño del CMS a la identidad de tu marca.",
+      "imagen": "path_to_customization_image.jpg",
+      "fondo": "#f9f9f9"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f9f9f9"}
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Aprende a Configurar tu CMS en Minutos",
+      "subtitulo": "Video explicativo",
+      "texto": "Descubre cómo puedes instalar y usar nuestro CMS de forma rápida y sin complicaciones.",
+      "imagen": "path_to_video_thumbnail.jpg",
+      "fondo": "#e0e0e0",
+      "url": "2i7QTHXfEFg"
+    },
+    "estilo": [
+      {"color": "#111"},
+      {"background": "#e0e0e0"}
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Beneficios Clave",
+      "subtitulo": "Por qué elegir nuestro CMS",
+      "texto": "Optimiza la creación y gestión de contenido con una solución ligera y efectiva.",
+      "imagen": "path_to_benefits_image.jpg",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Ligero y Rápido",
+          "subtitulo": "Sin sobrecarga",
+          "texto": "Perfecto para quienes necesitan una solución eficiente y rápida para gestionar contenido."
+        },
+        {
+          "titulo": "Seguridad Incorporada",
+          "subtitulo": "Protección total",
+          "texto": "La estructura ligera y el uso de SQLite3 garantizan la seguridad de tus datos."
+        },
+        {
+          "titulo": "Fácil Implementación",
+          "subtitulo": "Listo en minutos",
+          "texto": "Instala y configura tu CMS rápidamente sin necesidad de recursos avanzados."
+        },
+        {
+          "titulo": "Soporte Técnico",
+          "subtitulo": "Siempre contigo",
+          "texto": "Recibe asistencia rápida para cualquier duda o problema técnico."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#444"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Casos de Uso",
+      "subtitulo": "Ideal para pequeños negocios y proyectos personales",
+      "texto": "Empresas y usuarios independientes han optimizado su presencia online con nuestro CMS.",
+      "imagen": "path_to_use_cases_image.jpg",
+      "fondo": "#f3f3f3",
+      "columnas": [
+        {
+          "titulo": "Negocios Locales",
+          "subtitulo": "Conexión directa",
+          "texto": "Crea una página simple y efectiva para mantener a tus clientes informados."
+        },
+        {
+          "titulo": "Proyectos Personales",
+          "subtitulo": "Comparte tus ideas",
+          "texto": "Un espacio ideal para bloggers y creativos que buscan compartir su contenido."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f3f3f3"}
+    ]
+  }
+]
+

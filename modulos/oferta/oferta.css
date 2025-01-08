@@ -1,0 +1,30 @@
+#oferta{
+	margin-top:44px;
+	width:100%;
+	height:0px;
+	
+	color:black;
+	text-align:center !important;
+	animation:aparece 5s;
+	opacity:0;
+	animation-fill-mode:forwards;
+	animation-delay:5s;
+	background:yellow;
+}
+@keyframes aparece{
+	0%{height:0px;opacity:0;}
+	10%{height:52px;opacity:0;}
+	25%{height:52px;opacity:1;}
+	90%{height:52px;opacity:1;}
+	100%{height:0px;opacity:0;}
+	
+}
+#oferta a{
+	color:inherit;
+	text-decoration:none;
+	text-align:center !important;
+}
+#oferta p{
+	text-align:center !important;
+	line-height:30px;
+}

@@ -1,0 +1,136 @@
+[
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Marketing y Publicidad en 3D",
+			"subtitulo": "Cautiva a tu audiencia con contenido visual innovador",
+			"texto": "El uso de tecnologías 3D en marketing y publicidad permite crear campañas impactantes y personalizadas. En Jocarsa, desarrollamos contenido visual inmersivo y de alta calidad, ayudándote a conectar con tu público y destacar en un mercado competitivo.",
+			"imagen": "marketing_principal.jpg",
+			"fondo": "fondo_marketing.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Animaciones Publicitarias",
+			"subtitulo": "Movimiento que atrae",
+			"texto": "Creamos animaciones en 3D para anuncios, presentaciones y contenido digital, diseñadas para captar la atención de tu público y transmitir tu mensaje de manera efectiva.",
+			"imagen": "animaciones_publicitarias.jpg",
+			"fondo": "fondo_caja_marketing.jpg"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "lightgray"}
+		]
+	},
+	{
+		"tipo": "doscolumnas",
+		"contenido": {
+			"titulo": "Soluciones de Marketing 3D",
+			"subtitulo": "Personalizadas para cada necesidad",
+			"texto": "Ofrecemos herramientas y servicios para mejorar tu estrategia de marketing y publicidad.",
+			"imagen": "soluciones_marketing.jpg",
+			"fondo": "fondo_doscolumnas_marketing.jpg",
+			"columnas": [
+				{
+					"titulo": "Visualización de Productos",
+					"subtitulo": "Muestra cada detalle",
+					"texto": "Creamos modelos y renderizados que destacan las características clave de tus productos."
+				},
+				{
+					"titulo": "Realidad Aumentada y Virtual",
+					"subtitulo": "Experiencias inmersivas",
+					"texto": "Permite a tus clientes interactuar con tus productos o servicios de forma única."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "gray"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "mosaico",
+		"contenido": {
+			"titulo": "Ventajas del Marketing en 3D",
+			"subtitulo": "Diferénciate de la competencia",
+			"texto": "El contenido en 3D transforma tu estrategia de marketing y mejora la conexión con tu audiencia.",
+			"imagen": "ventajas_marketing.jpg",
+			"fondo": "fondo_mosaico_marketing.jpg",
+			"bloques": [
+				{
+					"titulo": "Mayor Impacto Visual",
+					"subtitulo": "Contenido atractivo",
+					"texto": "Destaca en redes sociales, eventos y plataformas digitales con gráficos de alta calidad."
+				},
+				{
+					"titulo": "Personalización",
+					"subtitulo": "Adapta tu mensaje",
+					"texto": "Crea campañas únicas adaptadas a tu público objetivo."
+				},
+				{
+					"titulo": "Experiencias Interactivas",
+					"subtitulo": "Mayor compromiso",
+					"texto": "Ofrece a tus clientes formas innovadoras de interactuar con tus productos."
+				},
+				{
+					"titulo": "Rentabilidad",
+					"subtitulo": "Eficiencia en campañas",
+					"texto": "Optimiza el alcance de tus anuncios con contenido visual llamativo."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkgray"}
+		]
+	},
+	{
+		"tipo": "youtube",
+		"contenido": {
+			"titulo": "Campañas de Marketing en 3D",
+			"subtitulo": "Un ejemplo de nuestro trabajo",
+			"texto": "Descubre cómo utilizamos el 3D para crear campañas publicitarias efectivas y visualmente impactantes.",
+			"imagen": "video_marketing_preview.jpg",
+			"fondo": "fondo_video_marketing.jpg",
+			"url": "https://www.youtube.com/watch?v=ejemplo_marketing_3d"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Herramientas de Publicidad",
+			"subtitulo": "Tecnología para resultados excepcionales",
+			"texto": "Utilizamos software avanzado como Blender, Maya y Unreal Engine para desarrollar contenido publicitario en 3D que resalte en cualquier plataforma.",
+			"imagen": "herramientas_publicidad.jpg",
+			"fondo": "fondo_herramientas_publicidad.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Estrategias Innovadoras en 3D",
+			"subtitulo": "Aumenta el alcance de tus campañas",
+			"texto": "Integramos soluciones 3D en tu estrategia de marketing y publicidad para maximizar el impacto de tus campañas y fortalecer tu marca en el mercado.",
+			"imagen": "estrategias_3d.jpg",
+			"fondo": "fondo_estrategias_marketing.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "black"}
+		]
+	}
+]
+

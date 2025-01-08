@@ -1,0 +1,32 @@
+#destacados{
+	display: grid;
+  	grid-template-columns: auto auto;
+}
+#destacados article{
+	min-height:500px;
+	text-align:center;
+	box-sizing:border-box;
+	padding:40px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: stretch;
+	color:white;
+	font-size:2em;
+}
+@media screen and (max-width: 800px) {
+	#destacados{
+		display: block;
+	}
+}
+#destacados article button{
+	padding: 20px;
+    border: 2px solid white;
+    border-radius: 40px;
+    width: 200px;
+    background: rgba(255, 255, 255, 0.5);
+    color: white;
+    margin: 10px;
+}

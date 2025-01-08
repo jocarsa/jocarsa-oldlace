@@ -1,0 +1,136 @@
+[
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Prototipado y Fabricación Digital",
+			"subtitulo": "Convierte tus ideas en productos reales",
+			"texto": "El prototipado y la fabricación digital son etapas clave en el desarrollo de productos innovadores. En Jocarsa, transformamos tus conceptos en prototipos tangibles utilizando herramientas avanzadas de modelado 3D e impresión 3D. Nuestro enfoque asegura precisión, eficiencia y calidad en cada proyecto.",
+			"imagen": "prototipado_principal.jpg",
+			"fondo": "fondo_prototipado.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "black"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Prototipado Rápido",
+			"subtitulo": "De la idea al prototipo en tiempo récord",
+			"texto": "Nuestro servicio de prototipado rápido acelera el desarrollo de tus productos, permitiéndote evaluar formas, tamaños y funcionalidades antes de la producción en masa.",
+			"imagen": "prototipado_rapido.jpg",
+			"fondo": "fondo_caja_prototipado.jpg"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "lightgray"}
+		]
+	},
+	{
+		"tipo": "doscolumnas",
+		"contenido": {
+			"titulo": "Tecnologías de Fabricación",
+			"subtitulo": "Soluciones avanzadas para tus proyectos",
+			"texto": "Utilizamos las mejores herramientas para garantizar resultados de alta calidad.",
+			"imagen": "fabricacion_tecnologias.jpg",
+			"fondo": "fondo_doscolumnas_prototipado.jpg",
+			"columnas": [
+				{
+					"titulo": "Impresión 3D",
+					"subtitulo": "Fabricación aditiva",
+					"texto": "Creamos piezas con precisión milimétrica en diversos materiales como plástico, resina o metal."
+				},
+				{
+					"titulo": "CNC y Corte Láser",
+					"subtitulo": "Fabricación subtractiva",
+					"texto": "Perfección en detalles con técnicas avanzadas de corte y tallado."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "gray"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "mosaico",
+		"contenido": {
+			"titulo": "Ventajas del Prototipado y Fabricación",
+			"subtitulo": "Beneficios clave para tu negocio",
+			"texto": "Nuestro enfoque garantiza calidad, rapidez y personalización en cada etapa del proceso.",
+			"imagen": "ventajas_prototipado.jpg",
+			"fondo": "fondo_mosaico_prototipado.jpg",
+			"bloques": [
+				{
+					"titulo": "Validación de Ideas",
+					"subtitulo": "Prueba antes de producir",
+					"texto": "Evalúa conceptos y ajusta detalles antes de comprometerte con la fabricación en masa."
+				},
+				{
+					"titulo": "Reducción de Costes",
+					"subtitulo": "Optimización de recursos",
+					"texto": "Evita errores costosos al iterar sobre prototipos."
+				},
+				{
+					"titulo": "Materiales Personalizados",
+					"subtitulo": "Flexibilidad total",
+					"texto": "Elige entre una amplia gama de materiales para adaptarte a tus necesidades."
+				},
+				{
+					"titulo": "Escalabilidad",
+					"subtitulo": "Desde prototipos hasta producción",
+					"texto": "Lleva tu diseño del concepto inicial a la fabricación en masa con facilidad."
+				}
+			]
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkgray"}
+		]
+	},
+	{
+		"tipo": "youtube",
+		"contenido": {
+			"titulo": "Prototipado en Acción",
+			"subtitulo": "Descubre nuestro proceso de prototipado",
+			"texto": "Mira cómo convertimos una idea en un prototipo funcional. Este video muestra cada paso del proceso.",
+			"imagen": "video_prototipado_preview.jpg",
+			"fondo": "fondo_video_prototipado.jpg",
+			"url": "https://www.youtube.com/watch?v=ejemplo_prototipado"
+		},
+		"estilo": [
+			{"color": "black"},
+			{"background": "white"}
+		]
+	},
+	{
+		"tipo": "caja",
+		"contenido": {
+			"titulo": "Industria y Aplicaciones",
+			"subtitulo": "Diversidad de sectores",
+			"texto": "Desde la industria automotriz hasta la medicina, nuestros prototipos tienen aplicaciones en múltiples sectores.",
+			"imagen": "aplicaciones_prototipado.jpg",
+			"fondo": "fondo_caja_aplicaciones.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "darkblue"}
+		]
+	},
+	{
+		"tipo": "completo",
+		"contenido": {
+			"titulo": "Fabricación Digital Personalizada",
+			"subtitulo": "Proyectos únicos y hechos a medida",
+			"texto": "En Jocarsa, cada proyecto es único. Trabajamos estrechamente contigo para asegurarnos de que tus prototipos y productos reflejen exactamente tus necesidades y expectativas.",
+			"imagen": "fabricacion_personalizada.jpg",
+			"fondo": "fondo_fabricacion.jpg"
+		},
+		"estilo": [
+			{"color": "white"},
+			{"background": "black"}
+		]
+	}
+]
+

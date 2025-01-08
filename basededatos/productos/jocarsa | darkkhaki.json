@@ -1,0 +1,134 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Organiza tus Ideas con Nuestra Herramienta de Notas Online",
+      "subtitulo": "Un espacio seguro y accesible para tus pensamientos y proyectos",
+      "texto": "Nuestro software de notas online está diseñado para ayudarte a capturar, organizar y acceder a tus ideas en cualquier momento y desde cualquier lugar.",
+      "imagen": "path_to_main_image.jpg",
+      "fondo": "#f4f4f4"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f4f4f4"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Todo lo que necesitas en una herramienta de notas",
+      "texto": "Simplifica la manera en que organizas tus ideas con funciones diseñadas para mejorar tu productividad.",
+      "imagen": "path_to_features_image.jpg",
+      "fondo": "#ffffff",
+      "columnas": [
+        {
+          "titulo": "Edición en Tiempo Real",
+          "subtitulo": "Mantén tus notas actualizadas",
+          "texto": "Crea y edita notas fácilmente con herramientas intuitivas y rápidas."
+        },
+        {
+          "titulo": "Acceso Multidispositivo",
+          "subtitulo": "Siempre contigo",
+          "texto": "Accede a tus notas desde cualquier dispositivo conectado a Internet."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#000"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "bloque",
+    "contenido": {
+      "titulo": "Tu Espacio, Tu Estilo",
+      "subtitulo": "Personaliza tus notas",
+      "texto": "Organiza tus ideas con etiquetas, categorías y plantillas personalizables para que todo esté justo donde lo necesitas.",
+      "imagen": "path_to_personalization_image.jpg",
+      "fondo": "#f9f9f9"
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f9f9f9"}
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Descubre cómo nuestra herramienta puede ayudarte",
+      "subtitulo": "Video demostrativo",
+      "texto": "Explora las funcionalidades principales de nuestra plataforma de notas online y cómo puede transformar tu productividad diaria.",
+      "imagen": "path_to_video_thumbnail.jpg",
+      "fondo": "#e0e0e0",
+      "url": "lij4lqfWeaw"
+    },
+    "estilo": [
+      {"color": "#111"},
+      {"background": "#e0e0e0"}
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de Usar Nuestra Herramienta",
+      "subtitulo": "Beneficios clave",
+      "texto": "Diseñada para mejorar la organización y accesibilidad de tus ideas.",
+      "imagen": "path_to_benefits_image.jpg",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Organización Eficiente",
+          "subtitulo": "Todo en su lugar",
+          "texto": "Categoriza tus notas y accede a ellas de manera rápida."
+        },
+        {
+          "titulo": "Seguridad Garantizada",
+          "subtitulo": "Protección avanzada",
+          "texto": "Tus datos están seguros con encriptación y respaldos automáticos."
+        },
+        {
+          "titulo": "Colaboración en Equipo",
+          "subtitulo": "Comparte y edita",
+          "texto": "Comparte notas con otros usuarios y trabaja en conjunto fácilmente."
+        },
+        {
+          "titulo": "Diseño Intuitivo",
+          "subtitulo": "Fácil de usar",
+          "texto": "Una interfaz pensada para maximizar tu productividad."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#444"},
+      {"background": "#ffffff"}
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Casos de Éxito",
+      "subtitulo": "Cómo otros aprovechan nuestra herramienta",
+      "texto": "Miles de usuarios han optimizado su flujo de trabajo con nuestra plataforma de notas.",
+      "imagen": "path_to_success_image.jpg",
+      "fondo": "#f3f3f3",
+      "columnas": [
+        {
+          "titulo": "Profesionales Creativos",
+          "subtitulo": "Más enfoque",
+          "texto": "Diseñadores y escritores utilizan nuestra herramienta para centralizar ideas y proyectos."
+        },
+        {
+          "titulo": "Equipos de Trabajo",
+          "subtitulo": "Mejor colaboración",
+          "texto": "Equipos han reportado una mejora en la organización y comunicación gracias a las notas compartidas."
+        }
+      ]
+    },
+    "estilo": [
+      {"color": "#333"},
+      {"background": "#f3f3f3"}
+    ]
+  }
+]
+
