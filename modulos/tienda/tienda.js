@@ -6,7 +6,7 @@ var actual = {}
 const queryString = window.location.search;												// Atrapo la URL
 const urlParams = new URLSearchParams(queryString);									// Extraigo los parametros
 const idproducto = urlParams.get('prod');													// Me quedo solo con el parametro que me interesa
-fetch("../back/?busca=productos&campo=titulo&dato="+idproducto)			// Construyo una peticion al servidor solo con el parametro que me interesa
+fetch(ruta_back+"?busca=productos&campo=titulo&dato="+idproducto)			// Construyo una peticion al servidor solo con el parametro que me interesa
 .then(function(response){
 	return response.json()
 })
@@ -61,7 +61,7 @@ document.querySelector("#enviardatos").onclick = function(){
 		},
 		"productos":JSON.parse(localStorage.getItem("carrito"))
 	}
-	fetch("../back/?envio="+JSON.stringify(json))
+	fetch(ruta_back+"?envio="+JSON.stringify(json))
 	.then(function(response){
 		return response.text()
 	})

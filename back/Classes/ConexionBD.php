@@ -1,11 +1,12 @@
 <?php
-	include "../config.php";
+
+	
 	class ConexionBD{
 		// Propiedades de la clase
 		private $conexion;
 		// Métodos de la clase
 			// Método constructor
-				public function __construct(){
+				public function __construct($dbservidor, $dbusuario, $dbcontrasena, $dbbasededatos){
 					$this->conexion = mysqli_connect(
 						$dbservidor, 
 						$dbusuario, 

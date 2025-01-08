@@ -1,5 +1,5 @@
 function cargaBlog(){
-	fetch("../back/?tabla=blog") 													// Cargo un endpoint en el back
+	fetch(ruta_back+"/?tabla=blog") 													// Cargo un endpoint en el back
 	.then(function(response) { 													// Cuando obtenga respuesta
 		 return response.json(); 													// La convierto en json
 	})

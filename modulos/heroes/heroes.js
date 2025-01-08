@@ -1,5 +1,5 @@
 function recogeHeroes(){
-	fetch("../back/?tabla=heroes")													// Cargo un endpoint en el back
+	fetch(ruta_back+"?tabla=heroes")													// Cargo un endpoint en el back
 	.then(function(response){														// Cuando obtenga respuesta
 		return response.json()														// La conbierto en json
 	})

@@ -73,7 +73,7 @@ document.querySelector("#enviar").onclick = function(){
 		 formData.append("mensaje", mensaje);
 
 		 // Send the form data via POST
-		 fetch("back/mail.php", {
+		 fetch(ruta_back+"/mail.php", {
 		     method: "POST",
 		     body: formData,
 		 })

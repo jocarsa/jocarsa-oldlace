@@ -77,3 +77,116 @@
 [1736126271][2025-01-06 02:17:51] Error [2]: file_get_contents(../basededatos/productos/null.json): Failed to open stream: No such file or directory in /homepages/11/d462793689/htdocs/jocarsa2025/back/index.php on line 31
 [1736152093][2025-01-06 09:28:13] Error [2]: file_get_contents(../basededatos/productos/7.json): Failed to open stream: No such file or directory in /homepages/11/d462793689/htdocs/jocarsa2025/back/index.php on line 31
 [1736204171][2025-01-06 23:56:11] Error [2]: file_get_contents(../basededatos/productos/null.json): Failed to open stream: No such file or directory in /homepages/11/d462793689/htdocs/jocarsa2025/back/index.php on line 31
+[1736360801][2025-01-08 18:26:41] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360801][2025-01-08 18:26:41] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360801][2025-01-08 18:26:41] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360801][2025-01-08 18:26:41] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360801][2025-01-08 18:26:41] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360804][2025-01-08 18:26:44] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360804][2025-01-08 18:26:44] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360804][2025-01-08 18:26:44] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360804][2025-01-08 18:26:44] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360804][2025-01-08 18:26:44] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360804][2025-01-08 18:26:44] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360804][2025-01-08 18:26:44] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360815][2025-01-08 18:26:55] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360815][2025-01-08 18:26:55] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360815][2025-01-08 18:26:55] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360815][2025-01-08 18:26:55] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360815][2025-01-08 18:26:55] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360846][2025-01-08 18:27:26] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360846][2025-01-08 18:27:26] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360846][2025-01-08 18:27:26] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360846][2025-01-08 18:27:26] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360846][2025-01-08 18:27:26] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360870][2025-01-08 18:27:50] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360870][2025-01-08 18:27:50] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360870][2025-01-08 18:27:50] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360870][2025-01-08 18:27:50] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360870][2025-01-08 18:27:50] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360904][2025-01-08 18:28:24] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360904][2025-01-08 18:28:24] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360904][2025-01-08 18:28:24] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360904][2025-01-08 18:28:24] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360904][2025-01-08 18:28:24] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360916][2025-01-08 18:28:36] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360916][2025-01-08 18:28:36] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360916][2025-01-08 18:28:36] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360916][2025-01-08 18:28:36] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360916][2025-01-08 18:28:36] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360932][2025-01-08 18:28:52] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360932][2025-01-08 18:28:52] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360932][2025-01-08 18:28:52] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360932][2025-01-08 18:28:52] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360932][2025-01-08 18:28:52] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360939][2025-01-08 18:28:59] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360939][2025-01-08 18:28:59] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360939][2025-01-08 18:28:59] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360939][2025-01-08 18:28:59] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360939][2025-01-08 18:28:59] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360945][2025-01-08 18:29:05] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360945][2025-01-08 18:29:05] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360945][2025-01-08 18:29:05] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360945][2025-01-08 18:29:05] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360945][2025-01-08 18:29:05] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360973][2025-01-08 18:29:33] Error [2]: include(../../config.php): Failed to open stream: No such file or directory in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 2
+[1736360973][2025-01-08 18:29:33] Error [2]: include(): Failed opening '../../config.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 2
+[1736360973][2025-01-08 18:29:33] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736360973][2025-01-08 18:29:33] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360973][2025-01-08 18:29:33] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360973][2025-01-08 18:29:33] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360973][2025-01-08 18:29:33] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9
+[1736360988][2025-01-08 18:29:48] Error [2]: include(../../config.php): Failed to open stream: No such file or directory in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 2
+[1736360988][2025-01-08 18:29:48] Error [2]: include(): Failed opening '../../config.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 2
+[1736360988][2025-01-08 18:29:48] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736360988][2025-01-08 18:29:48] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736360988][2025-01-08 18:29:48] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736360988][2025-01-08 18:29:48] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 14
+[1736360988][2025-01-08 18:29:48] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736361017][2025-01-08 18:30:17] Error [2]: include(../../config.php): Failed to open stream: No such file or directory in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 2
+[1736361017][2025-01-08 18:30:17] Error [2]: include(): Failed opening '../../config.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 2
+[1736361017][2025-01-08 18:30:17] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 3
+[1736361017][2025-01-08 18:30:17] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736361017][2025-01-08 18:30:17] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736361017][2025-01-08 18:30:17] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736361017][2025-01-08 18:30:17] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 14
+[1736361017][2025-01-08 18:30:17] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736361032][2025-01-08 18:30:32] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736361032][2025-01-08 18:30:32] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736361032][2025-01-08 18:30:32] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736361032][2025-01-08 18:30:32] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 14
+[1736361032][2025-01-08 18:30:32] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736361038][2025-01-08 18:30:38] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 11
+[1736361038][2025-01-08 18:30:38] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 12
+[1736361038][2025-01-08 18:30:38] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 13
+[1736361038][2025-01-08 18:30:38] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 14
+[1736361038][2025-01-08 18:30:38] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 10
+[1736361145][2025-01-08 18:32:25] Error [2]: Undefined variable $dbservidor in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 15
+[1736361145][2025-01-08 18:32:25] Error [2]: Undefined variable $dbusuario in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 16
+[1736361145][2025-01-08 18:32:25] Error [2]: Undefined variable $dbcontrasena in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 17
+[1736361145][2025-01-08 18:32:25] Error [2]: Undefined variable $dbbasededatos in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 18
+[1736361145][2025-01-08 18:32:25] Uncaught Exception: Access denied for user ''@'localhost' (using password: YES) in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 14
+[1736361215][2025-01-08 18:33:35] Uncaught Exception: Too few arguments to function ConexionBD::__construct(), 0 passed in /var/www/html/jocarsa-oldlace/back/index.php on line 10 and exactly 4 expected in /var/www/html/jocarsa-oldlace/back/Classes/ConexionBD.php on line 9

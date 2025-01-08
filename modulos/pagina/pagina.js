@@ -1,7 +1,7 @@
 function pagina(){
 	const urlParams = new URLSearchParams(window.location.search);
 	const idpagina = urlParams.get('pagina');
-	fetch("../back/?busca=paginas&campo=Identificador&dato="+idpagina)													// Cargo un endpoint en el back
+	fetch(ruta_back+"?busca=paginas&campo=Identificador&dato="+idpagina)													// Cargo un endpoint en el back
 	.then(function(response){														// Cuando obtenga respuesta
 		return response.json()														// La conbierto en json
 	})

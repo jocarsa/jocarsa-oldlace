@@ -5,7 +5,7 @@
 function procesaCabecera(){
 	// Cargo los menús de la cabecera ///////////////////////////////////
 
-	fetch("../back/?tabla=categorias") 											// Cargo un endpoint en el back
+	fetch(ruta_back+"?tabla=categorias") 											// Cargo un endpoint en el back
 	.then(function(response) { 													// Cuando obtenga respuesta
 		 return response.json(); 													// La convierto en json
 	})
@@ -27,7 +27,7 @@ function procesaCabecera(){
 		         console.log("Vamos a ver que hay en esta categoria");
 		         console.log(this.textContent)
 		         let tituloseccion = this.textContent						// Cargo el titulo de la categoria
-		         fetch("../back/?busca=productos&campo=categorias_nombre&dato="+this.getAttribute("cat"))	// Fetch para obtener productos por cateogrias
+		         fetch(ruta_back+"?busca=productos&campo=categorias_nombre&dato="+this.getAttribute("cat"))	// Fetch para obtener productos por cateogrias
 		         .then(function(response) { 									// Cuando obtenga respuesta
 						 return response.json(); 									// La convierto en json
 					})

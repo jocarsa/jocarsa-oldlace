@@ -1,5 +1,5 @@
 const prod = new URLSearchParams(window.location.search).get('prod');
-fetch("../back/?producto="+prod)
+fetch(ruta_back+"?producto="+prod)
 .then(function(response){
 	return response.json()
 })
