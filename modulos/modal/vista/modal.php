@@ -5,7 +5,7 @@
 	</div>
 </div>
 <script>
-	<?php include "modal.js"?>
+	<?php include "./modulos/modal/control/modal.js"?>
 </script>
 <style>
 	<?php include "modal.css"?>

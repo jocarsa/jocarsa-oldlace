@@ -5,11 +5,11 @@
 		<?php include "inc/cabeza.php"; ?>
 	</head>
 	<body>
-		<?php include "modulos/cabecera/cabecera.php"; ?>
-		<?php include "modulos/blog/blog.php"; ?>
-		<?php include "modulos/piedepagina/piedepagina.php"; ?>
-		<?php include "modulos/modal/modal.php"; ?>
-		<?php include "modulos/modalpersonalizado/modalpersonalizado.php"; ?>
+		<?php include "modulos/cabecera/vista/cabecera.php"; ?>
+		<?php include "modulos/blog/vista/blog.php"; ?>
+		<?php include "modulos/piedepagina/vista/piedepagina.php"; ?>
+		<?php include "modulos/modal/vista/modal.php"; ?>
+		<?php include "modulos/modalpersonalizado/vista/modalpersonalizado.php"; ?>
 	</body>
 </html>
 <?php include "log/registro.php"; ?>

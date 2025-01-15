@@ -15,7 +15,7 @@
 	
 </section>	
 	<script>
-	<?php include "heroes.js"?>
+	<?php include "./modulos/heroes/control/heroes.js"?>
 </script>
 <style>
 	<?php include "heroes.css"?>

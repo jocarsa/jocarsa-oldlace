@@ -1,7 +1,7 @@
 <!-- Listado de bloques en la página de categoría -->
 <main>
     <?php
-    include "modulos/bloque/bloque.php";											// Incluyo los bloques
+    include "modulos/bloque/vista/bloque.php";											// Incluyo los bloques
     
     include "config.php";	
     
@@ -57,7 +57,7 @@
     ?>
 </main>
 <script>
-    <?php include "categoria.js"; ?>
+    <?php include "./modulos/categoria/control/categoria.js"; ?>
 </script>
 <style>
     <?php 

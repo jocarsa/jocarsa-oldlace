@@ -5,10 +5,10 @@
 		<?php include "inc/cabeza.php"; ?>
 	</head>
 	<body>
-		<?php include "modulos/cabecera/cabecera.php"; ?>
-		<?php include "modulos/contacto/contacto.php"; ?>
-		<?php include "modulos/piedepagina/piedepagina.php"; ?>
-		<?php include "modulos/modal/modal.php"; ?>
+		<?php include "modulos/cabecera/vista/cabecera.php"; ?>
+		<?php include "modulos/contacto/vista/contacto.php"; ?>
+		<?php include "modulos/piedepagina/vista/piedepagina.php"; ?>
+		<?php include "modulos/modal/vista/modal.php"; ?>
 	</body>
 </html>
 <?php include "log/registro.php"; ?>

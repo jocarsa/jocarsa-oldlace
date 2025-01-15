@@ -1,0 +1,19 @@
+{
+    "cliente": {
+        "nombre": "vzv",
+        "apellidos": "fasdf",
+        "email": "fasdf"
+    },
+    "pedido": {
+        "fecha": "2025-1-15",
+        "numerodepedido": "2025115171023"
+    },
+    "productos": [
+        {
+            "nombre": "AliceBlue",
+            "descripcion": "Software para digital proctoring en exámenes",
+            "precio": "90.00"
+        },
+        []
+    ]
+}

@@ -16,7 +16,7 @@
 </template>
 
 <script>
-	<?php include "blog.js"?>
+	<?php include "./modulos/blog/control/blog.js"?>
 </script>
 <style>
 	<?php include "blog.css"?>

@@ -22,7 +22,7 @@
 </section>
 	
 	<script>
-	<?php include "carrusel.js"?>
+	<?php include "./modulos/carrusel/control/carrusel.js"?>
 </script>
 <style>
 	<?php include "carrusel.css"?>

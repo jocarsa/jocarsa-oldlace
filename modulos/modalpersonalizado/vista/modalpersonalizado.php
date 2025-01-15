@@ -4,7 +4,7 @@
 	</div>
 </div>
 <script>
-	<?php include "modalpersonalizado.js"?>
+	<?php include "./modulos/modalpersonalizado/control/modalpersonalizado.js"?>
 </script>
 <style>
 	<?php include "modalpersonalizado.css"?>

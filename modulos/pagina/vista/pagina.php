@@ -6,7 +6,7 @@
 </main>
 
 <script>
-	<?php include "pagina.js"?>
+	<?php include "./modulos/pagina/control/pagina.js"?>
 </script>
 <style>
 	<?php include "pagina.css"?>

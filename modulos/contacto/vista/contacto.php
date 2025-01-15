@@ -40,7 +40,7 @@
 	</div>
 </main>
 <script>
-	<?php include "contacto.js"?>
+	<?php include "./modulos/contacto/control/contacto.js"?>
 </script>
 <style>
 	<?php include "contacto.css"?>

@@ -1,2 +1,6 @@
 
 config.php
+.htaccess
+.htaccess.backup
+.htaccess.backup_country
+.htaccess.backup_user_agent
