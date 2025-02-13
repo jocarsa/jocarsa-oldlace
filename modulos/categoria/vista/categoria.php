@@ -1,19 +1,35 @@
 <!-- Listado de bloques en la página de categoría -->
 <main>
-    <?php
-    //include "modulos/bloque/vista/bloque.php";											// Incluyo los bloques
-    
-    include "config.php";	
+	<?php include "config.php"; ?>
+	<div class="descripcioncategoria">
+		
+	<?php
+		$peticion = "
+			SELECT * 
+			FROM categorias
+			WHERE Identificador = ".$_GET['cat']."
+		;";																					// Creo una petición
+		$resultado = mysqli_query($conexion, $peticion);						// Ejecuto la petición contra el servidor																						// Creo un array vacio
+		while($fila = mysqli_fetch_array($resultado, MYSQLI_ASSOC)){		// Para cada uno de los resultados
+			echo '
+				<h3>'.$fila['nombre'].'</h3>
+				<p>'.$fila['descripcion'].'</p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/'.$fila['video'].'?si=fLt6ZIhX_AYvaQje" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+			';
+		 }
+    ?>
+		
+	</div>
+	<div class="rejillaproductos">
+   <?php
     
 		$peticion = "
-		SELECT * 
-		FROM productos
-		WHERE categorias_nombre = ".$_GET['cat']."
-		AND activo = 'si'
+			SELECT * 
+			FROM productos
+			WHERE categorias_nombre = ".$_GET['cat']."
+			AND activo = 'si'
 		;";																					// Creo una petición
-		//echo $peticion;
-		$resultado = mysqli_query($conexion, $peticion);						// Ejecuto la petición contra el servidor
-																								// Creo un array vacio
+		$resultado = mysqli_query($conexion, $peticion);						// Ejecuto la petición contra el servidor																					// Creo un array vacio
 		while($fila = mysqli_fetch_array($resultado, MYSQLI_ASSOC)){		// Para cada uno de los resultados
 			echo '
 				<article>
@@ -31,6 +47,7 @@
 			';
 		 }
     ?>
+    </div>
 </main>
 <script>
     <?php include "./modulos/categoria/control/categoria.js"; ?>

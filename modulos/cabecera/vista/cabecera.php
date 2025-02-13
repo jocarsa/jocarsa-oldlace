@@ -5,7 +5,9 @@
 			<ul>
 				<template id="elementomenu">
 					<li>
-						<a href=""></a>
+						<h2>
+							<a href=""></a>
+						</h2>
 					</li>
 				</template>
 				<li>

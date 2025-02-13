@@ -16,6 +16,13 @@
 	color:white;
 	font-size:2em;
 }
+#destacados article h4{
+	font-size:15px;
+	padding:0px;
+	margin:0px;
+	font-weight:normal;
+}
+
 @media screen and (max-width: 800px) {
 	#destacados{
 		display: block;

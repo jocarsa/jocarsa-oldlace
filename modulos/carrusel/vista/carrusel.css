@@ -16,6 +16,12 @@
 	left:0px;
 	transition:all 1s;
 	position:relative;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: left;
+	align-items: center;
+	align-content: stretch;
 }
 #carrusel1 article{
 	width:1024px;
@@ -46,15 +52,25 @@
 	width:1000%;
 	
 	position:relative;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: left;
+	align-items: center;
+	align-content: stretch;
 }
 #carrusel2 article{
 	width:340px;
-	min-height:300px;
+	min-height:350px;
 	background:black;
 	color:white;
 	display:inline-block;
 	box-sizing:border-box;
 	padding:40px;
+}
+#carrusel2 article button{
+	position:absolute;
+	bottom:10px;
 }
 .animado2{
 	animation:muevecontinuo 190s;

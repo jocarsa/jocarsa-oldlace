@@ -1,7 +1,6 @@
-<section id="oferta">
-		<p><a>Saber más</a></p>
-		
-	</section>
+<div id="contieneoferta">
+	
+</div>
 	
 	<script>
 	<?php include "./modulos/oferta/control/oferta.js"?>

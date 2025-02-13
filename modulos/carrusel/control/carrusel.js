@@ -8,7 +8,7 @@ puntos.forEach(function(punto,index){									// PAra cada uno de los puntos
 })
 
 function cargaProductos(){
-	fetch(ruta_back+"?tabla=productos") 													// Cargo un endpoint en el back
+	fetch(ruta_back+"?tabla=ochoproductosaleatorios") 													// Cargo un endpoint en el back
 	.then(function(response) { 													// Cuando obtenga respuesta
 		 return response.json(); 													// La convierto en json
 	})

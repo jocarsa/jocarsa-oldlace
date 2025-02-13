@@ -29,6 +29,13 @@ header .contenedor nav{
 	display:inline-block;
 	vertical-align:top;
 }
+header .contenedor nav h2{
+	padding:0px;
+	margin:0px;
+	display:inline-block;
+	font-size:12px;
+	font-weight:bold;
+}
 header .contenedor nav ul{
 	list-style-type:none;
 	padding:0px;
