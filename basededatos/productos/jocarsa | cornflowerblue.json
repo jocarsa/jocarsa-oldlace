@@ -1,0 +1,138 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Jocarsa CornflowerBlue: Herramientas de Productividad Empresarial",
+      "subtitulo": "Simplifica y agiliza tus procesos de negocio",
+      "texto": "Jocarsa CornflowerBlue es una solución SaaS que ofrece un conjunto de herramientas para optimizar la gestión empresarial. Su interfaz intuitiva y funcionalidades avanzadas permiten a las empresas gestionar tareas, recursos y procesos con eficiencia.",
+      "imagen": "placeholder.png",
+      "fondo": "#6495ED"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#6495ED" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Soluciones Personalizadas",
+      "subtitulo": "Adaptadas a tus necesidades empresariales",
+      "texto": "Jocarsa CornflowerBlue proporciona herramientas flexibles para una gestión eficiente y segura.",
+      "imagen": "placeholder.png",
+      "fondo": "#B0C4DE",
+      "columnas": [
+        {
+          "titulo": "Gestión de Proyectos",
+          "subtitulo": "Organización eficaz",
+          "texto": "Planifica, asigna y supervisa tareas en tiempo real."
+        },
+        {
+          "titulo": "Análisis y Reportes",
+          "subtitulo": "Datos para decisiones inteligentes",
+          "texto": "Accede a métricas detalladas y reportes personalizables."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#B0C4DE" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Descubre Jocarsa CornflowerBlue",
+      "subtitulo": "Eficiencia en acción",
+      "texto": "Explora cómo esta herramienta puede transformar tu negocio con funcionalidades avanzadas de gestión.",
+      "imagen": "placeholder.png",
+      "fondo": "#4682B4",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#4682B4" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Funciones Destacadas",
+      "subtitulo": "Potencia tu productividad",
+      "texto": "Descubre las herramientas que harán tu empresa más eficiente.",
+      "imagen": "placeholder.png",
+      "fondo": "#87CEFA",
+      "bloques": [
+        {
+          "titulo": "Gestión de Recursos",
+          "subtitulo": "Optimización del uso",
+          "texto": "Controla y asigna recursos de forma eficiente."
+        },
+        {
+          "titulo": "Colaboración en Línea",
+          "subtitulo": "Trabajo en equipo",
+          "texto": "Permite a los equipos trabajar conjuntamente en tiempo real."
+        },
+        {
+          "titulo": "Automatización de Tareas",
+          "subtitulo": "Ahorro de tiempo",
+          "texto": "Simplifica procesos repetitivos con flujos de trabajo automatizados."
+        },
+        {
+          "titulo": "Reportes Personalizados",
+          "subtitulo": "Información precisa",
+          "texto": "Genera informes adaptados a tus necesidades empresariales."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#87CEFA" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Opiniones de Clientes",
+      "subtitulo": "Experiencias reales con Jocarsa CornflowerBlue",
+      "texto": "Empresas de diversos sectores han optimizado su productividad con nuestras herramientas.",
+      "fondo": "#5F9EA0",
+      "testimonios": [
+        {
+          "nombre": "Sofía González",
+          "cargo": "CEO de TechCorp",
+          "comentario": "Gracias a Jocarsa CornflowerBlue hemos reducido el tiempo de gestión de tareas en un 40%.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Luis Fernández",
+          "cargo": "Gerente de Operaciones en LogiTech",
+          "comentario": "La automatización de tareas ha sido un cambio radical en nuestra productividad diaria.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#5F9EA0" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Empieza Hoy!",
+      "subtitulo": "Optimiza tu empresa con Jocarsa CornflowerBlue",
+      "texto": "Solicita una prueba gratuita y experimenta la eficiencia en tu negocio.",
+      "fondo": "#4169E1",
+      "boton": {
+        "texto_boton": "Probar Gratis",
+        "url": "https://jocarsa.com/cornflowerblue"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#4169E1" }
+    ]
+  }
+]
+

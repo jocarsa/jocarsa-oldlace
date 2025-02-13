@@ -937,6 +937,60 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://jocarsa.com/blog.php?blog=1</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jocarsa.com/blog.php?blog=3</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jocarsa.com/blog.php?blog=4</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jocarsa.com/blog.php?blog=5</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jocarsa.com/blog.php?blog=6</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jocarsa.com/blog.php?blog=7</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jocarsa.com/blog.php?blog=8</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jocarsa.com/blog.php?blog=9</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jocarsa.com/blog.php?blog=10</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://jocarsa.com/blog.php?blog=34</loc>
     <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -1016,6 +1070,12 @@
   </url>
   <url>
     <loc>https://jocarsa.com/blog.php?blog=47</loc>
+    <lastmod>2025-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jocarsa.com/blog.php?blog=48</loc>
     <lastmod>2025-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

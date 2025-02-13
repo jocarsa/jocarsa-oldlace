@@ -7,8 +7,12 @@
   width: 1024px;         /* adjust as needed */
   margin-top: 100px;
   display: grid;         /* use CSS grid */
-  grid-template-columns: repeat(6, 1fr); /* 6 equal columns */
+  grid-template-columns: repeat(2, 1fr); /* 6 equal columns */
   gap: 30px;
+}
+#contienearticulos a{
+  text-decoration:none;
+  color:inherit;
 }
 
 /* FIRST post => full width = spans all 6 columns */
