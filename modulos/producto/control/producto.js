@@ -9,6 +9,7 @@ fetch(ruta_back + "?producto=" + prod)
     return response.json();
   })
   .then(function(datos) {
+  
     let contenedor = document.querySelector("main");
 
     // Título principal con el logo del producto
@@ -16,6 +17,8 @@ fetch(ruta_back + "?producto=" + prod)
     let color = prod.replace("jocarsa | ","")
     tituloPrincipal.innerHTML = `<img src='static/logo/${color}.png' class='logo'> ${prod}`;
     contenedor.appendChild(tituloPrincipal);
+    
+   
 
     // Recorremos los bloques del JSON
     datos.forEach(function(dato) {

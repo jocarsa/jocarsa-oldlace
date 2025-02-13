@@ -1,0 +1,138 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Jocarsa Beige: Análisis Inteligente de Embudos de Ventas",
+      "subtitulo": "Optimiza tu estrategia comercial con datos claros y precisos",
+      "texto": "Jocarsa Beige es una potente solución SaaS diseñada para gestionar y analizar embudos de ventas. Con herramientas intuitivas y una interfaz accesible, te permite comprender el rendimiento de tus campañas y tomar decisiones basadas en datos.",
+      "imagen": "placeholder.png",
+      "fondo": "#f5f5dc"
+    },
+    "estilo": [
+      { "color": "#3e3e2c" },
+      { "background": "#f5f5dc" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Clave",
+      "subtitulo": "Herramientas esenciales para el éxito de tus ventas",
+      "texto": "Desde la creación de embudos hasta el análisis detallado de métricas, Jocarsa Beige ofrece un conjunto completo de funcionalidades para potenciar tu negocio.",
+      "imagen": "placeholder.png",
+      "fondo": "#ede6d6",
+      "columnas": [
+        {
+          "titulo": "Gestión de Embudos",
+          "subtitulo": "Organiza y controla tus campañas",
+          "texto": "Crea, edita y supervisa embudos de ventas con facilidad. Accede a métricas detalladas de alcance, clics, leads y ventas."
+        },
+        {
+          "titulo": "Análisis de Rendimiento",
+          "subtitulo": "Toma decisiones basadas en datos",
+          "texto": "Evalúa el costo por lead, el retorno de inversión y otros indicadores clave para optimizar tus estrategias."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#4c4c39" },
+      { "background": "#ede6d6" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Descubre Jocarsa Beige en acción",
+      "subtitulo": "Una visión rápida de sus capacidades",
+      "texto": "Mira cómo Jocarsa Beige puede transformar tu proceso de ventas con su plataforma intuitiva y potente.",
+      "imagen": "placeholder.png",
+      "fondo": "#f7f3e3",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#2e2e1c" },
+      { "background": "#f7f3e3" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Funciones Principales",
+      "subtitulo": "Todo lo que necesitas en una única plataforma",
+      "texto": "Jocarsa Beige ofrece una amplia gama de herramientas para que puedas gestionar tus embudos de ventas con eficacia.",
+      "imagen": "placeholder.png",
+      "fondo": "#fdfaf3",
+      "bloques": [
+        {
+          "titulo": "Métricas de Campañas",
+          "subtitulo": "Datos detallados",
+          "texto": "Analiza alcance, clics, leads y ventas de cada embudo."
+        },
+        {
+          "titulo": "Gestión de Usuarios",
+          "subtitulo": "Acceso seguro",
+          "texto": "Administra el acceso de usuarios con autenticación protegida."
+        },
+        {
+          "titulo": "Análisis de Costos",
+          "subtitulo": "Optimiza inversiones",
+          "texto": "Consulta el costo por lead y ajusta tu presupuesto."
+        },
+        {
+          "titulo": "Panel Intuitivo",
+          "subtitulo": "Fácil navegación",
+          "texto": "Interfaz accesible para visualizar tus resultados en tiempo real."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#2b2b1b" },
+      { "background": "#fdfaf3" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Nuestros Clientes Opinan",
+      "subtitulo": "Experiencias reales de empresas satisfechas",
+      "texto": "Jocarsa Beige ha ayudado a negocios de diferentes sectores a optimizar sus ventas y maximizar sus beneficios.",
+      "fondo": "#fffaf0",
+      "testimonios": [
+        {
+          "nombre": "Ana Rodríguez",
+          "cargo": "Directora de Ventas, Empresa A",
+          "comentario": "Desde que utilizamos Jocarsa Beige, hemos aumentado nuestras conversiones en un 35%. Su sistema de embudos es increíble.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Méndez",
+          "cargo": "CEO, Empresa B",
+          "comentario": "La claridad de los datos y el análisis del ROI nos han permitido ajustar nuestras estrategias y mejorar nuestros resultados.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#1e1e1e" },
+      { "background": "#fffaf0" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "Optimiza tus Ventas Hoy",
+      "subtitulo": "Descubre el poder del análisis avanzado",
+      "texto": "Empieza a utilizar Jocarsa Beige y lleva tu estrategia comercial al siguiente nivel.",
+      "fondo": "#e0d2b6",
+      "boton": {
+        "texto_boton": "Solicitar Prueba Gratis",
+        "url": "https://jocarsa.com/beige"
+      }
+    },
+    "estilo": [
+      { "color": "#ffffff" },
+      { "background": "#c2b280" }
+    ]
+  }
+]
+

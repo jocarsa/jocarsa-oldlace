@@ -5,3 +5,4 @@ config.php
 .htaccess.backup_country
 .htaccess.backup_user_agent
 logs.sqlite
+logs.sqlite

@@ -27,3 +27,4 @@
 <style>
 	<?php include "piedepagina.css"?>
 </style>
+<?php include "./sitemap.php" ?>

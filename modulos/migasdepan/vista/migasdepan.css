@@ -1,0 +1,12 @@
+#migasdepan{
+	margin:auto;
+	margin-top:50px;
+	width:800px;
+	text-align:center;
+}
+#migasdepan a{
+	color:inherit;
+	text-transform:lowercase;
+	color:grey;
+	text-decoration:none;
+}
