@@ -1,3 +1,10 @@
+/*
+	La función cargaBlog se conecta a la base de datos
+	y recupera todo el contenido de la misma.
+	A cotinuación crea una serie de elementos en la estructura HTML de forma dinámica
+	con cada uno de los artículos recuperados
+*/
+
 function cargaBlog(){
 	fetch(ruta_back+"/?tabla=blog") 													// Cargo un endpoint en el back
 	.then(function(response) { 													// Cuando obtenga respuesta

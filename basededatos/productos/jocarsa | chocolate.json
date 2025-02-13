@@ -1,0 +1,123 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Jocarsa Chocolate: Documentación Automática para tu Código",
+      "subtitulo": "Transforma tu código en documentación clara y organizada",
+      "texto": "Jocarsa Chocolate es un generador de documentación que analiza automáticamente tu código y lo convierte en archivos Markdown, incluyendo imágenes y formatos estructurados para una presentación profesional.",
+      "imagen": "placeholder.png",
+      "fondo": "#ffffff"
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Clave",
+      "subtitulo": "Automatización, precisión y facilidad de uso",
+      "texto": "Jocarsa Chocolate simplifica la documentación de proyectos con sus avanzadas capacidades de análisis de código.",
+      "imagen": "placeholder.png",
+      "fondo": "#f4f4f4",
+      "columnas": [
+        {
+          "titulo": "Generación Automática",
+          "subtitulo": "Convierte código en documentación",
+          "texto": "Extrae información clave de tu código fuente y la presenta en formato Markdown."
+        },
+        {
+          "titulo": "Personalización Completa",
+          "subtitulo": "Adaptado a tus necesidades",
+          "texto": "Configura la salida de documentación mediante `config.json` y optimiza el resultado."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f4f4f4" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Beneficios de Jocarsa Chocolate",
+      "subtitulo": "Agiliza la creación de documentación técnica",
+      "texto": "Descubre cómo Chocolate puede mejorar la organización y presentación de la documentación de tu software.",
+      "imagen": "placeholder.png",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Formato Markdown",
+          "subtitulo": "Compatible con múltiples plataformas",
+          "texto": "Genera archivos en formato estándar Markdown listos para usar en GitHub, Notion y más."
+        },
+        {
+          "titulo": "Soporte para Imágenes",
+          "subtitulo": "Incluye gráficos en la documentación",
+          "texto": "Detecta y copia imágenes relacionadas para enriquecer el contenido generado."
+        },
+        {
+          "titulo": "Interfaz Intuitiva",
+          "subtitulo": "Interfaz gráfica con Tkinter",
+          "texto": "Facilita la configuración del software sin necesidad de conocimientos técnicos avanzados."
+        },
+        {
+          "titulo": "Automatización Eficiente",
+          "subtitulo": "Menos tiempo, mejores resultados",
+          "texto": "Ahorra horas de trabajo manual al generar documentación en segundos."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "faq",
+    "contenido": {
+      "titulo": "Preguntas Frecuentes",
+      "subtitulo": "Más información sobre Chocolate",
+      "texto": "Resolvemos algunas de las dudas más comunes sobre la herramienta.",
+      "fondo": "#ffffff",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipos de archivos puede analizar Jocarsa Chocolate?",
+          "respuesta": "Es compatible con múltiples lenguajes de programación y formatos de código fuente."
+        },
+        {
+          "pregunta": "¿Cómo se configura la documentación generada?",
+          "respuesta": "Puedes ajustar las opciones mediante el archivo `config.json` para personalizar los resultados."
+        },
+        {
+          "pregunta": "¿Puedo incluir imágenes en mi documentación?",
+          "respuesta": "Sí, el software detecta imágenes y las incorpora automáticamente en los archivos generados."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "Optimiza la Documentación de tu Proyecto",
+      "subtitulo": "Empieza a generar documentación automática hoy mismo",
+      "texto": "Convierte tu código en documentación clara y estructurada con Jocarsa Chocolate.",
+      "fondo": "#ffeded",
+      "boton": {
+        "texto_boton": "Descargar Ahora",
+        "url": "https://ejemplo.com/descargar-chocolate"
+      }
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#ffeded" }
+    ]
+  }
+]
+

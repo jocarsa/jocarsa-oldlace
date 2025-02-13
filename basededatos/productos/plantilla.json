@@ -1,0 +1,538 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Título del bloque completo",
+      "subtitulo": "Subtítulo del bloque completo",
+      "texto": "Texto descriptivo o informativo del bloque completo",
+      "imagen": "ruta_o_URL_de_imagen.jpg",
+      "fondo": "#ffffff"
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Título del bloque de dos columnas",
+      "subtitulo": "Subtítulo del bloque de dos columnas",
+      "texto": "Texto introductorio o resumen del bloque de dos columnas",
+      "imagen": "ruta_o_URL_de_imagen.jpg",
+      "fondo": "#f4f4f4",
+      "columnas": [
+        {
+          "titulo": "Título columna 1",
+          "subtitulo": "Subtítulo columna 1",
+          "texto": "Texto detallado de la columna 1"
+        },
+        {
+          "titulo": "Título columna 2",
+          "subtitulo": "Subtítulo columna 2",
+          "texto": "Texto detallado de la columna 2"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f4f4f4" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Título del bloque de YouTube",
+      "subtitulo": "Subtítulo del bloque de YouTube",
+      "texto": "Texto descriptivo o informativo sobre el video",
+      "imagen": "ruta_o_URL_de_imagen_para_thumbnail.jpg",
+      "fondo": "#e0e0e0",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#e0e0e0" }
+    ]
+  },
+  {
+    "tipo": "bloque",
+    "contenido": {
+      "titulo": "Título del bloque simple",
+      "subtitulo": "Subtítulo del bloque simple",
+      "texto": "Texto explicativo o informativo para este bloque",
+      "imagen": "ruta_o_URL_de_imagen.jpg",
+      "fondo": "#f9f9f9"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f9f9f9" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Título del bloque mosaico",
+      "subtitulo": "Subtítulo del bloque mosaico",
+      "texto": "Texto de introducción sobre los beneficios o características",
+      "imagen": "ruta_o_URL_de_imagen.jpg",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Título del bloque 1",
+          "subtitulo": "Subtítulo del bloque 1",
+          "texto": "Descripción breve del bloque 1"
+        },
+        {
+          "titulo": "Título del bloque 2",
+          "subtitulo": "Subtítulo del bloque 2",
+          "texto": "Descripción breve del bloque 2"
+        },
+        {
+          "titulo": "Título del bloque 3",
+          "subtitulo": "Subtítulo del bloque 3",
+          "texto": "Descripción breve del bloque 3"
+        },
+        {
+          "titulo": "Título del bloque 4",
+          "subtitulo": "Subtítulo del bloque 4",
+          "texto": "Descripción breve del bloque 4"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Lo que dicen nuestros clientes",
+      "subtitulo": "Testimonios de usuarios satisfechos",
+      "texto": "Texto opcional para presentar los testimonios",
+      "fondo": "#f0f0f0",
+      "testimonios": [
+        {
+          "nombre": "Juan Pérez",
+          "cargo": "CEO en Empresa X",
+          "comentario": "Comentario o reseña breve destacando la experiencia con el producto o servicio.",
+          "imagen": "ruta_o_URL_de_imagen_testimonio.jpg"
+        },
+        {
+          "nombre": "María López",
+          "cargo": "Directora de Marketing en Empresa Y",
+          "comentario": "Otro comentario o reseña positiva.",
+          "imagen": "ruta_o_URL_de_imagen_testimonio.jpg"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f0f0f0" }
+    ]
+  },
+  {
+    "tipo": "faq",
+    "contenido": {
+      "titulo": "Preguntas Frecuentes",
+      "subtitulo": "Resolviendo tus dudas",
+      "texto": "Texto introductorio opcional para la sección de FAQ",
+      "fondo": "#ffffff",
+      "preguntas": [
+        {
+          "pregunta": "¿Cuál es el tiempo de entrega?",
+          "respuesta": "La entrega se realiza en un plazo de 24 a 48 horas."
+        },
+        {
+          "pregunta": "¿Ofrecen servicio de soporte?",
+          "respuesta": "Sí, tenemos un equipo de soporte disponible 24/7 para ayudarte."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Actúa Ahora!",
+      "subtitulo": "No dejes pasar la oportunidad",
+      "texto": "Texto destacando los motivos por los que debería hacerse clic en el botón",
+      "fondo": "#ffeded",
+      "boton": {
+        "texto_boton": "Comprar Ahora",
+        "url": "https://tusitio.com/comprar"
+      }
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#ffeded" }
+    ]
+  },
+  {
+    "tipo": "contacto",
+    "contenido": {
+      "titulo": "Contáctanos",
+      "subtitulo": "Estamos aquí para ayudarte",
+      "texto": "Puedes enviarnos tus dudas, comentarios o sugerencias mediante este formulario.",
+      "fondo": "#f8f8f8",
+      "formulario": {
+        "campos": [
+          { "nombre_campo": "Nombre", "tipo": "text", "requerido": true },
+          { "nombre_campo": "Correo", "tipo": "email", "requerido": true },
+          { "nombre_campo": "Mensaje", "tipo": "textarea", "requerido": true }
+        ],
+        "texto_boton": "Enviar",
+        "url_envio": "https://tusitio.com/enviar-formulario"
+      }
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f8f8f8" }
+    ]
+  },
+  {
+    "tipo": "precios",
+    "contenido": {
+      "titulo": "Planes y Precios",
+      "subtitulo": "Elige el plan adecuado para ti",
+      "texto": "Ofrecemos distintas opciones para adaptarnos a tus necesidades.",
+      "fondo": "#ffffff",
+      "planes": [
+        {
+          "nombre": "Básico",
+          "precio": "9.99",
+          "periodo": "mes",
+          "caracteristicas": [
+            "Característica 1",
+            "Característica 2"
+          ],
+          "boton": {
+            "texto_boton": "Elegir Básico",
+            "url": "https://tusitio.com/plan-basico"
+          }
+        },
+        {
+          "nombre": "Pro",
+          "precio": "19.99",
+          "periodo": "mes",
+          "caracteristicas": [
+            "Característica 1",
+            "Característica 2",
+            "Característica 3"
+          ],
+          "boton": {
+            "texto_boton": "Elegir Pro",
+            "url": "https://tusitio.com/plan-pro"
+          }
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "carrusel",
+    "contenido": {
+      "titulo": "Nuestros Productos Destacados",
+      "subtitulo": "Revisa nuestro catálogo más popular",
+      "texto": "Un breve texto para invitar a navegar por el carrusel",
+      "fondo": "#fefefe",
+      "slides": [
+        {
+          "titulo": "Producto 1",
+          "descripcion": "Descripción breve del producto 1",
+          "imagen": "ruta_o_URL_de_imagen_producto1.jpg",
+          "enlace": "https://tusitio.com/producto-1"
+        },
+        {
+          "titulo": "Producto 2",
+          "descripcion": "Descripción breve del producto 2",
+          "imagen": "ruta_o_URL_de_imagen_producto2.jpg",
+          "enlace": "https://tusitio.com/producto-2"
+        },
+        {
+          "titulo": "Producto 3",
+          "descripcion": "Descripción breve del producto 3",
+          "imagen": "ruta_o_URL_de_imagen_producto3.jpg",
+          "enlace": "https://tusitio.com/producto-3"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#fefefe" }
+    ]
+  },
+  {
+    "tipo": "equipo",
+    "contenido": {
+      "titulo": "Conoce a nuestro equipo",
+      "subtitulo": "Profesionales dedicados a tu servicio",
+      "texto": "Un texto breve que hable sobre la cultura o misión del equipo",
+      "fondo": "#ffffff",
+      "miembros": [
+        {
+          "nombre": "Carlos García",
+          "cargo": "Fundador & CEO",
+          "imagen": "ruta_o_URL_de_imagen_carlos.jpg",
+          "descripcion": "Breve descripción del rol o trayectoria."
+        },
+        {
+          "nombre": "Ana Ruiz",
+          "cargo": "CTO",
+          "imagen": "ruta_o_URL_de_imagen_ana.jpg",
+          "descripcion": "Breve descripción del rol o trayectoria."
+        },
+        {
+          "nombre": "Pedro López",
+          "cargo": "Desarrollador Senior",
+          "imagen": "ruta_o_URL_de_imagen_pedro.jpg",
+          "descripcion": "Breve descripción del rol o trayectoria."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "newsletter",
+    "contenido": {
+      "titulo": "Suscríbete a nuestro boletín",
+      "subtitulo": "Recibe noticias y promociones",
+      "texto": "Un breve texto de invitación para suscribirse al newsletter",
+      "fondo": "#f2f2f2",
+      "formulario": {
+        "campos": [
+          { "nombre_campo": "Correo electrónico", "tipo": "email", "requerido": true }
+        ],
+        "texto_boton": "Suscribirme",
+        "url_envio": "https://tusitio.com/suscripcion"
+      }
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f2f2f2" }
+    ]
+  },
+  {
+    "tipo": "galeria",
+    "contenido": {
+      "titulo": "Galería de Imágenes",
+      "subtitulo": "Mira lo que hacemos",
+      "texto": "Breve texto descriptivo para la galería",
+      "fondo": "#fafafa",
+      "imagenes": [
+        { "src": "ruta_o_URL_de_imagen_1.jpg", "alt": "Descripción de la imagen 1" },
+        { "src": "ruta_o_URL_de_imagen_2.jpg", "alt": "Descripción de la imagen 2" },
+        { "src": "ruta_o_URL_de_imagen_3.jpg", "alt": "Descripción de la imagen 3" }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#fafafa" }
+    ]
+  },
+  {
+    "tipo": "logos",
+    "contenido": {
+      "titulo": "Nuestros Socios y Aliados",
+      "subtitulo": "Marcas que confían en nosotros",
+      "texto": "Texto breve sobre la relación con los socios o aliados",
+      "fondo": "#ffffff",
+      "items": [
+        { "nombre": "Marca A", "logo": "ruta_o_URL_logo_a.png", "link": "https://marca-a.com" },
+        { "nombre": "Marca B", "logo": "ruta_o_URL_logo_b.png", "link": "https://marca-b.com" },
+        { "nombre": "Marca C", "logo": "ruta_o_URL_logo_c.png", "link": "https://marca-c.com" }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "mapa",
+    "contenido": {
+      "titulo": "Encuéntranos",
+      "subtitulo": "Ubicación de nuestras oficinas",
+      "texto": "Texto opcional para describir la ubicación",
+      "fondo": "#f5f5f5",
+      "embed_mapa": "Código HTML o URL para iframe de Google Maps"
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#f5f5f5" }
+    ]
+  },
+  {
+    "tipo": "countdown",
+    "contenido": {
+      "titulo": "Gran Lanzamiento",
+      "subtitulo": "Cuenta regresiva para nuestro evento",
+      "texto": "Texto para motivar a unirse antes de que se acabe el tiempo",
+      "fondo": "#fffae6",
+      "fecha_objetivo": "2025-12-31T23:59:59",
+      "boton": {
+        "texto_boton": "Apartar mi lugar",
+        "url": "https://tusitio.com/evento"
+      }
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#fffae6" }
+    ]
+  },
+  {
+    "tipo": "blog",
+    "contenido": {
+      "titulo": "Últimas Entradas",
+      "subtitulo": "Lee lo más reciente en nuestro blog",
+      "texto": "Texto opcional introductorio a la sección de blog",
+      "fondo": "#ffffff",
+      "entradas": [
+        {
+          "titulo": "Cómo aumentar tus ventas online",
+          "fecha": "2025-01-10",
+          "autor": "Laura Fernández",
+          "resumen": "Un breve resumen del artículo o post.",
+          "imagen": "ruta_o_URL_blog_1.jpg",
+          "url": "https://tusitio.com/blog/como-aumentar-ventas"
+        },
+        {
+          "titulo": "Tendencias de marketing digital",
+          "fecha": "2025-02-01",
+          "autor": "Pedro Martínez",
+          "resumen": "Conoce las nuevas tendencias para el 2025.",
+          "imagen": "ruta_o_URL_blog_2.jpg",
+          "url": "https://tusitio.com/blog/tendencias-marketing"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "cronologia",
+    "contenido": {
+      "titulo": "Nuestra Historia",
+      "subtitulo": "Línea de tiempo",
+      "texto": "Breve texto sobre los hitos más importantes de la empresa",
+      "fondo": "#f4f4f4",
+      "hitos": [
+        {
+          "fecha": "2010",
+          "titulo": "Fundación",
+          "descripcion": "Descripción breve del hito de fundación."
+        },
+        {
+          "fecha": "2015",
+          "titulo": "Primera Expansión",
+          "descripcion": "Descripción breve de la expansión a nuevos mercados."
+        },
+        {
+          "fecha": "2020",
+          "titulo": "Lanzamiento de Nuevo Producto",
+          "descripcion": "Descripción breve del lanzamiento destacado."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f4f4f4" }
+    ]
+  },
+  {
+    "tipo": "pasos",
+    "contenido": {
+      "titulo": "Proceso de Compra",
+      "subtitulo": "Cómo adquirir nuestro servicio",
+      "texto": "Descripción general de los pasos a seguir",
+      "fondo": "#ffffff",
+      "pasos": [
+        {
+          "numero": "1",
+          "titulo": "Selecciona tu producto",
+          "descripcion": "Elige el servicio o producto que mejor se adapte a tus necesidades."
+        },
+        {
+          "numero": "2",
+          "titulo": "Completa el formulario",
+          "descripcion": "Proporciona tus datos y confirma tu pedido."
+        },
+        {
+          "numero": "3",
+          "titulo": "Recibe el producto",
+          "descripcion": "Disfruta de nuestro servicio con la calidad garantizada."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "premios",
+    "contenido": {
+      "titulo": "Reconocimientos y Premios",
+      "subtitulo": "Logros que nos enorgullecen",
+      "texto": "Breve descripción de la importancia de estos reconocimientos",
+      "fondo": "#fafafa",
+      "lista_premios": [
+        {
+          "nombre": "Mejor Startup 2024",
+          "otorgado_por": "Asociación XYZ",
+          "fecha": "2024-10-15",
+          "descripcion": "Premio otorgado por destacada innovación en servicios digitales."
+        },
+        {
+          "nombre": "Premio a la Excelencia",
+          "otorgado_por": "Cámara de Comercio ABC",
+          "fecha": "2023-06-20",
+          "descripcion": "Reconocimiento a la calidad y servicio al cliente."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#fafafa" }
+    ]
+  },
+  {
+    "tipo": "politica",
+    "contenido": {
+      "titulo": "Aviso Legal y Políticas",
+      "subtitulo": "Términos y Condiciones",
+      "texto": "Aquí se detallan nuestras políticas de uso, privacidad y términos legales.",
+      "fondo": "#ffffff",
+      "enlaces_politica": [
+        {
+          "titulo": "Política de Privacidad",
+          "url": "https://tusitio.com/politica-de-privacidad"
+        },
+        {
+          "titulo": "Términos y Condiciones",
+          "url": "https://tusitio.com/terminos-y-condiciones"
+        },
+        {
+          "titulo": "Cookies",
+          "url": "https://tusitio.com/politica-de-cookies"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#ffffff" }
+    ]
+  }
+]
+

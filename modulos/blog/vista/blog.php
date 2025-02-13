@@ -1,3 +1,7 @@
+<!-- 
+	En este archivo encontramos la estructura básica 
+	del blog de la aplicación jocarsa | oldlace
+-->
 <main id="blog"> 
 	<h2>Blog</h2>
 	<div id="contienearticulos">

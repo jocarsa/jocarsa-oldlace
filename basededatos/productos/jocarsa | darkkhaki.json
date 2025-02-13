@@ -2,132 +2,109 @@
   {
     "tipo": "completo",
     "contenido": {
-      "titulo": "Organiza tus Ideas con Nuestra Herramienta de Notas Online",
-      "subtitulo": "Un espacio seguro y accesible para tus pensamientos y proyectos",
-      "texto": "Nuestro software de notas online está diseñado para ayudarte a capturar, organizar y acceder a tus ideas en cualquier momento y desde cualquier lugar.",
-      "imagen": "path_to_main_image.jpg",
-      "fondo": "#f4f4f4"
+      "titulo": "Bienvenido a Darkkhaki",
+      "subtitulo": "Tu espacio de notas flotantes online",
+      "texto": "Darkkhaki es una plataforma innovadora que te permite tomar notas de manera rápida, organizada y accesible desde cualquier dispositivo. Ideal para profesionales, estudiantes y creativos.",
+      "imagen": "placeholder.png",
+      "fondo": "#2f2f2f"
     },
     "estilo": [
-      {"color": "#333"},
-      {"background": "#f4f4f4"}
+      { "color": "#ffffff" },
+      { "background": "#2f2f2f" }
     ]
   },
   {
     "tipo": "doscolumnas",
     "contenido": {
-      "titulo": "Características Principales",
-      "subtitulo": "Todo lo que necesitas en una herramienta de notas",
-      "texto": "Simplifica la manera en que organizas tus ideas con funciones diseñadas para mejorar tu productividad.",
-      "imagen": "path_to_features_image.jpg",
-      "fondo": "#ffffff",
+      "titulo": "Características de Darkkhaki",
+      "subtitulo": "Descubre lo que lo hace único",
+      "texto": "Darkkhaki es más que una simple aplicación de notas. Está diseñada para ofrecer una experiencia fluida y eficiente.",
+      "imagen": "placeholder.png",
+      "fondo": "#f4f4f4",
       "columnas": [
         {
-          "titulo": "Edición en Tiempo Real",
-          "subtitulo": "Mantén tus notas actualizadas",
-          "texto": "Crea y edita notas fácilmente con herramientas intuitivas y rápidas."
+          "titulo": "Accesible en la nube",
+          "subtitulo": "Tus notas siempre contigo",
+          "texto": "Guarda todas tus notas en la nube y accede a ellas desde cualquier dispositivo, sin perder información."
         },
         {
-          "titulo": "Acceso Multidispositivo",
-          "subtitulo": "Siempre contigo",
-          "texto": "Accede a tus notas desde cualquier dispositivo conectado a Internet."
+          "titulo": "Interfaz Minimalista",
+          "subtitulo": "Diseño limpio y sin distracciones",
+          "texto": "Nuestra interfaz está optimizada para que tomes notas rápidamente sin elementos innecesarios."
         }
       ]
     },
     "estilo": [
-      {"color": "#000"},
-      {"background": "#ffffff"}
-    ]
-  },
-  {
-    "tipo": "bloque",
-    "contenido": {
-      "titulo": "Tu Espacio, Tu Estilo",
-      "subtitulo": "Personaliza tus notas",
-      "texto": "Organiza tus ideas con etiquetas, categorías y plantillas personalizables para que todo esté justo donde lo necesitas.",
-      "imagen": "path_to_personalization_image.jpg",
-      "fondo": "#f9f9f9"
-    },
-    "estilo": [
-      {"color": "#333"},
-      {"background": "#f9f9f9"}
+      { "color": "#333333" },
+      { "background": "#f4f4f4" }
     ]
   },
   {
     "tipo": "youtube",
     "contenido": {
-      "titulo": "Descubre cómo nuestra herramienta puede ayudarte",
-      "subtitulo": "Video demostrativo",
-      "texto": "Explora las funcionalidades principales de nuestra plataforma de notas online y cómo puede transformar tu productividad diaria.",
-      "imagen": "path_to_video_thumbnail.jpg",
+      "titulo": "Mira cómo funciona Darkkhaki",
+      "subtitulo": "Un vistazo rápido a la aplicación",
+      "texto": "En este video, te mostramos cómo usar Darkkhaki para maximizar tu productividad.",
+      "imagen": "placeholder.png",
       "fondo": "#e0e0e0",
-      "url": "lij4lqfWeaw"
+      "url": "https://www.youtube.com/watch?v=ejemplo"
     },
     "estilo": [
-      {"color": "#111"},
-      {"background": "#e0e0e0"}
+      { "color": "#111111" },
+      { "background": "#e0e0e0" }
     ]
   },
   {
     "tipo": "mosaico",
     "contenido": {
-      "titulo": "Ventajas de Usar Nuestra Herramienta",
-      "subtitulo": "Beneficios clave",
-      "texto": "Diseñada para mejorar la organización y accesibilidad de tus ideas.",
-      "imagen": "path_to_benefits_image.jpg",
+      "titulo": "Beneficios de Darkkhaki",
+      "subtitulo": "Optimiza tu flujo de trabajo",
+      "texto": "Nuestra plataforma está pensada para facilitar la gestión de notas de forma eficiente y rápida.",
+      "imagen": "placeholder.png",
       "fondo": "#ffffff",
       "bloques": [
         {
-          "titulo": "Organización Eficiente",
-          "subtitulo": "Todo en su lugar",
-          "texto": "Categoriza tus notas y accede a ellas de manera rápida."
+          "titulo": "Notas Ilimitadas",
+          "subtitulo": "Guarda todo lo que necesites",
+          "texto": "No hay límite en la cantidad de notas que puedes crear."
         },
         {
-          "titulo": "Seguridad Garantizada",
-          "subtitulo": "Protección avanzada",
-          "texto": "Tus datos están seguros con encriptación y respaldos automáticos."
+          "titulo": "Edición Rápida",
+          "subtitulo": "Modifica tus notas en segundos",
+          "texto": "Interfaz intuitiva para agregar o modificar información rápidamente."
         },
         {
-          "titulo": "Colaboración en Equipo",
-          "subtitulo": "Comparte y edita",
-          "texto": "Comparte notas con otros usuarios y trabaja en conjunto fácilmente."
+          "titulo": "Modo Oscuro",
+          "subtitulo": "Cuidado para tu vista",
+          "texto": "Darkkhaki tiene un modo oscuro ideal para largas sesiones de trabajo."
         },
         {
-          "titulo": "Diseño Intuitivo",
-          "subtitulo": "Fácil de usar",
-          "texto": "Una interfaz pensada para maximizar tu productividad."
+          "titulo": "Exportación Fácil",
+          "subtitulo": "Guarda en múltiples formatos",
+          "texto": "Exporta tus notas en PDF, TXT o Markdown."
         }
       ]
     },
     "estilo": [
-      {"color": "#444"},
-      {"background": "#ffffff"}
+      { "color": "#444444" },
+      { "background": "#ffffff" }
     ]
   },
   {
-    "tipo": "doscolumnas",
+    "tipo": "cta",
     "contenido": {
-      "titulo": "Casos de Éxito",
-      "subtitulo": "Cómo otros aprovechan nuestra herramienta",
-      "texto": "Miles de usuarios han optimizado su flujo de trabajo con nuestra plataforma de notas.",
-      "imagen": "path_to_success_image.jpg",
-      "fondo": "#f3f3f3",
-      "columnas": [
-        {
-          "titulo": "Profesionales Creativos",
-          "subtitulo": "Más enfoque",
-          "texto": "Diseñadores y escritores utilizan nuestra herramienta para centralizar ideas y proyectos."
-        },
-        {
-          "titulo": "Equipos de Trabajo",
-          "subtitulo": "Mejor colaboración",
-          "texto": "Equipos han reportado una mejora en la organización y comunicación gracias a las notas compartidas."
-        }
-      ]
+      "titulo": "¡Empieza Gratis!",
+      "subtitulo": "Regístrate ahora y prueba Darkkhaki",
+      "texto": "No pierdas más tiempo buscando dónde guardar tus ideas. Empieza hoy mismo a organizarte con Darkkhaki.",
+      "fondo": "#ffeded",
+      "boton": {
+        "texto_boton": "Regístrate Gratis",
+        "url": "https://darkkhaki.com/registro"
+      }
     },
     "estilo": [
-      {"color": "#333"},
-      {"background": "#f3f3f3"}
+      { "color": "#000000" },
+      { "background": "#ffeded" }
     ]
   }
 ]

@@ -27,7 +27,7 @@ function procesaCabecera(){
 		         console.log("Vamos a ver que hay en esta categoria");
 		         console.log(this.textContent)
 		         let tituloseccion = this.textContent						// Cargo el titulo de la categoria
-		         fetch(ruta_back+"?busca=productos&campo=categorias_nombre&dato="+this.getAttribute("cat"))	// Fetch para obtener productos por cateogrias
+		         fetch(ruta_back+'?buscaMultiple=productos&criterios={"categorias_nombre":"'+this.getAttribute("cat")+'","activo":"si"}')	// Fetch para obtener productos por cateogrias
 		         .then(function(response) { 									// Cuando obtenga respuesta
 						 return response.json(); 									// La convierto en json
 					})

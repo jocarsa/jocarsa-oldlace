@@ -1,0 +1,118 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Jocarsa | Orchid: Crea y Gestiona tu Portafolio Web",
+      "subtitulo": "Un potente generador de portafolios en la nube",
+      "texto": "Jocarsa | Orchid es una solución SaaS que te permite crear, administrar y mostrar tu portafolio profesional en línea con facilidad. Con una interfaz intuitiva y un potente sistema de gestión de proyectos, podrás exhibir tu trabajo de manera profesional.",
+      "imagen": "placeholder.png",
+      "fondo": "#4b0082"
+    },
+    "estilo": [
+      { "color": "#ffffff" },
+      { "background": "#4b0082" },
+      { "font-size": "20px" },
+      { "padding": "20px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Funcionalidades Clave",
+      "subtitulo": "Todo lo que necesitas para destacar",
+      "texto": "Orchid está diseñado para ofrecerte un control total sobre la presentación de tu portafolio.",
+      "imagen": "placeholder.png",
+      "fondo": "#663399",
+      "columnas": [
+        {
+          "titulo": "Gestión de Proyectos",
+          "subtitulo": "Administra tu trabajo fácilmente",
+          "texto": "Añade, edita y organiza tus proyectos con una interfaz sencilla y eficiente."
+        },
+        {
+          "titulo": "Personalización Completa",
+          "subtitulo": "Diseña tu portafolio a tu gusto",
+          "texto": "Ajusta colores, fuentes y estilos para que tu portafolio refleje tu identidad profesional."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#ffffff" },
+      { "background": "#663399" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Lo que dicen nuestros usuarios",
+      "subtitulo": "Historias de éxito con Orchid",
+      "texto": "Descubre cómo Orchid ha transformado la presencia digital de nuestros usuarios.",
+      "fondo": "#6a0dad",
+      "testimonios": [
+        {
+          "nombre": "Laura Martínez",
+          "cargo": "Diseñadora Gráfica",
+          "comentario": "Orchid me permitió mostrar mis proyectos de una manera visualmente impactante y profesional.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Rodríguez",
+          "cargo": "Fotógrafo Freelance",
+          "comentario": "La facilidad de uso y la personalización de Orchid lo hacen la mejor opción para creativos como yo.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#ffffff" },
+      { "background": "#6a0dad" },
+      { "font-style": "italic" }
+    ]
+  },
+  {
+    "tipo": "precios",
+    "contenido": {
+      "titulo": "Planes y Precios",
+      "subtitulo": "Elige el mejor plan para ti",
+      "texto": "Desde opciones básicas hasta paquetes avanzados, Orchid se adapta a tus necesidades.",
+      "fondo": "#800080",
+      "planes": [
+        {
+          "nombre": "Básico",
+          "precio": "Gratis",
+          "periodo": "Permanente",
+          "caracteristicas": [
+            "Publicación de hasta 5 proyectos",
+            "Personalización básica",
+            "Soporte vía foro"
+          ],
+          "boton": {
+            "texto_boton": "Empezar Gratis",
+            "url": "#"
+          }
+        },
+        {
+          "nombre": "Profesional",
+          "precio": "9.99",
+          "periodo": "mes",
+          "caracteristicas": [
+            "Proyectos ilimitados",
+            "Dominio personalizado",
+            "Soporte prioritario"
+          ],
+          "boton": {
+            "texto_boton": "Elegir Profesional",
+            "url": "#"
+          }
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#ffffff" },
+      { "background": "#800080" },
+      { "border": "1px solid #ffffff" }
+    ]
+  }
+]
+

@@ -1,0 +1,102 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Jocarsa | Firebrick",
+      "subtitulo": "Gestión de proyectos simplificada",
+      "texto": "Una plataforma para administrar proyectos, rastrear iteraciones y colaborar con clientes y proveedores de manera eficiente.",
+      "imagen": "placeholder.png",
+      "fondo": "#b22222"
+    },
+    "estilo": [
+      { "color": "#ffffff" },
+      { "background": "#b22222" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Funciones Principales",
+      "subtitulo": "Optimiza la gestión de proyectos",
+      "texto": "Jocarsa | Firebrick ofrece herramientas avanzadas para la organización y el control de proyectos.",
+      "imagen": "placeholder.png",
+      "fondo": "#f4f4f4",
+      "columnas": [
+        {
+          "titulo": "Gestión de Proyectos",
+          "subtitulo": "Crea y administra proyectos",
+          "texto": "Organiza proyectos en carpetas, asigna tareas y haz un seguimiento eficiente."
+        },
+        {
+          "titulo": "Colaboración en Iteraciones",
+          "subtitulo": "Monitorea el progreso",
+          "texto": "Cada proyecto puede dividirse en iteraciones con archivos adjuntos y actualizaciones."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f4f4f4" }
+    ]
+  },
+  {
+    "tipo": "bloque",
+    "contenido": {
+      "titulo": "Roles y Permisos",
+      "subtitulo": "Diferentes accesos según el usuario",
+      "texto": "Los administradores pueden crear y gestionar proyectos, mientras que los clientes pueden comentar y ver el progreso.",
+      "imagen": "placeholder.png",
+      "fondo": "#f9f9f9"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f9f9f9" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Lo que dicen nuestros usuarios",
+      "subtitulo": "Experiencias reales con Jocarsa | Firebrick",
+      "texto": "Descubre cómo Jocarsa | Firebrick ha ayudado a empresas a mejorar su gestión de proyectos.",
+      "fondo": "#f0f0f0",
+      "testimonios": [
+        {
+          "nombre": "Carlos Méndez",
+          "cargo": "Gerente de Proyectos en Innovatech",
+          "comentario": "Desde que usamos Firebrick, el seguimiento de iteraciones y la comunicación con clientes ha mejorado drásticamente.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Laura Ramírez",
+          "cargo": "Directora de Desarrollo en SoftCorp",
+          "comentario": "Una herramienta increíblemente útil para la gestión de equipos y entregables de proyectos.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f0f0f0" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "Empieza hoy mismo",
+      "subtitulo": "Optimiza la gestión de tus proyectos",
+      "texto": "Regístrate y lleva la administración de proyectos a un nuevo nivel con Jocarsa | Firebrick.",
+      "fondo": "#ffeded",
+      "boton": {
+        "texto_boton": "Regístrate Gratis",
+        "url": "https://tusitio.com/registro"
+      }
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#ffeded" }
+    ]
+  }
+]

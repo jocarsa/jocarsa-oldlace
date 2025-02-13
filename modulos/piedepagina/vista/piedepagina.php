@@ -22,7 +22,7 @@
 	<div class="centro"><h6>Web hecha con <img src="https://jocarsa.com/static/logo/jocarsa | black.svg">jocarsa | oldlace</h6></div>
 </footer>
 	<script>
-	<?php include "./modulos/piedepagina/control/piedepaginapiedepagina.js"?>
+	<?php include "./modulos/piedepagina/control/piedepagina.js"?>
 </script>
 <style>
 	<?php include "piedepagina.css"?>

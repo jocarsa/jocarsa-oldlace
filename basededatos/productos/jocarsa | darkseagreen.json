@@ -1,0 +1,111 @@
+{
+  "modulos": [
+    {
+      "tipo": "completo",
+      "contenido": {
+        "titulo": "DarkSeaGreen Audio Analyzer",
+        "subtitulo": "Análisis de espectro en tiempo real para profesionales del sonido",
+        "texto": "Captura, analiza y visualiza espectros de audio con precisión. Ideal para ingenieros de sonido, músicos y técnicos de audio.",
+        "imagen": "placeholder.png",
+        "fondo": "#2E8B57"
+      },
+      "estilo": [
+        { "color": "#ffffff" },
+        { "background": "#2E8B57" },
+        { "font-size": "18px" },
+        { "padding": "20px" }
+      ]
+    },
+    {
+      "tipo": "doscolumnas",
+      "contenido": {
+        "titulo": "Características Destacadas",
+        "subtitulo": "Todo lo que necesitas en un analizador de espectro",
+        "texto": "Obtén un análisis preciso de cualquier señal de audio con las mejores herramientas digitales.",
+        "imagen": "placeholder.png",
+        "fondo": "#f4f4f4",
+        "columnas": [
+          {
+            "titulo": "Alta precisión",
+            "subtitulo": "Captura espectros con una resolución superior",
+            "texto": "Nuestro algoritmo avanzado permite un muestreo preciso de frecuencias en tiempo real."
+          },
+          {
+            "titulo": "Interfaz intuitiva",
+            "subtitulo": "Diseño moderno y funcional",
+            "texto": "Interfaz limpia y personalizable para facilitar la lectura de los datos acústicos."
+          }
+        ]
+      },
+      "estilo": [
+        { "color": "#333333" },
+        { "background": "#f4f4f4" },
+        { "border-radius": "8px" }
+      ]
+    },
+    {
+      "tipo": "youtube",
+      "contenido": {
+        "titulo": "Mira cómo funciona",
+        "subtitulo": "Análisis de espectro en acción",
+        "texto": "Observa el software analizando en tiempo real una señal de audio y cómo puedes utilizarlo en tu estudio.",
+        "imagen": "placeholder.png",
+        "fondo": "#e0e0e0",
+        "url": "https://www.youtube.com/watch?v=ID_del_video"
+      },
+      "estilo": [
+        { "color": "#111111" },
+        { "background": "#e0e0e0" },
+        { "border-radius": "8px" }
+      ]
+    },
+    {
+      "tipo": "testimonios",
+      "contenido": {
+        "titulo": "Lo que dicen nuestros usuarios",
+        "subtitulo": "Reseñas de profesionales del audio",
+        "texto": "Descubre cómo DarkSeaGreen Audio Analyzer ha transformado el trabajo de expertos en sonido.",
+        "fondo": "#f0f0f0",
+        "testimonios": [
+          {
+            "nombre": "Carlos Mendoza",
+            "cargo": "Ingeniero de sonido",
+            "comentario": "Este analizador ha cambiado la forma en que trabajo. Precisión increíble y visualización clara.",
+            "imagen": "placeholder.png"
+          },
+          {
+            "nombre": "Ana Rodríguez",
+            "cargo": "Música y productora",
+            "comentario": "Ahora puedo ajustar mis mezclas de manera más eficiente. Es justo lo que necesitaba.",
+            "imagen": "placeholder.png"
+          }
+        ]
+      },
+      "estilo": [
+        { "color": "#333333" },
+        { "background": "#f0f0f0" },
+        { "border-left": "5px solid #2E8B57" }
+      ]
+    },
+    {
+      "tipo": "cta",
+      "contenido": {
+        "titulo": "Descarga ahora",
+        "subtitulo": "Empieza a analizar sonido como un profesional",
+        "texto": "Obtén DarkSeaGreen Audio Analyzer y lleva tus proyectos de audio al siguiente nivel.",
+        "fondo": "#ffeded",
+        "boton": {
+          "texto_boton": "Descargar Ahora",
+          "url": "https://tusitio.com/descargar"
+        }
+      },
+      "estilo": [
+        { "color": "#000000" },
+        { "background": "#ffeded" },
+        { "padding": "20px" },
+        { "text-align": "center" }
+      ]
+    }
+  ]
+}
+

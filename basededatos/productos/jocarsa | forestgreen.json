@@ -1,0 +1,84 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "jocarsa | forestgreen",
+      "subtitulo": "Un sistema de chat empresarial eficiente",
+      "texto": "Una solución robusta y segura para la comunicación interna de empresas y equipos de trabajo.",
+      "imagen": "placeholder.png",
+      "fondo": "#f0f2f5"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f0f2f5" },
+      { "font-family": "Ubuntu, sans-serif" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Mensajería Instantánea",
+      "subtitulo": "Chat en tiempo real",
+      "texto": "Comunicación eficiente con almacenamiento en SQLite y soporte AJAX.",
+      "imagen": "placeholder.png",
+      "fondo": "#ffffff",
+      "columnas": [
+        {
+          "titulo": "Chats privados",
+          "subtitulo": "Conversaciones seguras",
+          "texto": "Cada mensaje se almacena en una base de datos cifrada para mayor seguridad."
+        },
+        {
+          "titulo": "Chats grupales",
+          "subtitulo": "Conéctate con todo el equipo",
+          "texto": "Crea grupos de conversación con opciones avanzadas de configuración."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "faq",
+    "contenido": {
+      "titulo": "Preguntas Frecuentes",
+      "subtitulo": "Resolvemos tus dudas",
+      "texto": "Algunas respuestas a las preguntas más comunes sobre jocarsa | forestgreen.",
+      "fondo": "#ffffff",
+      "preguntas": [
+        {
+          "pregunta": "¿Es seguro este sistema de chat?",
+          "respuesta": "Sí, utiliza almacenamiento en SQLite con cifrado y una API protegida."
+        },
+        {
+          "pregunta": "¿Puedo instalarlo en mi servidor?",
+          "respuesta": "Sí, está desarrollado en PHP y se puede desplegar en cualquier servidor con soporte SQLite."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Empieza ahora!",
+      "subtitulo": "Instala jocarsa | forestgreen en tu empresa",
+      "texto": "Descarga e implementa este sistema de chat en pocos minutos.",
+      "fondo": "#2E8B57",
+      "boton": {
+        "texto_boton": "Descargar ahora",
+        "url": "https://jocarsa.com/descargar"
+      }
+    },
+    "estilo": [
+      { "color": "#ffffff" },
+      { "background": "#2E8B57" }
+    ]
+  }
+]
+

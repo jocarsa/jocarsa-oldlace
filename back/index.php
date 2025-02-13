@@ -32,6 +32,15 @@
 		echo file_get_contents("../basededatos/productos/".$_GET['producto'].".json");
 		
 	}
+	if(isset($_GET['buscaMultiple'])){
+        if(isset($_GET['criterios'])){
+            $tabla = $_GET['buscaMultiple'];
+            $criterios = json_decode($_GET['criterios'], true);
+            echo $conexion->buscaAlgoMultiple($tabla, $criterios);
+        } else {
+            echo json_encode(["error" => "Missing 'criterios' parameter"]);
+        }
+    }
 	
 ?>
 	

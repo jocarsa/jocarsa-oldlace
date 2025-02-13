@@ -1,4 +1,7 @@
-/* Container: 6-column Grid */
+/*
+	Este archivo contiene los estilos específicos 
+	del componente blog de la aplicación oldLace
+*/
 #contienearticulos {
   margin: auto;
   width: 1024px;         /* adjust as needed */

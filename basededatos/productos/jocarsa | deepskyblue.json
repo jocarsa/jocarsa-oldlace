@@ -1,0 +1,104 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Jocarsa | DeepSkyBlue",
+      "subtitulo": "Crea y gestiona mapas mentales desde el navegador",
+      "texto": "Jocarsa | DeepSkyBlue es una potente herramienta de mapas mentales en línea. Diseñada para ayudar a visualizar ideas, organizar proyectos y mejorar la productividad.",
+      "imagen": "placeholder.png",
+      "fondo": "#00BFFF"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#00BFFF" },
+      { "font-family": "Ubuntu, sans-serif" },
+      { "text-align": "center" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Descubre todo lo que puedes hacer",
+      "texto": "Desde la autenticación hasta la personalización, Jocarsa | DeepSkyBlue ofrece todo lo necesario para organizar tus ideas de manera eficiente.",
+      "imagen": "placeholder.png",
+      "fondo": "#ECF0F1",
+      "columnas": [
+        {
+          "titulo": "Gestión de Mapas",
+          "subtitulo": "Crea, edita y elimina mapas mentales",
+          "texto": "Cada usuario puede gestionar múltiples mapas mentales en su cuenta, organizando nodos y relaciones de manera intuitiva."
+        },
+        {
+          "titulo": "Sincronización en la Nube",
+          "subtitulo": "Accede a tus mapas en cualquier dispositivo",
+          "texto": "Gracias a la integración con una base de datos SQLite, todos los mapas mentales se almacenan de forma segura."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#ECF0F1" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Mira cómo funciona Jocarsa | DeepSkyBlue",
+      "subtitulo": "Tutorial paso a paso",
+      "texto": "En este video te mostramos cómo aprovechar al máximo la herramienta para organizar tus ideas.",
+      "imagen": "placeholder.png",
+      "fondo": "#E0E0E0",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#E0E0E0" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Opiniones de nuestros usuarios",
+      "subtitulo": "Lo que dicen sobre Jocarsa | DeepSkyBlue",
+      "texto": "Descubre cómo esta herramienta ha cambiado la forma en la que los usuarios organizan sus ideas.",
+      "fondo": "#F0F0F0",
+      "testimonios": [
+        {
+          "nombre": "Ana Martínez",
+          "cargo": "Gestora de proyectos",
+          "comentario": "Esta herramienta me ha ayudado a organizar mis ideas y proyectos de una manera increíblemente efectiva.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Luis Fernández",
+          "cargo": "Desarrollador de software",
+          "comentario": "Me encanta la interfaz y la facilidad con la que puedo crear y compartir mapas mentales.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F0F0F0" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "Comienza hoy mismo",
+      "subtitulo": "Prueba Jocarsa | DeepSkyBlue gratis",
+      "texto": "Crea tu cuenta y empieza a gestionar tus mapas mentales de manera sencilla y eficiente.",
+      "fondo": "#FFECED",
+      "boton": {
+        "texto_boton": "Registrarme",
+        "url": "https://jocarsa.com/registro"
+      }
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#FFECED" }
+    ]
+  }
+]
+

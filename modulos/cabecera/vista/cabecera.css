@@ -15,7 +15,7 @@ header{
 }
 
 .grande{
-	height:240px !important;
+	height:auto !important;
 }
 header .contenedor{
 	text-align:center;

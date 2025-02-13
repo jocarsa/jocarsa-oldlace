@@ -1,0 +1,97 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "DarkTurquoise - El Teleprompter Online Definitivo",
+      "subtitulo": "Convierte tu dispositivo en un teleprompter profesional",
+      "texto": "DarkTurquoise es una herramienta avanzada de teleprompter online diseñada para presentadores, creadores de contenido y profesionales de medios. Con su interfaz sencilla y funciones avanzadas, permite ajustar la velocidad del texto, cambiar el tamaño de fuente, reflejar el texto para espejos, activar pantalla completa y mucho más.",
+      "imagen": "placeholder.png",
+      "fondo": "#f4f4f4"
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#f4f4f4" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Una solución completa para teleprompters digitales",
+      "texto": "DarkTurquoise ofrece funcionalidades innovadoras para mejorar tus presentaciones.",
+      "imagen": "placeholder.png",
+      "fondo": "#e0f7fa",
+      "columnas": [
+        {
+          "titulo": "Ajuste de Velocidad",
+          "subtitulo": "Controla el ritmo de tu presentación",
+          "texto": "Modifica la velocidad del desplazamiento de texto para adaptarse a tu ritmo de lectura."
+        },
+        {
+          "titulo": "Modo Espejo",
+          "subtitulo": "Perfecto para teleprompters físicos",
+          "texto": "Refleja el texto horizontalmente para usarlo con espejos de teleprompter profesionales."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#e0f7fa" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Mira cómo funciona DarkTurquoise",
+      "subtitulo": "Guía rápida para comenzar",
+      "texto": "Aprende en pocos minutos cómo utilizar todas las funciones de DarkTurquoise para mejorar tus presentaciones.",
+      "imagen": "placeholder.png",
+      "fondo": "#ffffff",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "faq",
+    "contenido": {
+      "titulo": "Preguntas Frecuentes",
+      "subtitulo": "Resolviendo tus dudas",
+      "texto": "Encuentra respuestas a las preguntas más comunes sobre DarkTurquoise.",
+      "fondo": "#f8f8f8",
+      "preguntas": [
+        {
+          "pregunta": "¿Puedo usar DarkTurquoise en mi móvil?",
+          "respuesta": "Sí, DarkTurquoise es compatible con dispositivos móviles y adaptado para pantallas táctiles."
+        },
+        {
+          "pregunta": "¿Cómo guardo mis configuraciones?",
+          "respuesta": "Las configuraciones se guardan automáticamente en tu navegador mediante localStorage."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#f8f8f8" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Empieza a usar DarkTurquoise ahora!",
+      "subtitulo": "Teleprompter online gratuito y profesional",
+      "texto": "Descubre la mejor forma de presentar con fluidez y profesionalismo.",
+      "fondo": "#00796b",
+      "boton": {
+        "texto_boton": "Probar Ahora",
+        "url": "https://darkturquoise.jocarsa.com"
+      }
+    },
+    "estilo": [
+      { "color": "#ffffff" },
+      { "background": "#00796b" }
+    ]
+  }
+]

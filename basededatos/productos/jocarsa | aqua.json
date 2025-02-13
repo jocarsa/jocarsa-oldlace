@@ -1,0 +1,123 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "Jocarsa Aqua: Tu Escritorio de Aplicaciones Unificado",
+      "subtitulo": "Accede fácilmente a todas tus aplicaciones en un solo lugar",
+      "texto": "Jocarsa Aqua es una plataforma de agregación de aplicaciones que permite a individuos y organizaciones gestionar y acceder a múltiples aplicaciones de Jocarsa desde un escritorio unificado.",
+      "imagen": "placeholder.png",
+      "fondo": "#ffffff"
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Principales Características",
+      "subtitulo": "Gestión eficiente de aplicaciones",
+      "texto": "Jocarsa Aqua permite un acceso centralizado y seguro a múltiples herramientas esenciales.",
+      "imagen": "placeholder.png",
+      "fondo": "#f4f4f4",
+      "columnas": [
+        {
+          "titulo": "Gestión de Usuarios",
+          "subtitulo": "Sistema de autenticación",
+          "texto": "Permite la autenticación segura de usuarios mediante una base de datos centralizada."
+        },
+        {
+          "titulo": "Panel de Administración",
+          "subtitulo": "Control total sobre las aplicaciones",
+          "texto": "Los administradores pueden gestionar qué aplicaciones están disponibles para los usuarios."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f4f4f4" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Beneficios de Aqua",
+      "subtitulo": "Optimiza tu acceso a aplicaciones",
+      "texto": "Jocarsa Aqua facilita la gestión de aplicaciones para equipos y organizaciones.",
+      "imagen": "placeholder.png",
+      "fondo": "#ffffff",
+      "bloques": [
+        {
+          "titulo": "Acceso Rápido",
+          "subtitulo": "Interfaz intuitiva",
+          "texto": "Permite a los usuarios acceder a todas sus aplicaciones en un solo lugar."
+        },
+        {
+          "titulo": "Seguridad Integrada",
+          "subtitulo": "Protección de datos",
+          "texto": "Cada usuario accede con credenciales protegidas y cifradas."
+        },
+        {
+          "titulo": "Administración Centralizada",
+          "subtitulo": "Control total para administradores",
+          "texto": "Configura y gestiona las aplicaciones disponibles en la plataforma."
+        },
+        {
+          "titulo": "Integración con Jocarsa",
+          "subtitulo": "Compatibilidad total",
+          "texto": "Accede a todas las aplicaciones de Jocarsa sin necesidad de instalaciones adicionales."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "faq",
+    "contenido": {
+      "titulo": "Preguntas Frecuentes",
+      "subtitulo": "Resolviendo tus dudas sobre Aqua",
+      "texto": "Aquí respondemos las preguntas más comunes sobre nuestro software.",
+      "fondo": "#ffffff",
+      "preguntas": [
+        {
+          "pregunta": "¿Qué tipo de aplicaciones puedo agregar en Aqua?",
+          "respuesta": "Puedes agregar cualquier aplicación de Jocarsa disponible en el sistema."
+        },
+        {
+          "pregunta": "¿Cómo se gestionan los permisos de acceso?",
+          "respuesta": "Los administradores pueden definir qué usuarios tienen acceso a qué aplicaciones desde el panel de control."
+        },
+        {
+          "pregunta": "¿Es necesario instalar software adicional?",
+          "respuesta": "No, Aqua funciona completamente en la nube y no requiere instalación."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "Comienza a Usar Aqua",
+      "subtitulo": "Unifica el acceso a todas tus aplicaciones",
+      "texto": "Optimiza la forma en que gestionas y accedes a las herramientas de Jocarsa con Aqua.",
+      "fondo": "#ffeded",
+      "boton": {
+        "texto_boton": "Solicitar una Demostración",
+        "url": "https://ejemplo.com/demo-aqua"
+      }
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#ffeded" }
+    ]
+  }
+]
+

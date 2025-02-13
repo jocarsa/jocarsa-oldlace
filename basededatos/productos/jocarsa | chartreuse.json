@@ -2,133 +2,121 @@
   {
     "tipo": "completo",
     "contenido": {
-      "titulo": "Organiza y Comparte tu Mundo con Marcadores Digitales",
-      "subtitulo": "La solución ideal para gestionar tus enlaces y recursos digitales",
-      "texto": "Nuestro software permite a usuarios y equipos crear, organizar y compartir marcadores digitales de forma sencilla y eficiente, todo desde una interfaz intuitiva.",
-      "imagen": "path_to_main_image.jpg",
-      "fondo": "#f4f4f4"
-    },
-    "estilo": [
-      {"color": "#333"},
-      {"background": "#f4f4f4"}
-    ]
-  },
-  {
-    "tipo": "bloque",
-    "contenido": {
-      "titulo": "Gestión Centralizada",
-      "subtitulo": "Todos tus marcadores en un solo lugar",
-      "texto": "Con nuestra plataforma, puedes almacenar y categorizar todos tus enlaces importantes, desde recursos personales hasta colaborativos, en una base de datos accesible desde cualquier dispositivo.",
-      "imagen": "path_to_features_image.jpg",
+      "titulo": "Jocarsa Chartreuse: Guarda y Organiza tus Marcadores",
+      "subtitulo": "Tu biblioteca de enlaces en la nube",
+      "texto": "Jocarsa Chartreuse es una plataforma en línea que te permite guardar y organizar tus marcadores favoritos de internet en un solo lugar, accesible desde cualquier dispositivo.",
+      "imagen": "placeholder.png",
       "fondo": "#ffffff"
     },
     "estilo": [
-      {"color": "#000"},
-      {"background": "#ffffff"}
+      { "color": "#000000" },
+      { "background": "#ffffff" }
     ]
   },
   {
     "tipo": "doscolumnas",
     "contenido": {
-      "titulo": "Funciones Principales",
-      "subtitulo": "Herramientas diseñadas para la productividad",
-      "texto": "Nuestro software de marcadores digitales incluye características que facilitan el acceso y la colaboración.",
-      "imagen": "path_to_tools_image.jpg",
-      "fondo": "#f9f9f9",
+      "titulo": "Funciones Clave",
+      "subtitulo": "Organiza y accede a tus enlaces de manera eficiente",
+      "texto": "Jocarsa Chartreuse te ayuda a administrar y clasificar tus marcadores en una plataforma segura y accesible.",
+      "imagen": "placeholder.png",
+      "fondo": "#f4f4f4",
       "columnas": [
         {
-          "titulo": "Creación de Categorías",
-          "subtitulo": "Organiza eficientemente",
-          "texto": "Agrupa tus enlaces en categorías personalizables para un acceso más rápido."
+          "titulo": "Gestión de Usuarios",
+          "subtitulo": "Acceso seguro",
+          "texto": "Cada usuario puede crear su cuenta y almacenar sus marcadores de forma privada."
         },
         {
-          "titulo": "Compartir Marcadores",
-          "subtitulo": "Colaboración mejorada",
-          "texto": "Comparte enlaces y recursos con tu equipo de forma segura y rápida."
+          "titulo": "Organización por Categorías",
+          "subtitulo": "Marcadores personalizados",
+          "texto": "Guarda tus enlaces en distintas categorías para facilitar su acceso."
         }
       ]
     },
     "estilo": [
-      {"color": "#333"},
-      {"background": "#f9f9f9"}
-    ]
-  },
-  {
-    "tipo": "youtube",
-    "contenido": {
-      "titulo": "Mira cómo funciona nuestra plataforma",
-      "subtitulo": "Video demostrativo",
-      "texto": "Explora todas las funcionalidades y beneficios de nuestro software de marcadores digitales.",
-      "imagen": "path_to_video_thumbnail.jpg",
-      "fondo": "#e0e0e0",
-      "url": "0_MKO_87vtE"
-    },
-    "estilo": [
-      {"color": "#111"},
-      {"background": "#e0e0e0"}
+      { "color": "#333333" },
+      { "background": "#f4f4f4" }
     ]
   },
   {
     "tipo": "mosaico",
     "contenido": {
-      "titulo": "Por qué elegir nuestro software",
-      "subtitulo": "Beneficios clave",
-      "texto": "Nuestra solución ofrece ventajas únicas para individuos y equipos de trabajo.",
-      "imagen": "path_to_benefits_image.jpg",
+      "titulo": "Beneficios de Chartreuse",
+      "subtitulo": "Mejora tu productividad online",
+      "texto": "Descubre cómo Chartreuse puede ayudarte a gestionar tus marcadores de manera más eficiente.",
+      "imagen": "placeholder.png",
       "fondo": "#ffffff",
       "bloques": [
         {
-          "titulo": "Acceso Seguro",
-          "subtitulo": "Protección de datos",
-          "texto": "Tus marcadores están siempre seguros gracias a nuestra infraestructura de seguridad avanzada."
+          "titulo": "Accesibilidad",
+          "subtitulo": "Desde cualquier dispositivo",
+          "texto": "Consulta y administra tus marcadores desde cualquier lugar."
         },
         {
           "titulo": "Interfaz Intuitiva",
-          "subtitulo": "Fácil de usar",
-          "texto": "Navega y organiza tus recursos con una experiencia amigable."
+          "subtitulo": "Navegación sencilla",
+          "texto": "Encuentra y organiza tus marcadores con facilidad."
         },
         {
-          "titulo": "Escalabilidad",
-          "subtitulo": "Crece con tus necesidades",
-          "texto": "Nuestra plataforma está diseñada para ajustarse al crecimiento de tu negocio o equipo."
+          "titulo": "Privacidad",
+          "subtitulo": "Marcadores seguros",
+          "texto": "Tus enlaces están protegidos y solo accesibles para ti."
         },
         {
-          "titulo": "Soporte Técnico",
-          "subtitulo": "Siempre a tu disposición",
-          "texto": "Recibe asistencia rápida y efectiva en cualquier momento."
+          "titulo": "Búsqueda Rápida",
+          "subtitulo": "Encuentra enlaces al instante",
+          "texto": "Busca dentro de tus marcadores para encontrar lo que necesitas."
         }
       ]
     },
     "estilo": [
-      {"color": "#444"},
-      {"background": "#ffffff"}
+      { "color": "#444444" },
+      { "background": "#ffffff" }
     ]
   },
   {
-    "tipo": "doscolumnas",
+    "tipo": "faq",
     "contenido": {
-      "titulo": "Casos de Éxito",
-      "subtitulo": "Cómo otros están utilizando nuestra plataforma",
-      "texto": "Empresas y usuarios individuales han mejorado su organización y productividad con nuestro software.",
-      "imagen": "path_to_success_image.jpg",
-      "fondo": "#f3f3f3",
-      "columnas": [
+      "titulo": "Preguntas Frecuentes",
+      "subtitulo": "Conoce más sobre Chartreuse",
+      "texto": "Resolvemos algunas de las dudas más comunes sobre la plataforma.",
+      "fondo": "#ffffff",
+      "preguntas": [
         {
-          "titulo": "Equipos Colaborativos",
-          "subtitulo": "Más organización",
-          "texto": "Equipos han reducido el tiempo de búsqueda de recursos en un 40%."
+          "pregunta": "¿Puedo acceder a mis marcadores desde otro dispositivo?",
+          "respuesta": "Sí, Chartreuse almacena tus enlaces en la nube para que puedas acceder a ellos en cualquier momento."
         },
         {
-          "titulo": "Profesionales Independientes",
-          "subtitulo": "Mayor productividad",
-          "texto": "Usuarios han reportado un incremento en su eficiencia al centralizar todos sus enlaces importantes."
+          "pregunta": "¿Cómo se organizan los marcadores?",
+          "respuesta": "Puedes clasificarlos en categorías personalizadas para encontrarlos más rápido."
+        },
+        {
+          "pregunta": "¿Es seguro guardar mis marcadores en Chartreuse?",
+          "respuesta": "Sí, cada cuenta es privada y protegida con credenciales seguras."
         }
       ]
     },
     "estilo": [
-      {"color": "#333"},
-      {"background": "#f3f3f3"}
+      { "color": "#444444" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "Empieza a Usar Chartreuse",
+      "subtitulo": "Guarda y accede a tus enlaces favoritos con facilidad",
+      "texto": "Optimiza la gestión de tus marcadores con Chartreuse, la mejor solución online para almacenar y organizar enlaces.",
+      "fondo": "#ffeded",
+      "boton": {
+        "texto_boton": "Regístrate Gratis",
+        "url": "https://ejemplo.com/registro-chartreuse"
+      }
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#ffeded" }
     ]
   }
 ]
-

@@ -2,132 +2,148 @@
   {
     "tipo": "completo",
     "contenido": {
-      "titulo": "Transforma la Evaluación con Nuestra Plataforma de Digital Proctoring",
-      "subtitulo": "Una solución segura y eficiente para evaluaciones en línea",
-      "texto": "Nuestra plataforma combina herramientas avanzadas de supervisión digital con funcionalidades específicas para estudiantes y administradores, asegurando transparencia y facilidad de uso en todo el proceso de evaluación.",
-      "imagen": "path_to_main_image.jpg",
-      "fondo": "#f4f4f4"
+      "titulo": "AliceBlue: Supervisión Inteligente de Exámenes",
+      "subtitulo": "La mejor solución de digital proctoring para exámenes online",
+      "texto": "AliceBlue es una plataforma avanzada de supervisión remota que permite la captura y análisis de la actividad del usuario durante un examen en línea, garantizando la integridad académica.",
+      "imagen": "placeholder.png",
+      "fondo": "#ffffff"
     },
     "estilo": [
-      {"color": "#333"},
-      {"background": "#f4f4f4"}
+      { "color": "#000000" },
+      { "background": "#ffffff" }
     ]
   },
   {
     "tipo": "doscolumnas",
     "contenido": {
-      "titulo": "Adaptado para Estudiantes y Profesores",
-      "subtitulo": "Roles claros y herramientas específicas",
-      "texto": "Nuestra plataforma se adapta a las necesidades de estudiantes y profesores, ofreciendo experiencias personalizadas según el rol.",
-      "imagen": "path_to_roles_image.jpg",
-      "fondo": "#ffffff",
+      "titulo": "Funciones Clave",
+      "subtitulo": "Cómo AliceBlue protege la integridad de los exámenes",
+      "texto": "Nuestra plataforma ofrece diversas funcionalidades para evitar fraudes y garantizar exámenes justos.",
+      "imagen": "placeholder.png",
+      "fondo": "#f4f4f4",
       "columnas": [
         {
-          "titulo": "Para Estudiantes",
-          "subtitulo": "Una experiencia sencilla",
-          "texto": "Accede a tus evaluaciones con facilidad, sigue instrucciones claras y realiza tus pruebas en un entorno supervisado seguro."
+          "titulo": "Captura de Pantalla",
+          "subtitulo": "Monitoreo en tiempo real",
+          "texto": "AliceBlue captura imágenes periódicas del usuario mientras realiza su examen."
         },
         {
-          "titulo": "Para Profesores",
-          "subtitulo": "Gestión eficiente",
-          "texto": "Administra pruebas, monitorea resultados y mantén el control total de tus evaluaciones con herramientas avanzadas."
+          "titulo": "Panel de Administración",
+          "subtitulo": "Gestión eficiente de supervisión",
+          "texto": "Los administradores pueden revisar imágenes capturadas y analizar actividad sospechosa."
         }
       ]
     },
     "estilo": [
-      {"color": "#000"},
-      {"background": "#ffffff"}
-    ]
-  },
-  {
-    "tipo": "youtube",
-    "contenido": {
-      "titulo": "Descubre cómo funciona nuestra solución",
-      "subtitulo": "Video demostrativo",
-      "texto": "Conoce las funcionalidades principales de nuestra plataforma y cómo puede facilitar evaluaciones remotas seguras y efectivas.",
-      "imagen": "path_to_video_thumbnail.jpg",
-      "fondo": "#e0e0e0",
-      "url": "https://www.youtube.com/watch?v=your_video_id"
-    },
-    "estilo": [
-      {"color": "#111"},
-      {"background": "#e0e0e0"}
-    ]
-  },
-  {
-    "tipo": "bloque",
-    "contenido": {
-      "titulo": "Supervisión en Tiempo Real",
-      "subtitulo": "Seguridad avanzada para evaluaciones en línea",
-      "texto": "Nuestra tecnología de proctoring digital garantiza la integridad académica mediante monitoreo en vivo y grabaciones automáticas, adaptándose a las políticas de cada institución.",
-      "imagen": "path_to_monitoring_image.jpg",
-      "fondo": "#f9f9f9"
-    },
-    "estilo": [
-      {"color": "#333"},
-      {"background": "#f9f9f9"}
+      { "color": "#333333" },
+      { "background": "#f4f4f4" }
     ]
   },
   {
     "tipo": "mosaico",
     "contenido": {
-      "titulo": "Beneficios Clave",
-      "subtitulo": "Por qué elegir nuestra plataforma",
-      "texto": "Nuestra solución está diseñada para ofrecer la máxima seguridad, eficiencia y facilidad de uso.",
-      "imagen": "path_to_benefits_image.jpg",
+      "titulo": "Beneficios de AliceBlue",
+      "subtitulo": "Por qué elegir nuestra solución",
+      "texto": "Nuestra plataforma proporciona múltiples ventajas para administradores y estudiantes.",
+      "imagen": "placeholder.png",
       "fondo": "#ffffff",
       "bloques": [
         {
-          "titulo": "Acceso Seguro",
-          "subtitulo": "Protección total",
-          "texto": "Control de acceso avanzado para garantizar que solo usuarios autorizados ingresen."
+          "titulo": "Seguridad Garantizada",
+          "subtitulo": "Protección avanzada",
+          "texto": "Ciframos los datos y protegemos la identidad del estudiante."
         },
         {
-          "titulo": "Automatización Inteligente",
-          "subtitulo": "Ahorro de tiempo",
-          "texto": "Automatiza tareas repetitivas para que los profesores puedan enfocarse en lo importante."
+          "titulo": "Análisis Inteligente",
+          "subtitulo": "Detección de anomalías",
+          "texto": "Identificación de comportamientos sospechosos en tiempo real."
         },
         {
-          "titulo": "Análisis Detallados",
-          "subtitulo": "Resultados claros",
-          "texto": "Genera informes detallados y monitorea el progreso de tus estudiantes."
+          "titulo": "Fácil Integración",
+          "subtitulo": "Compatible con LMS",
+          "texto": "Funciona con plataformas de aprendizaje populares como Moodle y Blackboard."
         },
         {
-          "titulo": "Soporte Técnico",
-          "subtitulo": "Siempre disponible",
-          "texto": "Contamos con un equipo dedicado para resolver cualquier inconveniente rápidamente."
+          "titulo": "Accesibilidad",
+          "subtitulo": "Para todos los dispositivos",
+          "texto": "Disponible en computadoras y dispositivos móviles sin necesidad de instalación."
         }
       ]
     },
     "estilo": [
-      {"color": "#444"},
-      {"background": "#ffffff"}
+      { "color": "#444444" },
+      { "background": "#ffffff" }
     ]
   },
   {
-    "tipo": "doscolumnas",
+    "tipo": "faq",
     "contenido": {
-      "titulo": "Resultados Tangibles",
-      "subtitulo": "Beneficios comprobados",
-      "texto": "Nuestra plataforma ha transformado la manera en que las instituciones realizan evaluaciones digitales.",
-      "imagen": "path_to_results_image.jpg",
-      "fondo": "#f3f3f3",
-      "columnas": [
+      "titulo": "Preguntas Frecuentes",
+      "subtitulo": "Dudas sobre AliceBlue",
+      "texto": "Aquí respondemos las preguntas más comunes sobre nuestro software.",
+      "fondo": "#ffffff",
+      "preguntas": [
         {
-          "titulo": "Incremento en la Eficiencia",
-          "subtitulo": "50% menos tiempo",
-          "texto": "Instituciones han reportado una disminución significativa en el tiempo de administración de evaluaciones."
+          "pregunta": "¿Cómo captura AliceBlue las imágenes del usuario?",
+          "respuesta": "AliceBlue toma capturas de pantalla periódicas y las almacena en su servidor para su posterior revisión."
         },
         {
-          "titulo": "Satisfacción Estudiantil",
-          "subtitulo": "Más comodidad",
-          "texto": "Los estudiantes valoran la facilidad y accesibilidad de las pruebas en línea."
+          "pregunta": "¿Se pueden revisar las imágenes capturadas después del examen?",
+          "respuesta": "Sí, los administradores pueden acceder al panel de imágenes y revisar cualquier actividad sospechosa."
+        },
+        {
+          "pregunta": "¿AliceBlue es compatible con cualquier navegador?",
+          "respuesta": "Sí, AliceBlue funciona en todos los navegadores modernos sin necesidad de plugins adicionales."
         }
       ]
     },
     "estilo": [
-      {"color": "#333"},
-      {"background": "#f3f3f3"}
+      { "color": "#444444" },
+      { "background": "#ffffff" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Lo que dicen nuestros clientes",
+      "subtitulo": "Testimonios de usuarios satisfechos",
+      "texto": "Descubre cómo AliceBlue ha mejorado la supervisión de exámenes en diferentes instituciones.",
+      "fondo": "#f0f0f0",
+      "testimonios": [
+        {
+          "nombre": "Carlos Fernández",
+          "cargo": "Coordinador Académico",
+          "comentario": "AliceBlue nos ha permitido detectar y prevenir fraudes en nuestras evaluaciones online de manera efectiva.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Lucía Martínez",
+          "cargo": "Profesora Universitaria",
+          "comentario": "La integración con nuestro LMS ha sido perfecta y la supervisión de exámenes ahora es mucho más sencilla.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f0f0f0" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "Empieza a Usar AliceBlue",
+      "subtitulo": "Protege la integridad de tus exámenes",
+      "texto": "Descubre cómo AliceBlue puede ayudarte a garantizar la autenticidad de las evaluaciones en línea.",
+      "fondo": "#ffeded",
+      "boton": {
+        "texto_boton": "Solicitar una Demostración",
+        "url": "https://ejemplo.com/demo-aliceblue"
+      }
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#ffeded" }
     ]
   }
 ]

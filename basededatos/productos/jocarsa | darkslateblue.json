@@ -1,0 +1,153 @@
+[
+    {
+        "tipo": "completo",
+        "contenido": {
+            "titulo": "Jocarsa | DarkSlateBlue",
+            "subtitulo": "Gestiona tus bases de datos de manera visual",
+            "texto": "Jocarsa | DarkSlateBlue es una plataforma que permite administrar bases de datos de forma intuitiva. Con autenticación de usuario y un panel de control dinámico, facilita la gestión de información en entornos empresariales.",
+            "imagen": "placeholder.png",
+            "fondo": "#483D8B"
+        },
+        "estilo": [
+            {"color": "#FFFFFF"},
+            {"background": "#483D8B"},
+            {"padding": "40px"},
+            {"text-align": "center"}
+        ]
+    },
+    {
+        "tipo": "doscolumnas",
+        "contenido": {
+            "titulo": "Características principales",
+            "subtitulo": "Potente, flexible y fácil de usar",
+            "texto": "Jocarsa | DarkSlateBlue ofrece un conjunto de herramientas diseñadas para la gestión eficiente de bases de datos.",
+            "imagen": "placeholder.png",
+            "fondo": "#2C2F47",
+            "columnas": [
+                {
+                    "titulo": "Acceso seguro",
+                    "subtitulo": "Autenticación de usuario",
+                    "texto": "El sistema requiere inicio de sesión para acceder al panel de control, protegiendo la información almacenada."
+                },
+                {
+                    "titulo": "Gestión intuitiva",
+                    "subtitulo": "Interfaz visual",
+                    "texto": "Organiza y administra bases de datos sin necesidad de escribir consultas SQL manualmente."
+                }
+            ]
+        },
+        "estilo": [
+            {"color": "#FFFFFF"},
+            {"background": "#2C2F47"},
+            {"padding": "30px"}
+        ]
+    },
+    {
+        "tipo": "youtube",
+        "contenido": {
+            "titulo": "Mira cómo funciona Jocarsa",
+            "subtitulo": "Demostración en video",
+            "texto": "Descubre las capacidades de Jocarsa | DarkSlateBlue en acción con este video.",
+            "imagen": "placeholder.png",
+            "fondo": "#1E1E2D",
+            "url": "https://www.youtube.com/watch?v=ID_del_video"
+        },
+        "estilo": [
+            {"color": "#FFFFFF"},
+            {"background": "#1E1E2D"},
+            {"padding": "20px"}
+        ]
+    },
+    {
+        "tipo": "testimonios",
+        "contenido": {
+            "titulo": "Lo que dicen nuestros usuarios",
+            "subtitulo": "Experiencias con Jocarsa",
+            "texto": "Usuarios satisfechos destacan la utilidad de Jocarsa | DarkSlateBlue.",
+            "fondo": "#25283D",
+            "testimonios": [
+                {
+                    "nombre": "Mario Torres",
+                    "cargo": "Administrador de bases de datos",
+                    "comentario": "La facilidad de uso de Jocarsa ha reducido el tiempo de gestión de datos en un 50%.",
+                    "imagen": "placeholder.png"
+                },
+                {
+                    "nombre": "Ana Pérez",
+                    "cargo": "Desarrolladora web",
+                    "comentario": "Gracias a su integración con MySQL y su interfaz visual, Jocarsa ha mejorado el flujo de trabajo de nuestro equipo.",
+                    "imagen": "placeholder.png"
+                }
+            ]
+        },
+        "estilo": [
+            {"color": "#FFFFFF"},
+            {"background": "#25283D"},
+            {"padding": "40px"}
+        ]
+    },
+    {
+        "tipo": "precios",
+        "contenido": {
+            "titulo": "Planes y Precios",
+            "subtitulo": "Elige la mejor opción",
+            "texto": "Jocarsa | DarkSlateBlue ofrece planes adaptados a diferentes necesidades.",
+            "fondo": "#202040",
+            "planes": [
+                {
+                    "nombre": "Básico",
+                    "precio": "19.99",
+                    "periodo": "mes",
+                    "caracteristicas": [
+                        "Acceso limitado a una base de datos",
+                        "Soporte estándar",
+                        "Gestión de usuarios"
+                    ],
+                    "boton": {
+                        "texto_boton": "Elegir Básico",
+                        "url": "https://tusitio.com/plan-basico"
+                    }
+                },
+                {
+                    "nombre": "Pro",
+                    "precio": "49.99",
+                    "periodo": "mes",
+                    "caracteristicas": [
+                        "Acceso a múltiples bases de datos",
+                        "Soporte premium",
+                        "Exportación avanzada de datos"
+                    ],
+                    "boton": {
+                        "texto_boton": "Elegir Pro",
+                        "url": "https://tusitio.com/plan-pro"
+                    }
+                }
+            ]
+        },
+        "estilo": [
+            {"color": "#FFFFFF"},
+            {"background": "#202040"},
+            {"padding": "40px"}
+        ]
+    },
+    {
+        "tipo": "cta",
+        "contenido": {
+            "titulo": "¡Comienza ahora!",
+            "subtitulo": "Optimiza la gestión de tus bases de datos",
+            "texto": "Prueba Jocarsa | DarkSlateBlue y transforma tu forma de administrar información.",
+            "fondo": "#483D8B",
+            "boton": {
+                "texto_boton": "Probar Gratis",
+                "url": "https://tusitio.com/prueba"
+            }
+        },
+        "estilo": [
+            {"color": "#FFFFFF"},
+            {"background": "#483D8B"},
+            {"padding": "30px"},
+            {"text-align": "center"}
+        ]
+    }
+]
+
