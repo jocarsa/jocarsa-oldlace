@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA SteelBlue: Conversión de Markdown a HTML",
+      "subtitulo": "Transforma tus documentos Markdown en contenido web",
+      "texto": "JOCARSA SteelBlue es una herramienta que convierte texto escrito en formato Markdown a HTML, permitiendo la creación rápida de contenido estructurado para la web.",
+      "imagen": "placeholder.png",
+      "fondo": "#4682B4"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#4682B4" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Markdown a HTML en segundos",
+      "texto": "Con JOCARSA SteelBlue, puedes transformar contenido en Markdown a HTML sin complicaciones.",
+      "imagen": "placeholder.png",
+      "fondo": "#5A9BD5",
+      "columnas": [
+        {
+          "titulo": "Soporte Completo de Markdown",
+          "subtitulo": "Compatibilidad avanzada",
+          "texto": "Convierte encabezados, listas, tablas, enlaces, imágenes, código y más." 
+        },
+        {
+          "titulo": "Simplicidad de Uso",
+          "subtitulo": "Sin instalaciones complejas",
+          "texto": "Solo necesitas cargar el archivo Markdown y verás el contenido en formato HTML." 
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#5A9BD5" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA SteelBlue en Acción",
+      "subtitulo": "Convierte Markdown a HTML con facilidad",
+      "texto": "Descubre cómo esta herramienta puede ayudarte a generar contenido web estructurado en pocos pasos.",
+      "imagen": "placeholder.png",
+      "fondo": "#2A6496",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#2A6496" },
+      { "border": "2px solid #4682B4" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA SteelBlue",
+      "subtitulo": "Estructura Markdown para la web",
+      "texto": "Nuestra herramienta facilita la creación de contenido web a partir de documentos Markdown con múltiples funcionalidades.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Soporte Avanzado", "subtitulo": "Símbolos y estilos", "texto": "Admite encabezados, listas, tablas, citas, enlaces, imágenes y emojis." },
+        { "titulo": "Código Destacado", "subtitulo": "Soporte para múltiples lenguajes", "texto": "Permite incluir bloques de código con resaltado de sintaxis para Python, JavaScript y más." },
+        { "titulo": "Visualización en Tiempo Real", "subtitulo": "Sin recargas", "texto": "Convierte Markdown a HTML dinámicamente para ver cambios al instante." },
+        { "titulo": "Compatibilidad Universal", "subtitulo": "Funciona en cualquier navegador", "texto": "No requiere instalación, solo necesitas un navegador web." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Cómo JOCARSA SteelBlue facilita la creación de contenido",
+      "texto": "Conoce las opiniones de quienes han integrado esta herramienta en su flujo de trabajo.",
+      "fondo": "#87CEEB",
+      "testimonios": [
+        {
+          "nombre": "Ana López",
+          "cargo": "Gestora de Contenidos",
+          "comentario": "Ahora puedo escribir en Markdown y obtener una página web sin necesidad de tocar HTML.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Gómez",
+          "cargo": "Desarrollador Web",
+          "comentario": "La conversión es precisa y admite incluso listas de tareas y bloques de código de múltiples lenguajes.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#87CEEB" },
+      { "border-left": "5px solid #2A6496" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA SteelBlue!",
+      "subtitulo": "Transforma tus documentos Markdown en contenido HTML",
+      "texto": "Solicita una demostración gratuita y experimenta el poder de nuestra herramienta para crear contenido web con facilidad.",
+      "fondo": "#4682B4",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/steelblue"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#4682B4" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA MediumSeaGreen: Generación Automática de Subtítulos",
+      "subtitulo": "Transcribe y gestiona subtítulos de videos de YouTube",
+      "texto": "JOCARSA MediumSeaGreen es una herramienta que automatiza la extracción y organización de subtítulos en español desde listas de reproducción de YouTube, facilitando el acceso al contenido hablado de los videos.",
+      "imagen": "placeholder.png",
+      "fondo": "#3CB371"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#3CB371" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Extracción eficiente de subtítulos",
+      "texto": "Explora las funcionalidades que convierten a JOCARSA MediumSeaGreen en una herramienta imprescindible para la transcripción de videos.",
+      "imagen": "placeholder.png",
+      "fondo": "#66CDAA",
+      "columnas": [
+        {
+          "titulo": "Automatización Completa",
+          "subtitulo": "Procesamiento sin intervención",
+          "texto": "Descarga y convierte automáticamente subtítulos de videos de listas de reproducción de YouTube."
+        },
+        {
+          "titulo": "Gestión de Miniaturas",
+          "subtitulo": "Imágenes organizadas",
+          "texto": "Guarda las miniaturas de los videos junto con sus subtítulos para una identificación visual rápida."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#66CDAA" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA MediumSeaGreen en Acción",
+      "subtitulo": "Procesamiento de subtítulos de YouTube",
+      "texto": "Descubre cómo esta herramienta extrae subtítulos y miniaturas de videos de YouTube en pocos pasos.",
+      "imagen": "placeholder.png",
+      "fondo": "#2E8B57",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#2E8B57" },
+      { "border": "2px solid #006400" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA MediumSeaGreen",
+      "subtitulo": "Optimiza tu flujo de trabajo",
+      "texto": "Esta herramienta está diseñada para simplificar el proceso de obtención y gestión de subtítulos de videos en línea.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Transcripción Multilingüe", "subtitulo": "Prioridad al español", "texto": "Extrae subtítulos automáticos o manuales en español si están disponibles." },
+        { "titulo": "Organización Estructurada", "subtitulo": "Carpetas por lista de reproducción", "texto": "Clasifica los subtítulos en carpetas diferenciadas por playlist." },
+        { "titulo": "Gestión Visual", "subtitulo": "Miniaturas descargadas", "texto": "Cada video cuenta con su imagen en miniatura para una identificación sencilla." },
+        { "titulo": "JSON Informativo", "subtitulo": "Datos detallados", "texto": "Genera un archivo JSON con información estructurada sobre cada video procesado." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias con MediumSeaGreen",
+      "texto": "Conoce cómo otras personas han optimizado su trabajo con nuestra herramienta.",
+      "fondo": "#90EE90",
+      "testimonios": [
+        {
+          "nombre": "Laura Fernández",
+          "cargo": "Creadora de Contenido",
+          "comentario": "Esta herramienta ha agilizado nuestra producción de subtítulos para videos educativos.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Pedro Gómez",
+          "cargo": "Community Manager",
+          "comentario": "La extracción automática de subtítulos ha sido una solución perfecta para nuestro flujo de trabajo.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#90EE90" },
+      { "border-left": "5px solid #006400" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA MediumSeaGreen!",
+      "subtitulo": "Simplifica la transcripción de videos",
+      "texto": "Solicita una demostración gratuita y descubre cómo automatizar la extracción de subtítulos de YouTube.",
+      "fondo": "#006400",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/mediumseagreen"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#006400" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

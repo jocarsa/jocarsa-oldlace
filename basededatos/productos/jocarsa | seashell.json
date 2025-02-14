@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Seashell: Mejora tus Selectores con Dropdowns Interactivos",
+      "subtitulo": "Interactividad y búsqueda en tus menús desplegables",
+      "texto": "JOCARSA Seashell es una biblioteca JavaScript que transforma selectores estándar en interfaces dinámicas e interactivas con búsqueda integrada.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFF5EE"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFF5EE" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Simplifica tus formularios",
+      "texto": "Descubre cómo JOCARSA Seashell mejora la usabilidad de tus selectores.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFE4E1",
+      "columnas": [
+        {
+          "titulo": "Dropdown Personalizado",
+          "subtitulo": "Interacción mejorada",
+          "texto": "Convierte los elementos `<select>` en menús desplegables con una apariencia moderna."
+        },
+        {
+          "titulo": "Búsqueda Rápida",
+          "subtitulo": "Filtrado instantáneo",
+          "texto": "Permite a los usuarios encontrar opciones escribiendo directamente en el campo de selección."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFE4E1" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Seashell en Acción",
+      "subtitulo": "Interactividad y personalización de selectores",
+      "texto": "Descubre en este vídeo cómo transformar tus formularios de forma sencilla.",
+      "imagen": "placeholder.png",
+      "fondo": "#F5DEB3",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#F5DEB3" },
+      { "border": "2px solid #CD853F" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Seashell",
+      "subtitulo": "Optimiza tu interfaz de usuario",
+      "texto": "Mejora la experiencia de usuario en tus formularios web con estas funcionalidades.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Personalización Completa", "subtitulo": "Estilo adaptable", "texto": "Ajusta los colores y estilos del dropdown para integrarlo con tu diseño." },
+        { "titulo": "Rendimiento Optimizado", "subtitulo": "Carga eficiente", "texto": "La biblioteca es ligera y no afecta al rendimiento de tu sitio web." },
+        { "titulo": "Soporte Responsive", "subtitulo": "Compatible con todos los dispositivos", "texto": "Funciona perfectamente en móviles, tabletas y escritorios." },
+        { "titulo": "Compatibilidad", "subtitulo": "Múltiples navegadores", "texto": "Compatible con Chrome, Firefox, Edge y Safari." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias con JOCARSA Seashell",
+      "texto": "Descubre cómo nuestros clientes han mejorado sus formularios web.",
+      "fondo": "#FFFAF0",
+      "testimonios": [
+        {
+          "nombre": "Ana López",
+          "cargo": "Desarrolladora Web",
+          "comentario": "Una solución rápida y efectiva para hacer que los formularios sean más intuitivos.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Torres",
+          "cargo": "Director de Marketing",
+          "comentario": "Nuestros clientes ahora encuentran opciones en los formularios mucho más rápido.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFFAF0" },
+      { "border-left": "5px solid #CD853F" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Seashell!",
+      "subtitulo": "Transforma tus formularios con selectores interactivos",
+      "texto": "Solicita una demostración gratuita y descubre cómo mejorar la usabilidad de tus formularios.",
+      "fondo": "#CD853F",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/seashell"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#CD853F" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

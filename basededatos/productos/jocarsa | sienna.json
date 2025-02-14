@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Sienna: Aventura Interactiva en 3D",
+      "subtitulo": "Explora mundos virtuales con un juego tipo Minecraft",
+      "texto": "JOCARSA Sienna es un juego en 3D desarrollado con A-Frame que permite a los usuarios explorar, interactuar y construir en un entorno inspirado en Minecraft, directamente desde su navegador.",
+      "imagen": "placeholder.png",
+      "fondo": "#A0522D"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#A0522D" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Construye, explora y disfruta",
+      "texto": "JOCARSA Sienna ofrece una experiencia inmersiva en 3D sin necesidad de instalaciones adicionales.",
+      "imagen": "placeholder.png",
+      "fondo": "#DEB887",
+      "columnas": [
+        {
+          "titulo": "Mundo Interactivo",
+          "subtitulo": "Entorno 3D en el navegador",
+          "texto": "Explora escenarios virtuales con controles sencillos y accesibles desde tu navegador."
+        },
+        {
+          "titulo": "Construcción Dinámica",
+          "subtitulo": "Coloca y quita bloques",
+          "texto": "Interactúa con el entorno mediante un sistema intuitivo de colocación y eliminación de bloques."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#DEB887" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Sienna en Acción",
+      "subtitulo": "Descubre el mundo virtual",
+      "texto": "Observa cómo funciona JOCARSA Sienna y las posibilidades que ofrece para construir y explorar en 3D.",
+      "imagen": "placeholder.png",
+      "fondo": "#CD853F",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#CD853F" },
+      { "border": "2px solid #A0522D" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Sienna",
+      "subtitulo": "Diversión asegurada",
+      "texto": "Descubre cómo JOCARSA Sienna te permite sumergirte en una experiencia 3D de construcción y exploración.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Interactividad Completa", "subtitulo": "Manejo sencillo", "texto": "Interactúa con el entorno de manera natural usando controles WASD y el ratón." },
+        { "titulo": "Gráficos Realistas", "subtitulo": "Basado en A-Frame", "texto": "Entorno optimizado con texturas detalladas y efectos de iluminación." },
+        { "titulo": "Mecanismos Personalizables", "subtitulo": "Adaptable", "texto": "Posibilidad de modificar colores y texturas del escenario." },
+        { "titulo": "Acceso Web", "subtitulo": "Sin instalaciones", "texto": "Accede al juego desde cualquier navegador compatible." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias con JOCARSA Sienna",
+      "texto": "Descubre lo que dicen quienes ya han disfrutado de esta experiencia virtual.",
+      "fondo": "#F5DEB3",
+      "testimonios": [
+        {
+          "nombre": "Sofía Ruiz",
+          "cargo": "Estudiante de Secundaria",
+          "comentario": "Me encanta crear estructuras en JOCARSA Sienna. Es muy fácil de usar y se ve increíble.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos López",
+          "cargo": "Entusiasta de la realidad virtual",
+          "comentario": "La sensación de inmersión es genial. Me sorprende que todo funcione desde el navegador.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F5DEB3" },
+      { "border-left": "5px solid #A0522D" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Explora JOCARSA Sienna!",
+      "subtitulo": "Comienza tu aventura en 3D",
+      "texto": "Solicita una demostración gratuita y adéntrate en el emocionante mundo de la construcción 3D.",
+      "fondo": "#A0522D",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/sienna"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#A0522D" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

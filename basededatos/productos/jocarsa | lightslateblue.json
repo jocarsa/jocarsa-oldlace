@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA LightSlateBlue: Editor de Contenidos Dinámico",
+      "subtitulo": "Crea y edita contenido web de manera intuitiva",
+      "texto": "JOCARSA LightSlateBlue es una herramienta de edición de contenidos que permite estructurar, insertar y personalizar bloques interactivos en el navegador sin necesidad de conocimientos técnicos.",
+      "imagen": "placeholder.png",
+      "fondo": "#8470FF"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#8470FF" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Edición sencilla y potente",
+      "texto": "Descubre las funcionalidades que hacen de LightSlateBlue el editor perfecto para tu contenido.",
+      "imagen": "placeholder.png",
+      "fondo": "#D8BFD8",
+      "columnas": [
+        {
+          "titulo": "Edición Visual",
+          "subtitulo": "Arrastra y suelta",
+          "texto": "Inserta bloques de texto, imágenes y videos fácilmente con el modo visual interactivo."
+        },
+        {
+          "titulo": "Vista de Código",
+          "subtitulo": "Acceso al HTML",
+          "texto": "Edita directamente el contenido en formato HTML cuando lo necesites."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#D8BFD8" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Cómo funciona LightSlateBlue",
+      "subtitulo": "Edición sencilla desde tu navegador",
+      "texto": "Observa una demostración en vivo de nuestro editor de contenidos en acción.",
+      "imagen": "placeholder.png",
+      "fondo": "#9370DB",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#9370DB" },
+      { "border": "2px solid #483D8B" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de LightSlateBlue",
+      "subtitulo": "Edición ágil y sin complicaciones",
+      "texto": "Nuestra herramienta te ofrece todo lo que necesitas para crear contenido web de calidad.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Intuitivo", "subtitulo": "Para todos", "texto": "Sin necesidad de conocimientos técnicos para crear contenido profesional." },
+        { "titulo": "Versátil", "subtitulo": "Amplia variedad de bloques", "texto": "Incorpora párrafos, imágenes, videos, tablas y más." },
+        { "titulo": "Adaptable", "subtitulo": "Personalización completa", "texto": "Configura el estilo y estructura del contenido según tus necesidades." },
+        { "titulo": "Eficiente", "subtitulo": "Rendimiento optimizado", "texto": "Carga rápida y edición fluida incluso con contenido extenso." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Opiniones sobre nuestra herramienta",
+      "texto": "Descubre cómo LightSlateBlue ha facilitado la creación de contenido a otras empresas.",
+      "fondo": "#F0E6FA",
+      "testimonios": [
+        {
+          "nombre": "Ana López",
+          "cargo": "Content Manager",
+          "comentario": "Crear y editar contenido nunca fue tan fácil. LightSlateBlue nos ha ahorrado horas de trabajo.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Gómez",
+          "cargo": "Desarrollador Web",
+          "comentario": "Una herramienta versátil y rápida que nos permite mantener nuestro contenido siempre actualizado.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F0E6FA" },
+      { "border-left": "5px solid #483D8B" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA LightSlateBlue!",
+      "subtitulo": "Comienza a crear contenido sin complicaciones",
+      "texto": "Solicita una demostración gratuita y explora todas las funcionalidades de nuestra herramienta.",
+      "fondo": "#483D8B",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/lightslateblue"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#483D8B" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

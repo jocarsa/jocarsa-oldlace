@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Silver: Mejora la Usabilidad de tus Formularios",
+      "subtitulo": "Campos de entrada con iconos y tooltips inteligentes",
+      "texto": "JOCARSA Silver es una biblioteca que enriquece los formularios HTML mediante iconos visuales y descripciones dinámicas, facilitando la experiencia del usuario.",
+      "imagen": "placeholder.png",
+      "fondo": "#C0C0C0"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#C0C0C0" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Formularios más intuitivos",
+      "texto": "Descubre cómo JOCARSA Silver mejora la usabilidad y estética de tus campos de entrada HTML.",
+      "imagen": "placeholder.png",
+      "fondo": "#D3D3D3",
+      "columnas": [
+        {
+          "titulo": "Iconos Dinámicos",
+          "subtitulo": "Representación visual clara",
+          "texto": "Muestra un icono distintivo en función del tipo de dato esperado: texto, email, contraseña, teléfono, etc."
+        },
+        {
+          "titulo": "Tooltips Descriptivos",
+          "subtitulo": "Orientación inmediata",
+          "texto": "Proporciona mensajes emergentes en español para guiar al usuario en el llenado del campo."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#D3D3D3" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Silver en Acción",
+      "subtitulo": "Transformando formularios convencionales",
+      "texto": "Observa en este vídeo cómo se implementan y visualizan los iconos y tooltips dinámicos.",
+      "imagen": "placeholder.png",
+      "fondo": "#A9A9A9",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#A9A9A9" },
+      { "border": "2px solid #808080" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Silver",
+      "subtitulo": "Optimiza tus formularios sin esfuerzo",
+      "texto": "Nuestra biblioteca simplifica la interacción con los formularios mediante elementos visuales claros y útiles.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Integración Rápida", "subtitulo": "Sin configuraciones complicadas", "texto": "Solo necesitas incluir dos archivos en tu HTML y el sistema se configura automáticamente." },
+        { "titulo": "Personalización Flexible", "subtitulo": "Adaptable a tu estilo", "texto": "Puedes modificar colores, tamaños y estilos de iconos fácilmente mediante CSS." },
+        { "titulo": "Compatibilidad Amplia", "subtitulo": "Multiplataforma", "texto": "Funciona en cualquier navegador moderno sin requerir configuraciones adicionales." },
+        { "titulo": "Optimización de Usabilidad", "subtitulo": "Guía intuitiva", "texto": "Los tooltips informan al usuario sobre el tipo de dato que debe introducir, reduciendo errores." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias con JOCARSA Silver",
+      "texto": "Descubre cómo esta herramienta ha mejorado la experiencia de usuario en diferentes proyectos.",
+      "fondo": "#F5F5F5",
+      "testimonios": [
+        {
+          "nombre": "Laura Fernández",
+          "cargo": "Desarrolladora Web",
+          "comentario": "Nuestros formularios ahora son mucho más claros y fáciles de usar gracias a los iconos y tooltips dinámicos.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Pedro Gómez",
+          "cargo": "Especialista UX",
+          "comentario": "La incorporación de iconos en los campos de entrada ha reducido significativamente los errores de los usuarios.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F5F5F5" },
+      { "border-left": "5px solid #808080" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Silver!",
+      "subtitulo": "Simplifica y mejora tus formularios HTML",
+      "texto": "Solicita una demostración gratuita y descubre cómo nuestros iconos y tooltips mejoran la experiencia del usuario.",
+      "fondo": "#808080",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/silver"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#808080" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

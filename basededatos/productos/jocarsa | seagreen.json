@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA SeaGreen: Análisis de Tráfico Web con Visualización Interactiva",
+      "subtitulo": "Monitorea, analiza y visualiza el tráfico de tu servidor Apache",
+      "texto": "JOCARSA SeaGreen es una herramienta de análisis de registros web que genera estadísticas detalladas sobre las visitas, sistemas operativos, navegadores y ubicaciones geográficas mediante gráficos interactivos.",
+      "imagen": "placeholder.png",
+      "fondo": "#2E8B57"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#2E8B57" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Control total del tráfico web",
+      "texto": "JOCARSA SeaGreen procesa automáticamente los registros de Apache para ofrecer una visión clara y estructurada del tráfico en tu sitio.",
+      "imagen": "placeholder.png",
+      "fondo": "#3CB371",
+      "columnas": [
+        {
+          "titulo": "Análisis por Hora",
+          "subtitulo": "Tráfico distribuido",
+          "texto": "Muestra el número de visitas por cada hora del día para identificar patrones de acceso."
+        },
+        {
+          "titulo": "Detección de IPs",
+          "subtitulo": "Identificación de direcciones únicas",
+          "texto": "Registra las direcciones IP únicas que acceden a tu sitio, facilitando la detección de tráfico sospechoso."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#3CB371" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA SeaGreen en Acción",
+      "subtitulo": "Monitoreo web avanzado",
+      "texto": "Descubre cómo analizar el tráfico de tu servidor con gráficos claros y detallados.",
+      "imagen": "placeholder.png",
+      "fondo": "#006400",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#006400" },
+      { "border": "2px solid #2E8B57" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA SeaGreen",
+      "subtitulo": "Visualización clara del tráfico web",
+      "texto": "Explora las capacidades de esta herramienta para obtener información detallada de tus visitas web.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Gráficos Interactivos", "subtitulo": "Análisis visual", "texto": "Visualiza el tráfico con gráficos de pastel y barras dinámicas." },
+        { "titulo": "Análisis por Países", "subtitulo": "Ubicación geográfica", "texto": "Muestra un desglose de las visitas por país utilizando la base de datos GeoLite2." },
+        { "titulo": "Detección de Bots", "subtitulo": "Identificación automática", "texto": "Detecta y clasifica accesos de robots conocidos para distinguirlos de usuarios reales." },
+        { "titulo": "Interfaz Segura", "subtitulo": "Acceso con autenticación", "texto": "Accede al panel de control mediante un sistema de usuario y contraseña." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Cómo JOCARSA SeaGreen ha mejorado la analítica web",
+      "texto": "Descubre las opiniones de usuarios que han implementado esta herramienta en sus sitios.",
+      "fondo": "#20B2AA",
+      "testimonios": [
+        {
+          "nombre": "Ana López",
+          "cargo": "Administradora de Sistemas",
+          "comentario": "Gracias a SeaGreen, identificamos picos de tráfico anómalos y ajustamos nuestros recursos de manera eficiente.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Martínez",
+          "cargo": "Desarrollador Web",
+          "comentario": "La detección automática de bots nos ha permitido filtrar mejor las estadísticas de tráfico.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#20B2AA" },
+      { "border-left": "5px solid #006400" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA SeaGreen!",
+      "subtitulo": "Obtén estadísticas precisas de tu tráfico web",
+      "texto": "Solicita una demostración gratuita y comienza a analizar tu tráfico web con gráficos claros y dinámicos.",
+      "fondo": "#006400",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/seagreen"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#006400" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

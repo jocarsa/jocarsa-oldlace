@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Lavender: Gestión Avanzada de Formularios Dinámicos",
+      "subtitulo": "Crea, gestiona y analiza formularios con facilidad",
+      "texto": "JOCARSA Lavender es una aplicación que permite crear formularios personalizados para recolectar y gestionar datos de manera sencilla. Ideal para empresas que buscan optimizar la captura de información con una interfaz atractiva y funcional.",
+      "imagen": "placeholder.png",
+      "fondo": "#E6E6FA"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#E6E6FA" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Clave",
+      "subtitulo": "Flexibilidad y seguridad en tus formularios",
+      "texto": "Descubre las funcionalidades que hacen de JOCARSA Lavender una herramienta imprescindible para la captura de datos.",
+      "imagen": "placeholder.png",
+      "fondo": "#D8BFD8",
+      "columnas": [
+        {
+          "titulo": "Formularios Dinámicos",
+          "subtitulo": "Totalmente personalizables",
+          "texto": "Crea formularios con distintos tipos de campos, incluyendo texto, fechas, archivos y más."
+        },
+        {
+          "titulo": "Seguridad Avanzada",
+          "subtitulo": "Protección contra ataques",
+          "texto": "Incluye filtros para detectar y bloquear intentos de inyección SQL y XSS."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#D8BFD8" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Lavender en Acción",
+      "subtitulo": "Simplifica la gestión de formularios",
+      "texto": "Mira cómo puedes crear y administrar formularios personalizados de manera sencilla.",
+      "imagen": "placeholder.png",
+      "fondo": "#9370DB",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#9370DB" },
+      { "border": "2px solid #4B0082" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Beneficios de JOCARSA Lavender",
+      "subtitulo": "Una solución completa para tus necesidades de formularios",
+      "texto": "Nuestra plataforma ofrece funcionalidades que optimizan la captura y análisis de datos de tus clientes.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Personalización Completa", "subtitulo": "Adaptado a tus necesidades", "texto": "Configura campos, tipos de entrada, validaciones y apariencia de cada formulario." },
+        { "titulo": "Análisis de Datos", "subtitulo": "Visualización integrada", "texto": "Accede a estadísticas y registros de envíos en tiempo real." },
+        { "titulo": "Seguridad Proactiva", "subtitulo": "Protección de datos", "texto": "Implementa mecanismos avanzados de detección de intrusos para proteger la información." },
+        { "titulo": "Accesibilidad", "subtitulo": "Desde cualquier dispositivo", "texto": "Gestión de formularios desde el navegador, sin necesidad de instalación." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Lo que dicen nuestros usuarios",
+      "subtitulo": "Experiencias reales con JOCARSA Lavender",
+      "texto": "Profesionales que han transformado su gestión de formularios con nuestra herramienta.",
+      "fondo": "#F5F5F5",
+      "testimonios": [
+        {
+          "nombre": "Ana Morales",
+          "cargo": "Directora de Marketing",
+          "comentario": "Lavender nos ha permitido automatizar encuestas y formularios de contacto de manera eficiente.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Javier Pérez",
+          "cargo": "Analista de Datos",
+          "comentario": "Una solución segura y fácil de usar para la recolección de datos en nuestros estudios.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F5F5F5" },
+      { "border-left": "5px solid #4B0082" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Comienza con JOCARSA Lavender!",
+      "subtitulo": "Optimiza la captura de datos en tu negocio",
+      "texto": "Solicita una demostración gratuita y descubre todas las funcionalidades de nuestra herramienta.",
+      "fondo": "#4B0082",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/lavender"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#4B0082" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

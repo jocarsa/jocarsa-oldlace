@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA FloralWhite: Visualización Interactiva de Diagramas de Flujo",
+      "subtitulo": "Transforma datos en diagramas Sankey dinámicos",
+      "texto": "JOCARSA FloralWhite es una biblioteca ligera para crear diagramas de flujo interactivos utilizando SVG. Simplifica la comprensión de flujos de datos complejos mediante visualizaciones intuitivas.",
+      "imagen": "placeholder.png",
+      "fondo": "#fefaf0"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#fefaf0" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Potencia tus análisis de datos",
+      "texto": "Conoce las funcionalidades que convierten a FloralWhite en una herramienta imprescindible.",
+      "imagen": "placeholder.png",
+      "fondo": "#faf4e4",
+      "columnas": [
+        {
+          "titulo": "Visualización Dinámica",
+          "subtitulo": "Diagrama Sankey interactivo",
+          "texto": "Permite analizar flujos de datos con transiciones suaves e interacción directa."
+        },
+        {
+          "titulo": "Personalización Completa",
+          "subtitulo": "Colores y estructura adaptables",
+          "texto": "Personaliza nodos, enlaces y colores para adaptarse a tu identidad corporativa."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#faf4e4" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Demostración en Tiempo Real",
+      "subtitulo": "Explora el potencial de FloralWhite",
+      "texto": "Mira cómo nuestros diagramas interactivos simplifican el análisis de datos empresariales.",
+      "imagen": "placeholder.png",
+      "fondo": "#f2ebe1",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#f2ebe1" },
+      { "border": "2px solid #1f77b4" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Beneficios de FloralWhite",
+      "subtitulo": "Aumenta la comprensión de tus datos",
+      "texto": "Descubre cómo esta biblioteca facilita la creación de diagramas Sankey efectivos.",
+      "imagen": "placeholder.png",
+      "fondo": "#ffffff",
+      "bloques": [
+        { "titulo": "Intuitivo", "subtitulo": "Fácil de usar", "texto": "Implementación rápida y sencilla en cualquier aplicación web." },
+        { "titulo": "Optimizado", "subtitulo": "Alto rendimiento", "texto": "Renderización eficiente para grandes volúmenes de datos." },
+        { "titulo": "Adaptable", "subtitulo": "Personalización total", "texto": "Controla colores, tamaños y estilos con facilidad." },
+        { "titulo": "Interactividad", "subtitulo": "Exploración directa", "texto": "Permite a los usuarios interactuar directamente con los diagramas." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#ffffff" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Lo que opinan nuestros usuarios",
+      "subtitulo": "Experiencias reales",
+      "texto": "Empresas que han optimizado su análisis de datos con FloralWhite.",
+      "fondo": "#f6f1e7",
+      "testimonios": [
+        {
+          "nombre": "Ana Rodríguez",
+          "cargo": "Analista de Datos",
+          "comentario": "FloralWhite nos ha permitido visualizar flujos de información complejos de una manera clara y efectiva.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Pedro Sánchez",
+          "cargo": "CTO de DataFlow Corp",
+          "comentario": "Una herramienta indispensable para el análisis de datos empresariales.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f6f1e7" },
+      { "border-left": "5px solid #1f77b4" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Inicia con FloralWhite hoy!",
+      "subtitulo": "Visualiza tus datos con claridad",
+      "texto": "Descubre el poder de los diagramas Sankey interactivos. Solicita una demo gratuita ahora.",
+      "fondo": "#1f77b4",
+      "boton": {
+        "texto_boton": "Solicitar Demo Gratis",
+        "url": "https://jocarsa.com/floralwhite"
+      }
+    },
+    "estilo": [
+      { "color": "#ffffff" },
+      { "background": "#1f77b4" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

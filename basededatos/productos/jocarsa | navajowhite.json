@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA NavajoWhite: Videoconferencia Eficiente para Entornos de Conectividad Limitada",
+      "subtitulo": "Comunicación estable y ligera en cualquier situación",
+      "texto": "JOCARSA NavajoWhite es una plataforma de videoconferencia diseñada para funcionar en condiciones de conectividad restringida, ofreciendo una experiencia fluida mediante video de baja resolución y bajo consumo de ancho de banda.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFDEAD"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFDEAD" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Técnicas",
+      "subtitulo": "Videollamadas seguras y eficientes",
+      "texto": "Nuestra solución utiliza tecnologías modernas para garantizar conexiones estables y una experiencia de usuario sencilla.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFEBCD",
+      "columnas": [
+        {
+          "titulo": "Bajo Ancho de Banda",
+          "subtitulo": "Optimizado para conexiones lentas",
+          "texto": "Video de 80x60 píxeles a 2 FPS, ideal para entornos con limitaciones de conectividad."
+        },
+        {
+          "titulo": "Compatibilidad Universal",
+          "subtitulo": "Funciona en cualquier navegador moderno",
+          "texto": "Compatible con Chrome, Firefox, Edge y Safari, sin necesidad de instalar aplicaciones adicionales."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#FFEBCD" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Mira JOCARSA NavajoWhite en acción",
+      "subtitulo": "Videollamadas sencillas y efectivas",
+      "texto": "Descubre cómo nuestra plataforma facilita la comunicación en situaciones de conectividad desafiante.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFF5E1",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#FFF5E1" },
+      { "border": "2px solid #DAA520" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de NavajoWhite",
+      "subtitulo": "Comunicación simplificada",
+      "texto": "Descubre cómo nuestra solución permite mantener la comunicación incluso en condiciones adversas.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Simplicidad", "subtitulo": "Fácil de usar", "texto": "Interfaz sencilla y directa, sin configuraciones complicadas." },
+        { "titulo": "Eficiencia", "subtitulo": "Uso óptimo de recursos", "texto": "Aprovecha al máximo la capacidad de tu conexión a Internet." },
+        { "titulo": "Seguridad", "subtitulo": "Protección de datos", "texto": "Utiliza WebRTC con servidores STUN/TURN seguros." },
+        { "titulo": "Portabilidad", "subtitulo": "Uso multiplataforma", "texto": "Disponible en cualquier navegador compatible sin instalaciones." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Comunicación efectiva en cualquier momento",
+      "texto": "Nuestros clientes comparten su experiencia utilizando NavajoWhite.",
+      "fondo": "#F5DEB3",
+      "testimonios": [
+        {
+          "nombre": "Laura Fernández",
+          "cargo": "Coordinadora de Proyectos",
+          "comentario": "Hemos mejorado nuestra comunicación en campo gracias a la eficiencia de esta herramienta.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Ruiz",
+          "cargo": "Director de Operaciones",
+          "comentario": "Ahora mantenemos contacto constante con el equipo sin interrupciones, incluso en zonas rurales.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F5DEB3" },
+      { "border-left": "5px solid #DAA520" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba NavajoWhite ahora!",
+      "subtitulo": "Comunicación confiable en cualquier situación",
+      "texto": "Solicita una demo gratuita y descubre cómo JOCARSA NavajoWhite puede optimizar tu comunicación.",
+      "fondo": "#DAA520",
+      "boton": {
+        "texto_boton": "Solicitar Demo Gratis",
+        "url": "https://jocarsa.com/navajowhite"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#DAA520" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

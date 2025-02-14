@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Thistle: Análisis Avanzado de Logs de Apache",
+      "subtitulo": "Monitorea, analiza y visualiza el tráfico web de tus servidores",
+      "texto": "JOCARSA Thistle es una aplicación diseñada para procesar registros de acceso de Apache, almacenarlos en una base de datos MySQL y generar gráficos que reflejan el comportamiento de los visitantes de tus sitios web.",
+      "imagen": "placeholder.png",
+      "fondo": "#D8BFD8"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#D8BFD8" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Obtén información detallada de tu tráfico web",
+      "texto": "JOCARSA Thistle analiza automáticamente los registros de acceso, extrayendo estadísticas útiles y mostrando resultados mediante gráficos claros e intuitivos.",
+      "imagen": "placeholder.png",
+      "fondo": "#E6E6FA",
+      "columnas": [
+        {
+          "titulo": "Procesamiento Automático",
+          "subtitulo": "Lectura y almacenamiento",
+          "texto": "Analiza archivos de log de Apache y guarda la información en una base de datos MySQL para su posterior consulta."
+        },
+        {
+          "titulo": "Visualización Interactiva",
+          "subtitulo": "Gráficos dinámicos",
+          "texto": "Genera gráficos de barras y circulares que muestran patrones de acceso, navegadores, sistemas operativos y más."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#E6E6FA" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Thistle en Acción",
+      "subtitulo": "Análisis de tráfico en tiempo real",
+      "texto": "Descubre cómo esta herramienta simplifica el monitoreo y análisis del tráfico web mediante gráficos intuitivos.",
+      "imagen": "placeholder.png",
+      "fondo": "#9370DB",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#9370DB" },
+      { "border": "2px solid #4B0082" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Thistle",
+      "subtitulo": "Control y análisis simplificado",
+      "texto": "JOCARSA Thistle ofrece funcionalidades avanzadas que te permitirán conocer mejor el tráfico de tu sitio web.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Análisis en Profundidad", "subtitulo": "Procesamiento detallado", "texto": "Extrae datos como IP, fecha y hora, método de acceso, recurso solicitado, y agente de usuario." },
+        { "titulo": "Estadísticas Visuales", "subtitulo": "Gráficos claros", "texto": "Genera gráficos de barras y pastel que muestran el tráfico por hora, país, navegador y sistema operativo." },
+        { "titulo": "Gestión Segura", "subtitulo": "Acceso restringido", "texto": "Autenticación mediante usuario y contraseña para garantizar la privacidad de la información." },
+        { "titulo": "Compatibilidad", "subtitulo": "Integración sencilla", "texto": "Compatible con cualquier servidor que use Apache y registre logs en formato estándar." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias con JOCARSA Thistle",
+      "texto": "Conoce cómo esta herramienta ha ayudado a administradores web a optimizar sus sitios.",
+      "fondo": "#DDA0DD",
+      "testimonios": [
+        {
+          "nombre": "Ana Rodríguez",
+          "cargo": "Administradora de Sistemas",
+          "comentario": "Gracias a Thistle, hemos identificado los momentos de mayor tráfico y ajustado nuestros recursos de manera efectiva.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos García",
+          "cargo": "Analista Web",
+          "comentario": "Una herramienta sencilla pero potente que nos ha permitido comprender mejor el comportamiento de nuestros visitantes.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#DDA0DD" },
+      { "border-left": "5px solid #9370DB" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Thistle!",
+      "subtitulo": "Optimiza tu análisis de tráfico web",
+      "texto": "Solicita una demostración gratuita y descubre cómo JOCARSA Thistle puede ayudarte a comprender mejor las visitas a tu sitio web.",
+      "fondo": "#4B0082",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/thistle"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#4B0082" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

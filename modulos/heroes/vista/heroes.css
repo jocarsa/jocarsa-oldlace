@@ -55,3 +55,24 @@
 	width:800px;
 	margin:auto;
 }
+/* --- Responsive for mobile --- */
+				@media screen and (max-width: 768px) {
+					.heroe {
+						min-height:400px;
+						padding:20px;
+					}
+					.heroe .texto {
+						width:90%;
+					}
+					.heroe h3 {
+						font-size:2em;
+					}
+					.heroe h4 {
+						font-size:1.2em;
+					}
+					.heroe button {
+						width:150px;
+						padding:10px;
+						margin:5px;
+					}
+				}

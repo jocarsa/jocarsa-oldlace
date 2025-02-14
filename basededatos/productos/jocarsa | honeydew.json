@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Honeydew: Comparador de Código Estilo GitHub",
+      "subtitulo": "Analiza y compara bloques de código de forma sencilla",
+      "texto": "JOCARSA Honeydew es una herramienta web que permite comparar fragmentos de código, detectando diferencias y mostrando los cambios con un formato similar al de GitHub.",
+      "imagen": "placeholder.png",
+      "fondo": "#F0FFF0"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F0FFF0" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Diferencias claras y concisas",
+      "texto": "JOCARSA Honeydew ofrece una forma visualmente intuitiva de detectar cambios en bloques de código fuente.",
+      "imagen": "placeholder.png",
+      "fondo": "#E0FFE0",
+      "columnas": [
+        {
+          "titulo": "Detección de Diferencias",
+          "subtitulo": "Resaltado con colores",
+          "texto": "Resalta líneas añadidas, eliminadas y sin cambios utilizando una paleta de colores amigable."
+        },
+        {
+          "titulo": "Índice de Similitud",
+          "subtitulo": "Comparación estadística",
+          "texto": "Calcula un porcentaje de similitud entre los dos fragmentos de código analizados."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#E0FFE0" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Honeydew en Acción",
+      "subtitulo": "Visualiza las diferencias entre códigos",
+      "texto": "Descubre cómo esta herramienta facilita la comparación de fragmentos de código, resaltando las diferencias de manera clara.",
+      "imagen": "placeholder.png",
+      "fondo": "#98FB98",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#98FB98" },
+      { "border": "2px solid #2E8B57" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Honeydew",
+      "subtitulo": "Comparación eficiente de código",
+      "texto": "Nuestra herramienta permite identificar cambios en código de manera rápida y sin complicaciones.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Resaltado Visual", "subtitulo": "Colores intuitivos", "texto": "Líneas añadidas en verde, eliminadas en rojo y sin cambios en blanco." },
+        { "titulo": "Compatibilidad Múltiple", "subtitulo": "Diversos lenguajes", "texto": "Funciona con cualquier lenguaje de programación basado en texto." },
+        { "titulo": "Índice de Similitud", "subtitulo": "Métrica objetiva", "texto": "Muestra un porcentaje que refleja la similitud entre los bloques comparados." },
+        { "titulo": "Interfaz Simple", "subtitulo": "Accesible y funcional", "texto": "Sólo pega el código y presiona 'Comparar' para obtener resultados inmediatos." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias con JOCARSA Honeydew",
+      "texto": "Conoce las opiniones de desarrolladores que utilizan esta herramienta en su flujo de trabajo.",
+      "fondo": "#D0FFD0",
+      "testimonios": [
+        {
+          "nombre": "Laura Sánchez",
+          "cargo": "Desarrolladora Frontend",
+          "comentario": "Me encanta la claridad con la que se resaltan las diferencias. Es como tener un mini GitHub en mi navegador.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Martínez",
+          "cargo": "Ingeniero de Software",
+          "comentario": "La funcionalidad de cálculo del índice de similitud es perfecta para revisar cambios en proyectos grandes.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#D0FFD0" },
+      { "border-left": "5px solid #2E8B57" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Honeydew!",
+      "subtitulo": "Descubre las diferencias entre fragmentos de código al instante",
+      "texto": "Solicita una demostración gratuita y experimenta la eficacia de nuestro comparador de código.",
+      "fondo": "#2E8B57",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/honeydew"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#2E8B57" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

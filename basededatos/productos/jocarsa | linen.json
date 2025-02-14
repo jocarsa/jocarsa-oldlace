@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Linen: Plataforma de Gestión de Proyectos Didácticos",
+      "subtitulo": "Organiza, estructura y presenta contenidos educativos de forma sencilla",
+      "texto": "JOCARSA Linen es una aplicación web que permite a docentes y formadores crear, organizar y presentar contenido educativo mediante una interfaz intuitiva y una estructura de temas jerárquica.",
+      "imagen": "placeholder.png",
+      "fondo": "#F5F5F5"
+    },
+    "estilo": [
+      { "color": "#212121" },
+      { "background": "#F5F5F5" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Clave",
+      "subtitulo": "Simplificando la creación de contenidos",
+      "texto": "Descubre cómo JOCARSA Linen facilita la creación y organización de proyectos didácticos.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "columnas": [
+        {
+          "titulo": "Estructura Jerárquica",
+          "subtitulo": "Organización clara",
+          "texto": "Permite organizar los temas en una estructura de árbol jerárquico, facilitando la navegación entre secciones."
+        },
+        {
+          "titulo": "Presentación Interactiva",
+          "subtitulo": "Modo presentación",
+          "texto": "Ofrece un modo de presentación en tiempo real para mostrar el contenido de manera didáctica."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#283593" },
+      { "background": "#FFFFFF" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Linen en Acción",
+      "subtitulo": "Una herramienta didáctica al alcance de todos",
+      "texto": "Descubre cómo usar JOCARSA Linen para crear y presentar tus contenidos educativos de forma eficiente.",
+      "imagen": "placeholder.png",
+      "fondo": "#D1C4E9",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#212121" },
+      { "background": "#D1C4E9" },
+      { "border": "2px solid #283593" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Linen",
+      "subtitulo": "Una solución para formadores",
+      "texto": "Explora las ventajas de utilizar nuestra plataforma en el desarrollo de contenido educativo.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Simplicidad", "subtitulo": "Sin curva de aprendizaje", "texto": "Interfaz clara y sencilla para docentes sin conocimientos técnicos." },
+        { "titulo": "Jerarquización", "subtitulo": "Temas y subtemas", "texto": "Organización en árbol para estructurar el contenido de forma lógica." },
+        { "titulo": "Acceso Web", "subtitulo": "Desde cualquier dispositivo", "texto": "Plataforma accesible a través del navegador sin instalaciones adicionales." },
+        { "titulo": "Exportación SCORM", "subtitulo": "Compatibilidad con LMS", "texto": "Genera paquetes SCORM para integrar en sistemas de gestión de aprendizaje." }
+      ]
+    },
+    "estilo": [
+      { "color": "#212121" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Opiniones de Usuarios",
+      "subtitulo": "Historias de éxito",
+      "texto": "Descubre cómo JOCARSA Linen ha ayudado a docentes y formadores a mejorar su enseñanza.",
+      "fondo": "#E3F2FD",
+      "testimonios": [
+        {
+          "nombre": "María Rodríguez",
+          "cargo": "Docente de Primaria",
+          "comentario": "JOCARSA Linen me ha permitido crear presentaciones didácticas sin complicaciones y con una estructura clara.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Luis García",
+          "cargo": "Formador de Empresas",
+          "comentario": "Gracias a esta plataforma, puedo compartir contenido educativo con mis alumnos de manera eficiente.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#212121" },
+      { "background": "#E3F2FD" },
+      { "border-left": "5px solid #283593" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Linen!",
+      "subtitulo": "Organiza tu contenido educativo",
+      "texto": "Solicita una demo gratuita y descubre cómo nuestra plataforma puede ayudarte a crear y presentar contenidos de forma efectiva.",
+      "fondo": "#283593",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/linen"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#283593" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Olive: Editor de Código en el Navegador",
+      "subtitulo": "Edita, resalta y organiza tu código sin instalar nada",
+      "texto": "JOCARSA Olive es un editor de código ligero basado en navegador que permite editar texto en tiempo real, con numeración de líneas, resaltado de línea activa y manejo de tabulaciones.",
+      "imagen": "placeholder.png",
+      "fondo": "#808000"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#808000" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Un editor de código sencillo y funcional",
+      "texto": "Descubre las funcionalidades que hacen de JOCARSA Olive una opción ideal para desarrolladores y estudiantes.",
+      "imagen": "placeholder.png",
+      "fondo": "#BDB76B",
+      "columnas": [
+        {
+          "titulo": "Edición en Tiempo Real",
+          "subtitulo": "Sin recargas",
+          "texto": "Edita código directamente en el navegador, con sincronización automática con el textarea de origen."
+        },
+        {
+          "titulo": "Numeración de Líneas",
+          "subtitulo": "Visualización clara",
+          "texto": "Muestra números de línea junto al código, facilitando la navegación y revisión."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#BDB76B" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Olive en Acción",
+      "subtitulo": "Un editor de código en tu navegador",
+      "texto": "Descubre cómo funciona nuestro editor de código en esta demostración en vídeo.",
+      "imagen": "placeholder.png",
+      "fondo": "#6B8E23",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#6B8E23" },
+      { "border": "2px solid #556B2F" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Olive",
+      "subtitulo": "Tu editor ligero y práctico",
+      "texto": "Optimiza tu flujo de trabajo con las funciones que JOCARSA Olive tiene para ofrecer.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Ligero", "subtitulo": "Carga rápida", "texto": "Carga en milisegundos y funciona sin instalaciones adicionales." },
+        { "titulo": "Funcional", "subtitulo": "Tabulaciones y saltos de línea", "texto": "Manejo automático de tabulaciones y formato de texto." },
+        { "titulo": "Interactividad", "subtitulo": "Seguimiento de línea activa", "texto": "Resalta automáticamente la línea en la que te encuentras." },
+        { "titulo": "Compatibilidad", "subtitulo": "Funciona en cualquier navegador", "texto": "Accede al editor desde Chrome, Firefox, Edge o Safari." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias reales con JOCARSA Olive",
+      "texto": "Descubre cómo nuestro editor ha facilitado el trabajo de otros desarrolladores.",
+      "fondo": "#F5F5DC",
+      "testimonios": [
+        {
+          "nombre": "Lucía Torres",
+          "cargo": "Desarrolladora Web",
+          "comentario": "JOCARSA Olive es una herramienta simple pero potente para editar código sin complicaciones.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Javier Méndez",
+          "cargo": "Profesor de Programación",
+          "comentario": "Perfecto para enseñar a mis estudiantes la estructura de los programas en un entorno web sencillo.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F5F5DC" },
+      { "border-left": "5px solid #556B2F" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Olive!",
+      "subtitulo": "Empieza a editar tu código en segundos",
+      "texto": "Solicita una demostración gratuita y descubre las ventajas de nuestro editor basado en navegador.",
+      "fondo": "#556B2F",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/olive"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#556B2F" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

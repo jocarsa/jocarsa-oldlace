@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA GreenYellow: Sugerencias de Texto Predictivo",
+      "subtitulo": "Escribe más rápido con predicciones inteligentes",
+      "texto": "JOCARSA GreenYellow es una aplicación de procesamiento de texto que sugiere palabras basándose en patrones previos. Utiliza una base de datos optimizada para ofrecer predicciones precisas y contextuales en tiempo real.",
+      "imagen": "placeholder.png",
+      "fondo": "#ADFF2F"
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#ADFF2F" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Textos más rápidos y eficientes",
+      "texto": "Descubre las funcionalidades que hacen de JOCARSA GreenYellow una herramienta única.",
+      "imagen": "placeholder.png",
+      "fondo": "#F0FFF0",
+      "columnas": [
+        {
+          "titulo": "Predicción Contextual",
+          "subtitulo": "Sugiere las siguientes palabras",
+          "texto": "La aplicación analiza patrones de uso para anticipar el texto que deseas escribir."
+        },
+        {
+          "titulo": "Interfaz Intuitiva",
+          "subtitulo": "Simplicidad al máximo",
+          "texto": "Edición de texto predictivo en una interfaz clara y fácil de usar."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F0FFF0" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA GreenYellow en Acción",
+      "subtitulo": "Mira cómo funciona la predicción de texto",
+      "texto": "Aprende a utilizar la aplicación para escribir de manera más eficiente.",
+      "imagen": "placeholder.png",
+      "fondo": "#7CFC00",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#7CFC00" },
+      { "border": "2px solid #006400" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA GreenYellow",
+      "subtitulo": "Por qué elegir nuestra solución",
+      "texto": "La predicción de texto que mejora tu productividad.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Rápida", "subtitulo": "Análisis en tiempo real", "texto": "Predicciones instantáneas mientras escribes." },
+        { "titulo": "Precisa", "subtitulo": "Aprende de tu escritura", "texto": "Mejora las sugerencias a medida que la usas." },
+        { "titulo": "Ligera", "subtitulo": "Optimizada para el navegador", "texto": "Funciona sin instalar nada adicional." },
+        { "titulo": "Segura", "subtitulo": "Procesamiento local", "texto": "Tus datos se analizan sin salir de tu dispositivo." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Opiniones de quienes lo han probado",
+      "texto": "JOCARSA GreenYellow ha sido una revelación para muchos profesionales.",
+      "fondo": "#F5FFFA",
+      "testimonios": [
+        {
+          "nombre": "Laura Sánchez",
+          "cargo": "Escritora freelance",
+          "comentario": "Esta herramienta me ha permitido escribir más rápido y con menos errores.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Daniel Rodríguez",
+          "cargo": "Desarrollador de Software",
+          "comentario": "La predicción de texto es increíblemente precisa y útil en mis tareas diarias.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F5FFFA" },
+      { "border-left": "5px solid #006400" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA GreenYellow!",
+      "subtitulo": "Aumenta tu productividad escribiendo",
+      "texto": "Descubre el poder de la predicción de texto con una prueba gratuita.",
+      "fondo": "#006400",
+      "boton": {
+        "texto_boton": "Solicitar Prueba",
+        "url": "https://jocarsa.com/greenyellow"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#006400" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

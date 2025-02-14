@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA MistyRose: Gráficos Interactivos en tu Navegador",
+      "subtitulo": "Visualiza datos de forma clara y atractiva",
+      "texto": "JOCARSA MistyRose es una biblioteca JavaScript que permite generar gráficos de barras y de pastel de manera sencilla, con colores suaves y una interfaz atractiva.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFE4E1"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFE4E1" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Visualización de datos intuitiva",
+      "texto": "JOCARSA MistyRose permite representar información de forma clara mediante gráficos interactivos.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFDAB9",
+      "columnas": [
+        {
+          "titulo": "Gráficos de Pastel",
+          "subtitulo": "Visualización proporcional",
+          "texto": "Muestra la distribución porcentual de datos con colores suaves y etiquetas informativas."
+        },
+        {
+          "titulo": "Gráficos de Barras",
+          "subtitulo": "Comparación directa",
+          "texto": "Representa valores de diferentes categorías en barras verticales con etiquetas de valor." 
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFDAB9" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA MistyRose en Acción",
+      "subtitulo": "Visualiza datos sin complicaciones",
+      "texto": "Observa cómo esta herramienta crea gráficos interactivos de manera rápida y sencilla.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFB6C1",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFB6C1" },
+      { "border": "2px solid #FF69B4" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA MistyRose",
+      "subtitulo": "Gráficos atractivos en minutos",
+      "texto": "Nuestra biblioteca ofrece una forma rápida y eficaz de representar datos con un diseño profesional.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Configuración Sencilla", "subtitulo": "Fácil integración", "texto": "Incluye dos archivos y empieza a generar gráficos en segundos." },
+        { "titulo": "Colores Personalizables", "subtitulo": "Paleta suave", "texto": "Usa colores pastel que se ajustan automáticamente a la cantidad de datos." },
+        { "titulo": "Interactividad", "subtitulo": "Efectos dinámicos", "texto": "Las secciones de los gráficos se resaltan al pasar el ratón para una mejor comprensión." },
+        { "titulo": "Compatibilidad Universal", "subtitulo": "Sin dependencias", "texto": "Funciona en cualquier navegador moderno sin necesidad de bibliotecas adicionales." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Cómo JOCARSA MistyRose facilita la visualización de datos",
+      "texto": "Usuarios de diferentes sectores comparten su experiencia con nuestra herramienta.",
+      "fondo": "#FFF0F5",
+      "testimonios": [
+        {
+          "nombre": "Laura Gómez",
+          "cargo": "Analista de Datos",
+          "comentario": "Ahora podemos representar los resultados de nuestras encuestas de forma clara y profesional.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Ruiz",
+          "cargo": "Desarrollador Web",
+          "comentario": "Integrar la biblioteca en nuestro proyecto fue cuestión de minutos. Los gráficos son modernos y atractivos.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFF0F5" },
+      { "border-left": "5px solid #FF69B4" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA MistyRose!",
+      "subtitulo": "Convierte tus datos en gráficos atractivos",
+      "texto": "Solicita una demostración gratuita y descubre cómo visualizar tus datos con un diseño profesional.",
+      "fondo": "#FF69B4",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/mistyrose"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#FF69B4" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

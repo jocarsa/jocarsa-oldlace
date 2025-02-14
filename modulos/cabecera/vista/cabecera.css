@@ -99,5 +99,28 @@ h1{
   margin-right:10px;
 }
 
-
+/* --- Responsive for mobile --- */
+			@media screen and (max-width: 768px) {
+				header .contenedor {
+					padding: 0 10px;
+				}
+				header .contenedor img {
+					width:25px;
+					margin-top:0px;
+				}
+				header .contenedor nav ul li {
+					display: block;
+					margin: 5px 0;
+				}
+				header .contenedor nav ul li a {
+					font-size: 14px;
+				}
+				#supermenu .columna {
+					column-count: 1;
+					padding: 20px;
+				}
+				h1 {
+					font-size: 12px;
+				}
+			}
 

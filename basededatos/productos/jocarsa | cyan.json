@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Cyan: Base de Datos Ligera y Eficiente",
+      "subtitulo": "Gestión de datos sencilla con integración en múltiples lenguajes",
+      "texto": "JOCARSA Cyan ofrece una base de datos minimalista diseñada para facilitar el almacenamiento y recuperación de datos en aplicaciones Python, PHP y C++. Ideal para proyectos pequeños y educativos.",
+      "imagen": "placeholder.png",
+      "fondo": "#00FFFF"
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#00FFFF" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Gestión simple y eficiente",
+      "texto": "Conoce las funcionalidades que convierten a JOCARSA Cyan en una opción ideal para el manejo de datos básico.",
+      "imagen": "placeholder.png",
+      "fondo": "#E0FFFF",
+      "columnas": [
+        {
+          "titulo": "Compatibilidad Multiplataforma",
+          "subtitulo": "Soporte para Python, PHP y C++",
+          "texto": "Integra fácilmente la base de datos en aplicaciones de distintos lenguajes de programación."
+        },
+        {
+          "titulo": "Simplicidad de Uso",
+          "subtitulo": "Operaciones intuitivas",
+          "texto": "Realiza operaciones de inserción y selección sin configuraciones complejas."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#E0FFFF" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Cyan en Acción",
+      "subtitulo": "Gestión de datos sin complicaciones",
+      "texto": "Descubre cómo utilizar JOCARSA Cyan para gestionar tus datos de manera eficiente.",
+      "imagen": "placeholder.png",
+      "fondo": "#AFEEEE",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#AFEEEE" },
+      { "border": "2px solid #008B8B" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Beneficios Clave",
+      "subtitulo": "Ventajas de utilizar JOCARSA Cyan",
+      "texto": "Explora las razones por las que nuestra base de datos ligera es perfecta para tus proyectos.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Ligera", "subtitulo": "Bajo consumo de recursos", "texto": "Optimizada para entornos con recursos limitados." },
+        { "titulo": "Sencilla", "subtitulo": "Sin configuraciones complejas", "texto": "Accede a tus datos mediante comandos simples." },
+        { "titulo": "Versátil", "subtitulo": "Integración flexible", "texto": "Compatible con aplicaciones en Python, PHP y C++." },
+        { "titulo": "Práctica", "subtitulo": "Útil para educación", "texto": "Ideal para estudiantes y proyectos de aprendizaje." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Opiniones de Usuarios",
+      "subtitulo": "Lo que dicen quienes ya usan Cyan",
+      "texto": "Descubre cómo JOCARSA Cyan ha ayudado a gestionar datos de forma simple.",
+      "fondo": "#E0FFFF",
+      "testimonios": [
+        {
+          "nombre": "Sonia Rodríguez",
+          "cargo": "Desarrolladora Junior",
+          "comentario": "Cyan es perfecto para aprender a trabajar con bases de datos en Python.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Méndez",
+          "cargo": "Ingeniero de Software",
+          "comentario": "Lo utilizamos en proyectos pequeños para prototipado rápido, y funciona genial.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#E0FFFF" },
+      { "border-left": "5px solid #008B8B" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Cyan!",
+      "subtitulo": "Descubre su facilidad y rendimiento",
+      "texto": "Accede a nuestra base de datos minimalista y simplifica la gestión de tus datos.",
+      "fondo": "#008B8B",
+      "boton": {
+        "texto_boton": "Probar Ahora",
+        "url": "https://jocarsa.com/cyan"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#008B8B" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

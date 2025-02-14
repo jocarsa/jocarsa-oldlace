@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA LightCyan: Detección de Bordes y Coincidencias Faciales",
+      "subtitulo": "Procesamiento de imágenes en tiempo real",
+      "texto": "JOCARSA LightCyan es una aplicación web que realiza detección de bordes en imágenes y busca coincidencias faciales utilizando algoritmos de procesamiento de imágenes en el navegador.",
+      "imagen": "placeholder.png",
+      "fondo": "#E0FFFF"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#E0FFFF" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Clave",
+      "subtitulo": "Análisis visual avanzado",
+      "texto": "Descubre las funcionalidades que convierten a JOCARSA LightCyan en una herramienta de procesamiento de imágenes.",
+      "imagen": "placeholder.png",
+      "fondo": "#AFEEEE",
+      "columnas": [
+        {
+          "titulo": "Detección de Bordes",
+          "subtitulo": "Algoritmo de Sobel",
+          "texto": "Aplica el algoritmo de Sobel para resaltar los bordes presentes en una imagen." 
+        },
+        {
+          "titulo": "Comparación Facial",
+          "subtitulo": "Coincidencias precisas",
+          "texto": "Localiza patrones faciales en el fondo comparándolos con una imagen de referencia." 
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#AFEEEE" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA LightCyan en Acción",
+      "subtitulo": "Observa el procesamiento de imágenes en tiempo real",
+      "texto": "Este vídeo muestra la aplicación de detección de bordes y reconocimiento facial funcionando en el navegador.",
+      "imagen": "placeholder.png",
+      "fondo": "#00CED1",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#00CED1" },
+      { "border": "2px solid #008B8B" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA LightCyan",
+      "subtitulo": "Tecnología avanzada al alcance de tu navegador",
+      "texto": "Nuestra aplicación emplea algoritmos eficientes para detectar bordes y reconocer rostros en imágenes.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Algoritmo Sobel", "subtitulo": "Detección precisa", "texto": "Analiza bordes y patrones visuales utilizando convoluciones en tiempo real." },
+        { "titulo": "Comparación de Patrones", "subtitulo": "Localización de rostros", "texto": "Busca coincidencias faciales en una imagen mediante análisis comparativo de bloques." },
+        { "titulo": "Interfaz Simple", "subtitulo": "Fácil de usar", "texto": "Solo necesitas cargar una imagen y seleccionar el patrón facial a buscar." },
+        { "titulo": "Procesamiento Local", "subtitulo": "Sin datos externos", "texto": "Todo el procesamiento se realiza en el navegador, sin subir imágenes a la nube." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Cómo JOCARSA LightCyan ha facilitado el análisis visual",
+      "texto": "Descubre cómo esta herramienta ha ayudado a profesionales en el análisis de imágenes.",
+      "fondo": "#B0E0E6",
+      "testimonios": [
+        {
+          "nombre": "Lucía Gómez",
+          "cargo": "Ingeniera de Visión Artificial",
+          "comentario": "La detección de bordes es precisa y rápida. Ideal para demostraciones de procesamiento de imágenes.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Martínez",
+          "cargo": "Desarrollador Web",
+          "comentario": "Implementamos LightCyan en una demo para clientes y quedaron impresionados con la detección en tiempo real.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#B0E0E6" },
+      { "border-left": "5px solid #008B8B" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA LightCyan!",
+      "subtitulo": "Procesamiento de imágenes sencillo y potente",
+      "texto": "Solicita una demostración gratuita y experimenta el potencial de nuestra herramienta para detección de bordes y comparación facial.",
+      "fondo": "#008B8B",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/lightcyan"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#008B8B" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

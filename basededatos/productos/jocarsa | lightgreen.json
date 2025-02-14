@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA LightGreen: Gestión de Documentación Simplificada",
+      "subtitulo": "Organiza y accede a tu documentación técnica con facilidad",
+      "texto": "JOCARSA LightGreen es una aplicación que permite estructurar, visualizar y buscar documentación en tiempo real, facilitando el acceso y la organización de archivos técnicos.",
+      "imagen": "placeholder.png",
+      "fondo": "#90EE90"
+    },
+    "estilo": [
+      { "color": "#000000" },
+      { "background": "#90EE90" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Clave",
+      "subtitulo": "Gestión eficiente de documentos",
+      "texto": "Descubre las funcionalidades que hacen de LightGreen una herramienta indispensable para tu equipo técnico.",
+      "imagen": "placeholder.png",
+      "fondo": "#DFF0D8",
+      "columnas": [
+        {
+          "titulo": "Estructura Jerárquica",
+          "subtitulo": "Navegación intuitiva",
+          "texto": "Organiza tu documentación en carpetas anidadas y accede rápidamente a la información."
+        },
+        {
+          "titulo": "Búsqueda Rápida",
+          "subtitulo": "Encuentra lo que necesitas",
+          "texto": "Busca documentos y contenidos en tiempo real mediante un motor eficiente."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#DFF0D8" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Mira JOCARSA LightGreen en Acción",
+      "subtitulo": "Una herramienta para simplificar tu documentación",
+      "texto": "Descubre cómo funciona LightGreen en esta demostración en vídeo.",
+      "imagen": "placeholder.png",
+      "fondo": "#98FB98",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#98FB98" },
+      { "border": "2px solid #006400" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA LightGreen",
+      "subtitulo": "Optimiza tu flujo de documentación",
+      "texto": "Aprovecha estas ventajas para mantener tu documentación organizada y accesible.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Organización Eficiente", "subtitulo": "Carpetas anidadas", "texto": "Estructura tu información de forma clara y accesible." },
+        { "titulo": "Acceso Rápido", "subtitulo": "Búsqueda instantánea", "texto": "Encuentra documentos al instante gracias a su motor de búsqueda." },
+        { "titulo": "Interfaz Intuitiva", "subtitulo": "Facilidad de uso", "texto": "Diseño pensado para usuarios técnicos y no técnicos." },
+        { "titulo": "Acceso Web", "subtitulo": "Disponible en cualquier navegador", "texto": "Accede a tus documentos desde cualquier dispositivo." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Opiniones de Usuarios",
+      "subtitulo": "Experiencias con LightGreen",
+      "texto": "Conoce cómo nuestros clientes utilizan la aplicación en su día a día.",
+      "fondo": "#F5FFFA",
+      "testimonios": [
+        {
+          "nombre": "Lucía Gómez",
+          "cargo": "Ingeniera de Software",
+          "comentario": "LightGreen ha mejorado drásticamente nuestra gestión de documentación técnica.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Fernando Ruiz",
+          "cargo": "Analista de Sistemas",
+          "comentario": "Una herramienta imprescindible para cualquier equipo de desarrollo.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F5FFFA" },
+      { "border-left": "5px solid #006400" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA LightGreen!",
+      "subtitulo": "Organiza tu documentación de forma eficiente",
+      "texto": "Solicita una demo gratuita y descubre todas las funcionalidades de nuestra herramienta.",
+      "fondo": "#006400",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/lightgreen"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#006400" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

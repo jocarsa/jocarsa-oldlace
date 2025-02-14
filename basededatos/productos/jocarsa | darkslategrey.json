@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA DarkSlateGrey: Gestión Integral de Comunidades",
+      "subtitulo": "Simplifica la administración de tu comunidad de vecinos",
+      "texto": "JOCARSA DarkSlateGrey es una plataforma que permite gestionar de manera eficiente vecinos, propiedades, pagos, incidencias, reuniones y accesos desde una única interfaz web, con funcionalidades interactivas y seguras.",
+      "imagen": "placeholder.png",
+      "fondo": "#2F4F4F"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#2F4F4F" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Clave",
+      "subtitulo": "Gestión centralizada para comunidades",
+      "texto": "Descubre las principales funcionalidades que hacen de JOCARSA DarkSlateGrey una solución eficaz para la administración de comunidades.",
+      "imagen": "placeholder.png",
+      "fondo": "#556B2F",
+      "columnas": [
+        {
+          "titulo": "Gestión de Vecinos",
+          "subtitulo": "Control detallado",
+          "texto": "Permite registrar, actualizar y consultar datos de los vecinos, incluyendo nombres, correos electrónicos y teléfonos."
+        },
+        {
+          "titulo": "Administración de Propiedades",
+          "subtitulo": "Relación con propietarios",
+          "texto": "Asigna propiedades a vecinos, gestiona direcciones y controla la ocupación de cada inmueble."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#556B2F" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA DarkSlateGrey en Acción",
+      "subtitulo": "Mira cómo gestionar tu comunidad nunca fue tan fácil",
+      "texto": "Este vídeo demuestra el uso de la plataforma para gestionar datos de vecinos, propiedades, pagos y reuniones.",
+      "imagen": "placeholder.png",
+      "fondo": "#2E8B57",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#2E8B57" },
+      { "border": "2px solid #2F4F4F" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA DarkSlateGrey",
+      "subtitulo": "Optimiza la gestión de tu comunidad",
+      "texto": "Nuestra aplicación ofrece una amplia variedad de funciones que facilitan la administración diaria.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Panel Intuitivo", "subtitulo": "Navegación sencilla", "texto": "Accede a todas las secciones desde un menú claro y accesible." },
+        { "titulo": "Gestión de Reuniones", "subtitulo": "Programación y actas", "texto": "Programa reuniones, registra asistentes y almacena actas fácilmente." },
+        { "titulo": "Control de Incidencias", "subtitulo": "Seguimiento continuo", "texto": "Permite a los vecinos reportar incidencias y controlar su resolución." },
+        { "titulo": "Administración de Pagos", "subtitulo": "Historial detallado", "texto": "Consulta pagos realizados, conceptos asociados y registra nuevos movimientos." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias con JOCARSA DarkSlateGrey",
+      "texto": "Conoce cómo esta herramienta ha facilitado la gestión de comunidades en diferentes administraciones.",
+      "fondo": "#708090",
+      "testimonios": [
+        {
+          "nombre": "Ana López",
+          "cargo": "Administradora de Fincas",
+          "comentario": "La gestión de pagos y reuniones es mucho más sencilla y clara con esta herramienta.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Gómez",
+          "cargo": "Presidente de Comunidad",
+          "comentario": "Ahora podemos mantener a los vecinos informados y controlar incidencias de manera eficiente.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#708090" },
+      { "border-left": "5px solid #2F4F4F" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA DarkSlateGrey!",
+      "subtitulo": "Gestiona tu comunidad de forma profesional",
+      "texto": "Solicita una demostración gratuita y descubre cómo nuestra herramienta puede facilitar la administración de tu comunidad de vecinos.",
+      "fondo": "#2F4F4F",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/darkslategrey"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#2F4F4F" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

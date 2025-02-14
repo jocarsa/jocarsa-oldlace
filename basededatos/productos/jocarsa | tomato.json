@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Tomato: Monitoreo de Métricas del Sistema en Tiempo Real",
+      "subtitulo": "Visualiza el rendimiento de tu servidor con gráficos dinámicos",
+      "texto": "JOCARSA Tomato es una aplicación web que mide, registra y visualiza las métricas clave del sistema, como el uso de CPU, RAM, disco, actividad de red y conexiones activas, mediante gráficos interactivos generados en tiempo real.",
+      "imagen": "placeholder.png",
+      "fondo": "#FF6347"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#FF6347" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Monitoreo y análisis en tiempo real",
+      "texto": "JOCARSA Tomato te proporciona una visión clara y detallada de las métricas esenciales del servidor, facilitando la identificación de cuellos de botella y posibles anomalías.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFA07A",
+      "columnas": [
+        {
+          "titulo": "Monitoreo de CPU y RAM",
+          "subtitulo": "Carga del sistema",
+          "texto": "Registra el uso del procesador y la memoria RAM en intervalos regulares, mostrando su evolución en gráficos dinámicos."
+        },
+        {
+          "titulo": "Actividad de Red",
+          "subtitulo": "Descargas y subidas",
+          "texto": "Muestra la velocidad de carga y descarga en Mbps, junto con el número de conexiones activas." 
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFA07A" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Tomato en Acción",
+      "subtitulo": "Monitoreo sencillo y visual",
+      "texto": "Observa cómo esta herramienta permite visualizar en tiempo real el estado del servidor, mediante gráficos generados automáticamente.",
+      "imagen": "placeholder.png",
+      "fondo": "#CD5C5C",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#CD5C5C" },
+      { "border": "2px solid #FF6347" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Tomato",
+      "subtitulo": "Supervisa tu servidor de manera eficiente",
+      "texto": "Nuestra aplicación ofrece una solución integral para el análisis y seguimiento de las métricas del sistema.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Gráficos Dinámicos", "subtitulo": "Visualización clara", "texto": "Representa las métricas de CPU, RAM, disco, red y conexiones activas con gráficos actualizados en tiempo real." },
+        { "titulo": "Registro de Datos", "subtitulo": "Historial detallado", "texto": "Almacena las métricas registradas en archivos CSV para su análisis posterior." },
+        { "titulo": "Acceso Seguro", "subtitulo": "Autenticación integrada", "texto": "Requiere usuario y contraseña para acceder a las métricas y los gráficos." },
+        { "titulo": "Interfaz Responsiva", "subtitulo": "Adaptable a dispositivos móviles", "texto": "La aplicación es accesible desde cualquier dispositivo con conexión a Internet." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias con JOCARSA Tomato",
+      "texto": "Empresas y profesionales que utilizan nuestra herramienta comparten su experiencia.",
+      "fondo": "#FA8072",
+      "testimonios": [
+        {
+          "nombre": "Laura Sánchez",
+          "cargo": "Administradora de Sistemas",
+          "comentario": "JOCARSA Tomato nos ha permitido anticiparnos a problemas de rendimiento gracias a sus gráficos en tiempo real.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Pérez",
+          "cargo": "Responsable de Infraestructura",
+          "comentario": "Una herramienta imprescindible para controlar el estado del servidor sin complicaciones.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FA8072" },
+      { "border-left": "5px solid #FF6347" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Tomato!",
+      "subtitulo": "Monitoriza tu sistema con facilidad",
+      "texto": "Solicita una demostración gratuita y descubre cómo nuestra herramienta puede ayudarte a mantener tu servidor bajo control.",
+      "fondo": "#FF4500",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/tomato"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#FF4500" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

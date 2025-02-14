@@ -37,3 +37,14 @@
     color: white;
     margin: 10px;
 }
+/* --- Additional narrower breakpoints --- */
+				@media screen and (max-width: 768px) {
+					#destacados {
+						grid-template-columns: 1fr;
+					}
+					#destacados article {
+						min-height:300px;
+						font-size:1.3em;
+						padding:20px;
+					}
+				}

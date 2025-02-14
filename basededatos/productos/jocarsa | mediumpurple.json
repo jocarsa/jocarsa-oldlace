@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA MediumPurple: Análisis de Integridad de Archivos",
+      "subtitulo": "Inspecciona carpetas y genera informes detallados",
+      "texto": "JOCARSA MediumPurple es una aplicación que analiza el contenido de una carpeta específica, registra archivos y directorios junto con su tamaño, y genera informes con marca temporal para su posterior revisión.",
+      "imagen": "placeholder.png",
+      "fondo": "#9370DB"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#9370DB" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Control y auditoría de archivos",
+      "texto": "JOCARSA MediumPurple te permite mantener un registro de la estructura y contenido de tus carpetas de trabajo.",
+      "imagen": "placeholder.png",
+      "fondo": "#D8BFD8",
+      "columnas": [
+        {
+          "titulo": "Análisis Recursivo",
+          "subtitulo": "Incluye subcarpetas",
+          "texto": "Recorre todas las carpetas internas para obtener una visión completa de los archivos." 
+        },
+        {
+          "titulo": "Informes Temporales",
+          "subtitulo": "Registro con timestamp",
+          "texto": "Los informes se guardan con una marca temporal para facilitar el seguimiento de cambios." 
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#D8BFD8" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA MediumPurple en Acción",
+      "subtitulo": "Análisis sencillo y efectivo",
+      "texto": "Observa cómo esta herramienta recorre las carpetas y genera informes detallados en segundos.",
+      "imagen": "placeholder.png",
+      "fondo": "#6A5ACD",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#6A5ACD" },
+      { "border": "2px solid #483D8B" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA MediumPurple",
+      "subtitulo": "Auditoría de archivos sin complicaciones",
+      "texto": "Conoce las funcionalidades que hacen de esta herramienta un aliado en el control de integridad de archivos.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Análisis Completo", "subtitulo": "Incluye todas las carpetas", "texto": "Analiza todas las carpetas y subcarpetas, listando archivos con su tamaño exacto." },
+        { "titulo": "Registro Temporal", "subtitulo": "Marcas horarias precisas", "texto": "Cada informe tiene una fecha y hora exacta para facilitar auditorías históricas." },
+        { "titulo": "Fácil Ejecución", "subtitulo": "Línea de comandos", "texto": "Ejecuta el análisis con un simple comando en terminal." },
+        { "titulo": "Informes Accesibles", "subtitulo": "Formato de texto plano", "texto": "Los informes se guardan en archivos TXT legibles para cualquier usuario." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias con JOCARSA MediumPurple",
+      "texto": "Conoce las opiniones de quienes utilizan esta herramienta para mantener sus carpetas en orden.",
+      "fondo": "#E6E6FA",
+      "testimonios": [
+        {
+          "nombre": "Ana López",
+          "cargo": "Analista de Sistemas",
+          "comentario": "Gracias a esta herramienta, mantenemos un control exacto sobre el contenido de nuestras carpetas de trabajo.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Gómez",
+          "cargo": "Administrador de Servidores",
+          "comentario": "El registro con timestamp nos ha permitido identificar cambios no autorizados de manera sencilla.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#E6E6FA" },
+      { "border-left": "5px solid #9370DB" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA MediumPurple!",
+      "subtitulo": "Asegura la integridad de tus carpetas",
+      "texto": "Solicita una demostración gratuita y descubre cómo mantener un control total sobre tus archivos.",
+      "fondo": "#483D8B",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/mediumpurple"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#483D8B" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

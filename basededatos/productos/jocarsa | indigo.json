@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Indigo: Gestión de Configuraciones JSON",
+      "subtitulo": "Crea, edita y visualiza configuraciones de forma sencilla",
+      "texto": "JOCARSA Indigo es una herramienta web que permite la manipulación intuitiva de archivos de configuración en formato JSON, facilitando su edición, validación y exportación.",
+      "imagen": "placeholder.png",
+      "fondo": "#4B0082"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#4B0082" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Edición y validación JSON sin complicaciones",
+      "texto": "Descubre cómo JOCARSA Indigo facilita la gestión de configuraciones en JSON.",
+      "imagen": "placeholder.png",
+      "fondo": "#9370DB",
+      "columnas": [
+        {
+          "titulo": "Editor Interactivo",
+          "subtitulo": "Edición en tiempo real",
+          "texto": "Modifica y visualiza la estructura JSON de forma clara e intuitiva."
+        },
+        {
+          "titulo": "Validación Automática",
+          "subtitulo": "Comprobación en vivo",
+          "texto": "Detecta errores en la sintaxis JSON mientras escribes."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#9370DB" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Indigo en Acción",
+      "subtitulo": "Gestión sencilla de archivos JSON",
+      "texto": "Mira cómo funciona nuestra herramienta para crear y validar configuraciones JSON.",
+      "imagen": "placeholder.png",
+      "fondo": "#483D8B",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#483D8B" },
+      { "border": "2px solid #4B0082" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Indigo",
+      "subtitulo": "Optimiza tu flujo de trabajo",
+      "texto": "Nuestra aplicación está diseñada para simplificar la manipulación de archivos JSON en entornos empresariales.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Interfaz Intuitiva", "subtitulo": "Edición fácil", "texto": "Accede a las claves y valores con un diseño claro y organizado." },
+        { "titulo": "Exportación Rápida", "subtitulo": "JSON listo para producción", "texto": "Guarda las configuraciones directamente en tu sistema con un clic." },
+        { "titulo": "Validación en Vivo", "subtitulo": "Sin errores ocultos", "texto": "Comprueba la sintaxis mientras escribes para evitar problemas posteriores." },
+        { "titulo": "Acceso Online", "subtitulo": "Desde cualquier dispositivo", "texto": "Utiliza la aplicación sin instalar nada, directamente desde tu navegador." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias con JOCARSA Indigo",
+      "texto": "Profesionales de diversos sectores comparten sus impresiones sobre nuestra herramienta.",
+      "fondo": "#E6E6FA",
+      "testimonios": [
+        {
+          "nombre": "Ana Rodríguez",
+          "cargo": "Ingeniera de Software",
+          "comentario": "JOCARSA Indigo ha simplificado enormemente la gestión de nuestras configuraciones JSON.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Sánchez",
+          "cargo": "Administrador de Sistemas",
+          "comentario": "La validación en tiempo real nos ha ahorrado horas de trabajo al evitar errores de sintaxis.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#E6E6FA" },
+      { "border-left": "5px solid #4B0082" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Indigo!",
+      "subtitulo": "Gestiona archivos JSON de forma profesional",
+      "texto": "Solicita una demostración gratuita y descubre cómo nuestra herramienta puede optimizar tu trabajo con configuraciones JSON.",
+      "fondo": "#4B0082",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/indigo"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#4B0082" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

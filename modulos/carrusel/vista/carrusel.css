@@ -91,3 +91,20 @@
 	margin:5px;
 	display:inline-block;
 }
+/* --- Responsive for mobile --- */
+				@media screen and (max-width: 768px) {
+					#carrusel1 article {
+						width: 100%;
+						min-height: 200px;
+						padding:20px;
+					}
+					#carrusel2 article {
+						width: 250px;
+						min-height: 200px;
+						padding: 20px;
+					}
+					#carrusel button {
+						width: 150px;
+						padding:10px;
+					}
+				}

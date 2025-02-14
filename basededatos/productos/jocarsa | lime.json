@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Lime: Interfaz Isométrica Interactiva",
+      "subtitulo": "Navegación y gestión dinámica de cuadrículas",
+      "texto": "JOCARSA Lime es una herramienta que permite visualizar y editar cuadrículas isométricas con NPCs móviles, facilitando la representación de escenarios interactivos en tiempo real.",
+      "imagen": "placeholder.png",
+      "fondo": "#32CD32"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#32CD32" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Edición y visualización en tiempo real",
+      "texto": "Explora las funcionalidades que convierten a JOCARSA Lime en una herramienta interactiva única.",
+      "imagen": "placeholder.png",
+      "fondo": "#98FB98",
+      "columnas": [
+        {
+          "titulo": "Cuadrículas Interactivas",
+          "subtitulo": "Edición en vivo",
+          "texto": "Pinta y gestiona celdas con solo un clic para diseñar entornos isométricos fácilmente."
+        },
+        {
+          "titulo": "NPCs Dinámicos",
+          "subtitulo": "Movimiento automático",
+          "texto": "NPCs que se desplazan de forma autónoma por las celdas coloreadas."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#98FB98" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Lime en Acción",
+      "subtitulo": "Descubre sus capacidades",
+      "texto": "Mira una demostración del sistema de cuadrículas isométricas y el comportamiento dinámico de los NPCs.",
+      "imagen": "placeholder.png",
+      "fondo": "#00FF7F",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#00FF7F" },
+      { "border": "2px solid #006400" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Beneficios de JOCARSA Lime",
+      "subtitulo": "Una experiencia interactiva",
+      "texto": "Descubre cómo esta herramienta simplifica la creación de mapas y la gestión de entidades interactivas.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Edición Instantánea", "subtitulo": "Colorea celdas con un clic", "texto": "Facilidad para modificar la cuadrícula directamente en el navegador." },
+        { "titulo": "NPCs Inteligentes", "subtitulo": "Movimiento autónomo", "texto": "Los NPCs se mueven siguiendo rutas de celdas coloreadas." },
+        { "titulo": "Isometría 3D", "subtitulo": "Representación visual moderna", "texto": "Escenarios con perspectiva isométrica realista." },
+        { "titulo": "Servidor Ligero", "subtitulo": "Operación eficiente", "texto": "Basado en Node.js para garantizar un rendimiento ágil." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias reales",
+      "texto": "Conoce las opiniones de quienes han trabajado con JOCARSA Lime.",
+      "fondo": "#7CFC00",
+      "testimonios": [
+        {
+          "nombre": "Lucas Fernández",
+          "cargo": "Desarrollador de Juegos",
+          "comentario": "Una herramienta excelente para prototipar mapas de manera sencilla.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Andrea Gómez",
+          "cargo": "Diseñadora Interactiva",
+          "comentario": "La facilidad de edición y el sistema de NPCs son fantásticos.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#7CFC00" },
+      { "border-left": "5px solid #006400" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Lime!",
+      "subtitulo": "Explora su potencial",
+      "texto": "Solicita una demo gratuita y experimenta la interactividad de nuestras cuadrículas isométricas.",
+      "fondo": "#006400",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/lime"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#006400" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Crimson: ERP Integral para Empresas",
+      "subtitulo": "Optimiza y automatiza la gestión empresarial",
+      "texto": "JOCARSA Crimson es una solución ERP diseñada para simplificar y centralizar los procesos de gestión empresarial. Con una interfaz intuitiva y funcionalidades avanzadas, permite a las empresas mejorar su eficiencia operativa.",
+      "imagen": "placeholder.png",
+      "fondo": "#DC143C"
+    },
+    "estilo": [
+      { "color": "#ffffff" },
+      { "background": "#DC143C" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Gestión completa en una sola plataforma",
+      "texto": "Descubre las herramientas que hacen de JOCARSA Crimson el aliado perfecto para tu empresa.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFE4E1",
+      "columnas": [
+        {
+          "titulo": "Automatización de Procesos",
+          "subtitulo": "Eficiencia garantizada",
+          "texto": "Optimiza tareas repetitivas y libera recursos para actividades estratégicas."
+        },
+        {
+          "titulo": "Análisis en Tiempo Real",
+          "subtitulo": "Datos al instante",
+          "texto": "Toma decisiones basadas en información actualizada con nuestros paneles interactivos."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFE4E1" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Descubre JOCARSA Crimson",
+      "subtitulo": "ERP que transforma tu empresa",
+      "texto": "Conoce cómo esta herramienta puede revolucionar la gestión de tu empresa.",
+      "imagen": "placeholder.png",
+      "fondo": "#F08080",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#F08080" },
+      { "border": "2px solid #8B0000" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas Competitivas",
+      "subtitulo": "Razones para elegir JOCARSA Crimson",
+      "texto": "Simplifica y agiliza tus operaciones empresariales con nuestro software ERP.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Modular", "subtitulo": "Adáptalo a tus necesidades", "texto": "Configura los módulos que necesitas, desde contabilidad hasta producción." },
+        { "titulo": "Escalable", "subtitulo": "Crecimiento sin límites", "texto": "Acompaña el crecimiento de tu empresa sin limitaciones." },
+        { "titulo": "Accesible", "subtitulo": "Desde cualquier lugar", "texto": "Accede al sistema de manera segura desde cualquier dispositivo conectado." },
+        { "titulo": "Integración", "subtitulo": "Conecta tus herramientas", "texto": "Se integra con las principales aplicaciones empresariales del mercado." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Lo que dicen nuestros clientes",
+      "subtitulo": "Experiencias reales",
+      "texto": "Descubre cómo JOCARSA Crimson ha optimizado la gestión en otras empresas.",
+      "fondo": "#FAEBD7",
+      "testimonios": [
+        {
+          "nombre": "Marta López",
+          "cargo": "Directora Financiera",
+          "comentario": "Gracias a JOCARSA Crimson, hemos mejorado nuestra eficiencia financiera en un 30%.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Luis González",
+          "cargo": "Gerente de Producción",
+          "comentario": "Una solución intuitiva y potente que nos permite monitorear nuestros procesos en tiempo real.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FAEBD7" },
+      { "border-left": "5px solid #8B0000" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Solicita tu demo gratuita!",
+      "subtitulo": "Descubre cómo JOCARSA Crimson puede ayudarte",
+      "texto": "Agenda una demostración gratuita y conoce de primera mano todas las funcionalidades de nuestro ERP.",
+      "fondo": "#8B0000",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/crimson"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#8B0000" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

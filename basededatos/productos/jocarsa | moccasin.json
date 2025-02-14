@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Moccasin: Tablas Dinámicas Interactivas",
+      "subtitulo": "Organiza, filtra y ordena datos fácilmente",
+      "texto": "JOCARSA Moccasin es una herramienta que permite crear tablas interactivas con funcionalidad de ordenación dinámica, ideal para visualizar y analizar datos directamente en el navegador.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFE4B5"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFE4B5" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Simplifica la gestión de datos",
+      "texto": "Descubre cómo JOCARSA Moccasin facilita la manipulación y visualización de datos en tiempo real.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFEBCD",
+      "columnas": [
+        {
+          "titulo": "Ordenación Dinámica",
+          "subtitulo": "Por cualquier columna",
+          "texto": "Haz clic en los encabezados para ordenar la tabla de forma ascendente o descendente."
+        },
+        {
+          "titulo": "Detección Automática",
+          "subtitulo": "Seguimiento en tiempo real",
+          "texto": "Detecta automáticamente nuevas tablas en el DOM para aplicar la funcionalidad de ordenación."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#FFEBCD" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Moccasin en Acción",
+      "subtitulo": "Descubre su potencial",
+      "texto": "Mira cómo esta herramienta permite crear y gestionar tablas interactivas de manera sencilla.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFDEAD",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#FFDEAD" },
+      { "border": "2px solid #CD853F" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Moccasin",
+      "subtitulo": "Una solución flexible para tus datos",
+      "texto": "Explora las ventajas que ofrece esta herramienta en la gestión y visualización de información.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Intuitiva", "subtitulo": "Fácil de usar", "texto": "No se requieren conocimientos avanzados para utilizar las tablas interactivas." },
+        { "titulo": "Interactividad", "subtitulo": "Ordenación instantánea", "texto": "Ordena las filas de la tabla con solo un clic." },
+        { "titulo": "Adaptabilidad", "subtitulo": "Soporte para múltiples tablas", "texto": "Funciona con todas las tablas que tengan la clase CSS correspondiente." },
+        { "titulo": "Eficiencia", "subtitulo": "Rendimiento optimizado", "texto": "Gestión eficiente incluso con tablas extensas." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Opiniones de Usuarios",
+      "subtitulo": "Experiencias con JOCARSA Moccasin",
+      "texto": "Descubre cómo esta herramienta ha mejorado la gestión de datos de otras empresas.",
+      "fondo": "#FFF5EE",
+      "testimonios": [
+        {
+          "nombre": "Sergio López",
+          "cargo": "Analista de Datos",
+          "comentario": "Una solución sencilla y potente para ordenar y analizar tablas sin necesidad de software adicional.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Laura Martínez",
+          "cargo": "Desarrolladora Web",
+          "comentario": "Implementar tablas interactivas nunca fue tan fácil. Perfecta para nuestros paneles internos.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFF5EE" },
+      { "border-left": "5px solid #CD853F" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Moccasin!",
+      "subtitulo": "La mejor forma de ordenar y visualizar tus datos",
+      "texto": "Solicita una demostración gratuita y descubre cómo nuestras tablas dinámicas pueden facilitar tu trabajo.",
+      "fondo": "#CD853F",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/moccasin"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#CD853F" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

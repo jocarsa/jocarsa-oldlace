@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA MediumAquamarine: Gestión de Copias de Seguridad Eficiente",
+      "subtitulo": "Protege tus datos empresariales con tecnología avanzada",
+      "texto": "JOCARSA MediumAquamarine ofrece una plataforma segura y automatizada para gestionar copias de seguridad. Con un panel de administración intuitivo y un sistema de seguimiento en tiempo real, garantiza la protección de tus datos críticos.",
+      "imagen": "placeholder.png",
+      "fondo": "#23282d"
+    },
+    "estilo": [
+      { "color": "#ffffff" },
+      { "background": "#23282d" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Clave",
+      "subtitulo": "Gestión segura y sencilla",
+      "texto": "Descubre las funcionalidades que hacen de MediumAquamarine tu mejor aliado en copias de seguridad.",
+      "imagen": "placeholder.png",
+      "fondo": "#f4f4f4",
+      "columnas": [
+        {
+          "titulo": "Seguridad Avanzada",
+          "subtitulo": "Cifrado de datos",
+          "texto": "Los datos se transfieren mediante una conexión segura SSH y se almacenan de forma cifrada para evitar accesos no autorizados."
+        },
+        {
+          "titulo": "Seguimiento en Tiempo Real",
+          "subtitulo": "Progreso visible",
+          "texto": "Monitorea el progreso de las copias de seguridad con barras de estado y estimaciones de tiempo en el panel de control."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f4f4f4" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Demostración de MediumAquamarine",
+      "subtitulo": "Mira cómo funciona",
+      "texto": "Observa el proceso de copia de seguridad en acción y descubre lo fácil que es proteger tus datos.",
+      "imagen": "placeholder.png",
+      "fondo": "#e0e0e0",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#e0e0e0" },
+      { "border": "2px solid #4caf50" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Beneficios de nuestra solución",
+      "subtitulo": "Ventajas para tu negocio",
+      "texto": "Optimiza la gestión de tus datos y asegura la continuidad operativa de tu empresa.",
+      "imagen": "placeholder.png",
+      "fondo": "#ffffff",
+      "bloques": [
+        { "titulo": "Automatización", "subtitulo": "Tareas programadas", "texto": "Planifica copias automáticas sin intervención manual." },
+        { "titulo": "Acceso Seguro", "subtitulo": "Autenticación robusta", "texto": "Accede a tu panel con autenticación segura y protegida." },
+        { "titulo": "Historial Completo", "subtitulo": "Auditoría detallada", "texto": "Consulta los registros de copias anteriores fácilmente." },
+        { "titulo": "Compatibilidad", "subtitulo": "Flexibilidad total", "texto": "Compatible con múltiples sistemas de archivos y entornos empresariales." }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#ffffff" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Nuestros clientes opinan",
+      "subtitulo": "Experiencias reales",
+      "texto": "Empresas que han mejorado su gestión de datos con nuestra solución.",
+      "fondo": "#f0f0f0",
+      "testimonios": [
+        {
+          "nombre": "Lucía Gómez",
+          "cargo": "Gerente de TI",
+          "comentario": "Con MediumAquamarine, hemos optimizado nuestras copias de seguridad y mejorado la seguridad de los datos empresariales.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Martínez",
+          "cargo": "CEO de DataCorp",
+          "comentario": "Una herramienta imprescindible para cualquier empresa que valore su información.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#f0f0f0" },
+      { "border-left": "5px solid #4caf50" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba MediumAquamarine hoy!",
+      "subtitulo": "No dejes tus datos al azar",
+      "texto": "Regístrate y obtén acceso a nuestra plataforma de copias de seguridad con una prueba gratuita.",
+      "fondo": "#4caf50",
+      "boton": {
+        "texto_boton": "Solicitar Prueba Gratis",
+        "url": "https://jocarsa.com/mediumaquamarine"
+      }
+    },
+    "estilo": [
+      { "color": "#ffffff" },
+      { "background": "#4caf50" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA CadetBlue: Copia de Seguridad Automatizada",
+      "subtitulo": "Respalda carpetas críticas con facilidad",
+      "texto": "JOCARSA CadetBlue es una herramienta que realiza copias de seguridad automáticas de carpetas esenciales, almacenándolas en una estructura organizada y con marcas de tiempo únicas.",
+      "imagen": "placeholder.png",
+      "fondo": "#5F9EA0"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#5F9EA0" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Copias de seguridad eficientes",
+      "texto": "JOCARSA CadetBlue facilita la protección de tus datos mediante copias programadas de carpetas esenciales.",
+      "imagen": "placeholder.png",
+      "fondo": "#7FFFD4",
+      "columnas": [
+        {
+          "titulo": "Respaldo Automático",
+          "subtitulo": "Ejecución programada",
+          "texto": "Realiza copias de seguridad de forma automática con un simple comando Python."
+        },
+        {
+          "titulo": "Estructura Organizada",
+          "subtitulo": "Directorios con marca de tiempo",
+          "texto": "Cada copia se almacena en una carpeta única con fecha y hora para facilitar su identificación."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#7FFFD4" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA CadetBlue en Acción",
+      "subtitulo": "Automatización de copias de seguridad",
+      "texto": "Observa cómo JOCARSA CadetBlue realiza copias de seguridad de carpetas críticas en tiempo real.",
+      "imagen": "placeholder.png",
+      "fondo": "#008B8B",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#008B8B" },
+      { "border": "2px solid #5F9EA0" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA CadetBlue",
+      "subtitulo": "Seguridad y simplicidad en cada copia",
+      "texto": "Nuestra herramienta ofrece un sistema de respaldo automatizado, confiable y fácil de usar.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Copias Programadas", "subtitulo": "Automatización simplificada", "texto": "Establece tareas en el cron para ejecutar el script y realizar respaldos sin intervención manual." },
+        { "titulo": "Respaldo Completo", "subtitulo": "Copia íntegra de directorios", "texto": "Guarda el contenido completo de las carpetas seleccionadas, incluyendo subdirectorios y archivos ocultos." },
+        { "titulo": "Estructura Clara", "subtitulo": "Carpetas con fecha y hora", "texto": "Cada copia de seguridad se almacena en una carpeta nombrada con su fecha y hora para una identificación rápida." },
+        { "titulo": "Compatibilidad", "subtitulo": "Integración con Apache", "texto": "Compatible con servidores que utilicen Apache para respaldar archivos de configuración." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Cómo JOCARSA CadetBlue ha protegido los datos de nuestros clientes",
+      "texto": "Descubre cómo esta herramienta ha ayudado a empresas a mantener seguras sus configuraciones y bases de datos.",
+      "fondo": "#66CDAA",
+      "testimonios": [
+        {
+          "nombre": "Ana López",
+          "cargo": "Administradora de Sistemas",
+          "comentario": "JOCARSA CadetBlue nos permite hacer copias de seguridad programadas sin preocuparnos por olvidar carpetas importantes.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Sánchez",
+          "cargo": "Responsable de Infraestructura",
+          "comentario": "La organización por fechas facilita mucho la búsqueda y restauración de archivos antiguos.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#66CDAA" },
+      { "border-left": "5px solid #5F9EA0" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA CadetBlue!",
+      "subtitulo": "Asegura tu información con copias automatizadas",
+      "texto": "Solicita una demostración gratuita y descubre cómo mantener a salvo tus carpetas importantes.",
+      "fondo": "#5F9EA0",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/cadetblue"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#5F9EA0" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

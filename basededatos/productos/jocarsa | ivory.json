@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Ivory: Protección Proactiva contra Accesos No Autorizados",
+      "subtitulo": "Seguridad avanzada basada en análisis de IPs y agentes de usuario",
+      "texto": "JOCARSA Ivory es una herramienta de ciberseguridad que bloquea conexiones sospechosas analizando direcciones IP y agentes de usuario. Automatiza la protección frente a ataques maliciosos en tiempo real.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFF0"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFFFF0" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Clave",
+      "subtitulo": "Detección y bloqueo automáticos",
+      "texto": "JOCARSA Ivory emplea un motor de análisis que detecta patrones sospechosos de acceso para proteger su infraestructura digital.",
+      "imagen": "placeholder.png",
+      "fondo": "#FAFAD2",
+      "columnas": [
+        {
+          "titulo": "Análisis de IP",
+          "subtitulo": "Monitoreo constante",
+          "texto": "Identifica y bloquea direcciones IP con actividad maliciosa en tiempo real."
+        },
+        {
+          "titulo": "Filtrado por Agente de Usuario",
+          "subtitulo": "Prevención inteligente",
+          "texto": "Bloquea solicitudes de agentes de usuario asociados a actividades sospechosas."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#FAFAD2" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Cómo funciona JOCARSA Ivory",
+      "subtitulo": "Protección activa en segundos",
+      "texto": "Mira cómo nuestra herramienta analiza patrones y bloquea amenazas automáticamente.",
+      "imagen": "placeholder.png",
+      "fondo": "#E6E6FA",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#E6E6FA" },
+      { "border": "2px solid #696969" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas Competitivas",
+      "subtitulo": "Beneficios de usar JOCARSA Ivory",
+      "texto": "Descubre por qué nuestra herramienta es esencial para proteger tu negocio.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Automatización", "subtitulo": "Sin intervención manual", "texto": "Detecta y bloquea amenazas de forma automática." },
+        { "titulo": "Eficiencia", "subtitulo": "Análisis rápido", "texto": "Procesa registros y patrones en segundos." },
+        { "titulo": "Historial", "subtitulo": "Registros detallados", "texto": "Accede al historial de direcciones IP bloqueadas." },
+        { "titulo": "Adaptabilidad", "subtitulo": "Configuración flexible", "texto": "Personaliza criterios de bloqueo según tus necesidades." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Opiniones de Nuestros Clientes",
+      "subtitulo": "Seguridad que genera confianza",
+      "texto": "Empresas que han protegido su infraestructura con JOCARSA Ivory.",
+      "fondo": "#F5F5DC",
+      "testimonios": [
+        {
+          "nombre": "Carla Domínguez",
+          "cargo": "CISO en SecureTech",
+          "comentario": "Desde que implementamos JOCARSA Ivory, hemos bloqueado cientos de intentos sospechosos sin esfuerzo.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Luis Fernández",
+          "cargo": "Administrador de Sistemas",
+          "comentario": "Una herramienta imprescindible en nuestra estrategia de ciberseguridad.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F5F5DC" },
+      { "border-left": "5px solid #696969" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Ivory!",
+      "subtitulo": "La protección que necesitas",
+      "texto": "Solicita una demo gratuita y descubre cómo proteger tu infraestructura empresarial.",
+      "fondo": "#696969",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/ivory"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#696969" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

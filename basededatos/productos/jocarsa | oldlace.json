@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA OldLace: Registro de Visitas Web con Geolocalización",
+      "subtitulo": "Monitorea el tráfico de tu sitio web de forma eficiente",
+      "texto": "JOCARSA OldLace es una herramienta que registra visitas a tu página web, incluyendo datos de usuario, origen geográfico y actividad en tiempo real.",
+      "imagen": "placeholder.png",
+      "fondo": "#FDF5E6"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FDF5E6" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Controla el acceso a tu sitio web",
+      "texto": "Conoce quién visita tu sitio y toma decisiones informadas con datos de acceso precisos.",
+      "imagen": "placeholder.png",
+      "fondo": "#FAEBD7",
+      "columnas": [
+        {
+          "titulo": "Registro de Visitas",
+          "subtitulo": "Datos detallados",
+          "texto": "Guarda información como IP, navegador, ubicación y fecha/hora de acceso en un archivo CSV."
+        },
+        {
+          "titulo": "Bloqueo Inteligente",
+          "subtitulo": "Acceso controlado",
+          "texto": "Bloquea IPs sospechosas o no deseadas a través de reglas definidas en el archivo .htaccess."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#FAEBD7" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA OldLace en Acción",
+      "subtitulo": "Monitorea y gestiona visitas con facilidad",
+      "texto": "Observa cómo se registran las visitas y se aplican bloqueos automáticos de IP en tiempo real.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFEBCD",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFEBCD" },
+      { "border": "2px solid #D2691E" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA OldLace",
+      "subtitulo": "Seguridad y control para tu sitio web",
+      "texto": "Asegura tu página web con un registro preciso de visitas y bloqueo automático de IPs maliciosas.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Geolocalización Precisa", "subtitulo": "Base de datos local", "texto": "Consulta la ubicación geográfica de cada visitante sin depender de servicios externos." },
+        { "titulo": "Registro Completo", "subtitulo": "Formato CSV", "texto": "Guarda toda la información de visitas en un archivo CSV estructurado para su análisis posterior." },
+        { "titulo": "Bloqueo Automático", "subtitulo": "Protección en tiempo real", "texto": "Identifica patrones sospechosos y bloquea automáticamente las IPs de origen mediante .htaccess." },
+        { "titulo": "Compatibilidad con Apache", "subtitulo": "Integración directa", "texto": "Funciona sin necesidad de configuraciones adicionales en servidores Apache estándar." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias con JOCARSA OldLace",
+      "texto": "Conoce cómo esta herramienta ha ayudado a otras empresas a mantener su sitio seguro.",
+      "fondo": "#FFE4C4",
+      "testimonios": [
+        {
+          "nombre": "Ana López",
+          "cargo": "Administradora de Sistemas",
+          "comentario": "El sistema de bloqueo automático nos ha ayudado a reducir los intentos de acceso no autorizado.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Gómez",
+          "cargo": "Desarrollador Web",
+          "comentario": "Una solución sencilla y efectiva para monitorizar el tráfico de nuestra web en tiempo real.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFE4C4" },
+      { "border-left": "5px solid #CD853F" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA OldLace!",
+      "subtitulo": "Asegura tu sitio con un registro de visitas avanzado",
+      "texto": "Solicita una demostración gratuita y descubre cómo proteger tu página web de manera efectiva.",
+      "fondo": "#CD853F",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/oldlace"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#CD853F" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

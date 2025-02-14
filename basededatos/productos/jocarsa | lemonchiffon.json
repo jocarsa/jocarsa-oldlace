@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA LemonChiffon: Gestión de Correos con CRM Integrado",
+      "subtitulo": "Organiza y gestiona tus correos de manera inteligente",
+      "texto": "JOCARSA LemonChiffon es una solución CRM que integra la gestión de correos electrónicos con funcionalidades avanzadas para organizar y dar seguimiento a los contactos de clientes.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFACD"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFFACD" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Control eficiente de tu comunicación",
+      "texto": "Descubre cómo LemonChiffon puede optimizar tu gestión de correos electrónicos.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFACD",
+      "columnas": [
+        {
+          "titulo": "Integración IMAP",
+          "subtitulo": "Conexión en tiempo real",
+          "texto": "Accede a tus correos entrantes y salientes desde una única interfaz."
+        },
+        {
+          "titulo": "CRM Integrado",
+          "subtitulo": "Seguimiento de contactos",
+          "texto": "Asocia correos electrónicos a clientes y clasifícalos según su estado."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#FAFAD2" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "Demostración en Vivo",
+      "subtitulo": "Cómo funciona JOCARSA LemonChiffon",
+      "texto": "Descubre las funcionalidades clave en esta demostración en vídeo.",
+      "imagen": "placeholder.png",
+      "fondo": "#FDF5E6",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#FDF5E6" },
+      { "border": "2px solid #DAA520" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA LemonChiffon",
+      "subtitulo": "Una herramienta para optimizar tu comunicación",
+      "texto": "Nuestra plataforma simplifica la gestión de correos electrónicos y contactos.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Fácil de Usar", "subtitulo": "Interfaz intuitiva", "texto": "No necesitas conocimientos técnicos para usarla." },
+        { "titulo": "Clasificación Inteligente", "subtitulo": "Organiza tus correos", "texto": "Clasifica contactos en distintos estados: pendiente, conseguido o descartado." },
+        { "titulo": "Seguridad", "subtitulo": "Protección de datos", "texto": "Los datos se almacenan localmente en una base de datos SQLite segura." },
+        { "titulo": "Acceso Multidispositivo", "subtitulo": "CRM en cualquier lugar", "texto": "Accede a tu gestión de correos desde cualquier navegador." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Opiniones de Usuarios",
+      "subtitulo": "Experiencias reales",
+      "texto": "Descubre cómo JOCARSA LemonChiffon ha mejorado la gestión de correos de otras empresas.",
+      "fondo": "#FFFACD",
+      "testimonios": [
+        {
+          "nombre": "Sofía Ruiz",
+          "cargo": "Gerente de Ventas",
+          "comentario": "Nuestra gestión de contactos ha mejorado significativamente gracias a LemonChiffon.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Martínez",
+          "cargo": "Analista de Datos",
+          "comentario": "Una herramienta eficiente y sencilla para gestionar la comunicación con nuestros clientes.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFFACD" },
+      { "border-left": "5px solid #DAA520" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA LemonChiffon!",
+      "subtitulo": "Optimiza tu gestión de correos",
+      "texto": "Solicita una demostración gratuita y descubre cómo mejorar tu comunicación empresarial.",
+      "fondo": "#DAA520",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/lemonchiffon"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#DAA520" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

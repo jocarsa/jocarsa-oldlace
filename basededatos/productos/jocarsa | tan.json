@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Tan: Visualización de Tablas con Gradiente Dinámico",
+      "subtitulo": "Resalta automáticamente los valores numéricos en tus tablas",
+      "texto": "JOCARSA Tan es una biblioteca que aplica gradientes de color en celdas numéricas, facilitando la identificación visual de patrones y tendencias.",
+      "imagen": "placeholder.png",
+      "fondo": "#D2B48C"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#D2B48C" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Analiza tus datos de manera intuitiva",
+      "texto": "Descubre cómo JOCARSA Tan puede ayudarte a comprender mejor tus datos tabulares.",
+      "imagen": "placeholder.png",
+      "fondo": "#F5DEB3",
+      "columnas": [
+        {
+          "titulo": "Gradiente Automático",
+          "subtitulo": "Basado en valores numéricos",
+          "texto": "Las celdas se colorean dinámicamente según su valor, utilizando una escala de color basada en la configuración del texto y el fondo."
+        },
+        {
+          "titulo": "Interactividad",
+          "subtitulo": "Aplicación automática",
+          "texto": "Solo tienes que añadir la clase 'jocarsa-tan' a tus tablas y el sistema aplicará el gradiente automáticamente."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#F5DEB3" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Tan en Acción",
+      "subtitulo": "Mira cómo se resaltan los datos de forma visual",
+      "texto": "Este vídeo muestra la aplicación del gradiente dinámico en tablas con distintos valores numéricos.",
+      "imagen": "placeholder.png",
+      "fondo": "#CD853F",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#CD853F" },
+      { "border": "2px solid #A0522D" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Tan",
+      "subtitulo": "Optimiza tus tablas sin esfuerzo",
+      "texto": "JOCARSA Tan transforma tus tablas en herramientas de análisis visual sin complicaciones.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Fácil Integración", "subtitulo": "Sin configuraciones complejas", "texto": "Agrega una clase CSS y empieza a usar JOCARSA Tan inmediatamente." },
+        { "titulo": "Escala de Color Inteligente", "subtitulo": "Gradientes adaptativos", "texto": "Los colores se ajustan automáticamente al rango de valores presentes en la tabla." },
+        { "titulo": "Compatibilidad Total", "subtitulo": "Funciona en todos los navegadores", "texto": "Compatible con las últimas versiones de Chrome, Firefox, Edge y Safari." },
+        { "titulo": "Ligero y Rápido", "subtitulo": "Sin impacto en el rendimiento", "texto": "Código optimizado para procesar grandes volúmenes de datos sin ralentizar la página." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Cómo JOCARSA Tan ha facilitado el análisis de datos",
+      "texto": "Empresas y profesionales que han simplificado su trabajo con nuestra herramienta.",
+      "fondo": "#F5DEB3",
+      "testimonios": [
+        {
+          "nombre": "Paula Martínez",
+          "cargo": "Analista de Datos",
+          "comentario": "Antes revisábamos las tablas manualmente; ahora los patrones son evidentes gracias a los colores.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Javier Rodríguez",
+          "cargo": "Desarrollador Web",
+          "comentario": "Una forma sencilla y efectiva de ofrecer información visual sin complicaciones en el código.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F5DEB3" },
+      { "border-left": "5px solid #A0522D" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Tan!",
+      "subtitulo": "Haz que tus tablas cobren vida",
+      "texto": "Solicita una demostración gratuita y descubre cómo mejorar la legibilidad de tus datos tabulares.",
+      "fondo": "#A0522D",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/tan"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#A0522D" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

@@ -27,3 +27,18 @@
 #modal span{
 	font-size:160px;
 }
+/* --- Responsive for mobile --- */
+			@media screen and (max-width: 768px) {
+				#modal {
+					width: 90%;
+					height: auto;
+					margin-left: -45%;
+					margin-top: -250px; /* You can adjust so it centers better */
+				}
+				#modal p {
+					font-size: 1em;
+				}
+				#modal span {
+					font-size:100px;
+				}
+			}

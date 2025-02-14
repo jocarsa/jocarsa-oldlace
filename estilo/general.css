@@ -24,3 +24,19 @@ h2{
 section{
 	margin-bottom:20px;
 }
+/* --- Responsive for mobile --- */
+			@media screen and (max-width: 768px) {
+				.contenedor {
+					width: 95%;
+					margin: 0 auto;
+				}
+				h2 {
+					font-size: 1.2em;
+				}
+				p {
+					font-size: 0.95em;
+				}
+				section {
+					margin-bottom: 15px;
+				}
+			}

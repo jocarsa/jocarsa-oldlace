@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Snow: Editor de Texto Enriquecido en el Navegador",
+      "subtitulo": "Un potente editor WYSIWYG para crear contenido dinámico",
+      "texto": "JOCARSA Snow es una herramienta que permite editar texto en el navegador con funciones avanzadas como inserción de tablas, cambio de estilos y manejo de imágenes, sin necesidad de instalar software adicional.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFAFA"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFFAFA" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Edición de texto avanzada en tu navegador",
+      "texto": "Descubre cómo JOCARSA Snow facilita la creación de contenido con herramientas intuitivas y funcionales.",
+      "imagen": "placeholder.png",
+      "fondo": "#F0F0F0",
+      "columnas": [
+        {
+          "titulo": "Interfaz WYSIWYG",
+          "subtitulo": "Edición en tiempo real",
+          "texto": "Edita tu texto mientras ves su formato final, sin necesidad de escribir código."
+        },
+        {
+          "titulo": "Inserción de Tablas",
+          "subtitulo": "Manejo intuitivo",
+          "texto": "Crea, edita y gestiona tablas fácilmente, añadiendo o eliminando filas y columnas."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#F0F0F0" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Snow en Acción",
+      "subtitulo": "Descubre el editor en funcionamiento",
+      "texto": "Mira cómo JOCARSA Snow te permite crear contenido enriquecido de manera fácil y rápida.",
+      "imagen": "placeholder.png",
+      "fondo": "#E6E6FA",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#E6E6FA" },
+      { "border": "2px solid #D8BFD8" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Snow",
+      "subtitulo": "Eficiencia y comodidad para tus ediciones",
+      "texto": "Nuestra herramienta ofrece una experiencia de edición intuitiva con múltiples opciones para formatear y estructurar tu contenido.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Edición en Tiempo Real", "subtitulo": "Sin recargas", "texto": "Modifica el contenido y observa inmediatamente los resultados." },
+        { "titulo": "Manejo de Tablas", "subtitulo": "Agrega o elimina filas/columnas", "texto": "Gestión sencilla de tablas sin necesidad de conocimientos técnicos." },
+        { "titulo": "Soporte de Imágenes", "subtitulo": "Carga y redimensiona imágenes", "texto": "Inserta imágenes directamente en tu contenido con opciones de ajuste de tamaño." },
+        { "titulo": "Visualización de Código", "subtitulo": "Vista alterna", "texto": "Cambia entre vista visual y edición HTML en un clic." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Descubre lo que opinan nuestros usuarios",
+      "texto": "Empresas y profesionales del sector comparten sus experiencias con JOCARSA Snow.",
+      "fondo": "#F5F5DC",
+      "testimonios": [
+        {
+          "nombre": "Laura Martínez",
+          "cargo": "Gestora de Contenidos",
+          "comentario": "La edición en tiempo real ha hecho que nuestro trabajo sea mucho más eficiente.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Gómez",
+          "cargo": "Desarrollador Web",
+          "comentario": "Ahora podemos insertar tablas e imágenes sin complicaciones y sin conocimientos técnicos.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#F5F5DC" },
+      { "border-left": "5px solid #C0C0C0" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Snow!",
+      "subtitulo": "Empieza a crear contenido enriquecido hoy mismo",
+      "texto": "Solicita una demostración gratuita y descubre cómo nuestra herramienta puede facilitar tu trabajo de edición.",
+      "fondo": "#C0C0C0",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/snow"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#C0C0C0" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

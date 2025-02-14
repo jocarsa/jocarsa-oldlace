@@ -1,0 +1,130 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Azure: Detección de Patrones Faciales Simplificada",
+      "subtitulo": "Procesamiento de imágenes ligero e intuitivo",
+      "texto": "JOCARSA Azure es una herramienta basada en navegador que permite la detección de patrones faciales mediante algoritmos de análisis de bordes. Ideal para proyectos educativos y experimentación con procesamiento de imágenes.",
+      "imagen": "placeholder.png",
+      "fondo": "#F0FFFF"
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#F0FFFF" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Clave",
+      "subtitulo": "Análisis facial sencillo y rápido",
+      "texto": "Conoce las funcionalidades que convierten a JOCARSA Azure en una herramienta versátil para detección facial básica.",
+      "imagen": "placeholder.png",
+      "fondo": "#E0FFFF",
+      "columnas": [
+        {
+          "titulo": "Análisis de Bordes",
+          "subtitulo": "Detección con algoritmos sobel",
+          "texto": "Emplea técnicas basadas en Sobel para identificar patrones faciales de manera eficiente."
+        },
+        {
+          "titulo": "Interfaz Minimalista",
+          "subtitulo": "Facilidad de uso",
+          "texto": "Carga una imagen y detecta patrones sin configuraciones complicadas."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#444444" },
+      { "background": "#E0FFFF" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Azure en Acción",
+      "subtitulo": "Ve cómo funciona nuestra herramienta",
+      "texto": "Descubre cómo nuestra aplicación detecta patrones faciales utilizando únicamente el navegador.",
+      "imagen": "placeholder.png",
+      "fondo": "#AFEEEE",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#111111" },
+      { "background": "#AFEEEE" },
+      { "border": "2px solid #008080" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Beneficios de JOCARSA Azure",
+      "subtitulo": "Una herramienta educativa y práctica",
+      "texto": "Explora cómo nuestra solución facilita el aprendizaje del procesamiento de imágenes.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Ligero", "subtitulo": "Sin instalación", "texto": "Funciona directamente en el navegador sin requerir instalación de software." },
+        { "titulo": "Educativo", "subtitulo": "Ideal para estudiantes", "texto": "Perfecto para comprender principios básicos de detección de bordes." },
+        { "titulo": "Personalizable", "subtitulo": "Ajuste de parámetros", "texto": "Permite modificar parámetros para ajustar el nivel de detección." },
+        { "titulo": "Accesible", "subtitulo": "Uso inmediato", "texto": "Sube una imagen y detecta patrones en segundos." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Opiniones de Usuarios",
+      "subtitulo": "Experiencias con nuestra herramienta",
+      "texto": "Descubre cómo JOCARSA Azure ha ayudado a comprender el procesamiento de imágenes.",
+      "fondo": "#E0FFFF",
+      "testimonios": [
+        {
+          "nombre": "Elena Morales",
+          "cargo": "Profesora de Informática",
+          "comentario": "Una herramienta fantástica para enseñar a mis alumnos sobre el procesamiento de imágenes.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "José Pérez",
+          "cargo": "Estudiante de Ingeniería",
+          "comentario": "Me ayudó a entender los conceptos detrás de la detección de bordes de una manera práctica.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#E0FFFF" },
+      { "border-left": "5px solid #008080" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Azure!",
+      "subtitulo": "Explora el mundo del procesamiento de imágenes",
+      "texto": "Accede a nuestra herramienta y experimenta con la detección de patrones faciales en tiempo real.",
+      "fondo": "#008080",
+      "boton": {
+        "texto_boton": "Probar Ahora",
+        "url": "https://jocarsa.com/azure"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#008080" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]
+

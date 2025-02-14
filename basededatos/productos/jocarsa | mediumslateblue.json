@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA MediumSlateBlue: Gestión de Documentos en Línea",
+      "subtitulo": "Crea, edita, comparte y organiza documentos desde tu navegador",
+      "texto": "JOCARSA MediumSlateBlue es una plataforma que permite gestionar documentos de texto en línea, facilitando la colaboración a través de enlaces compartidos con control de acceso y caducidad.",
+      "imagen": "placeholder.png",
+      "fondo": "#7B68EE"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#7B68EE" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Principales",
+      "subtitulo": "Gestión eficiente y segura de documentos",
+      "texto": "JOCARSA MediumSlateBlue simplifica el trabajo colaborativo y la organización de documentos empresariales.",
+      "imagen": "placeholder.png",
+      "fondo": "#9370DB",
+      "columnas": [
+        {
+          "titulo": "Edición en Tiempo Real",
+          "subtitulo": "Sin recargas",
+          "texto": "Edita contenido de texto de manera inmediata sin necesidad de recargar la página."
+        },
+        {
+          "titulo": "Enlaces Seguros",
+          "subtitulo": "Compartir con control",
+          "texto": "Genera enlaces de acceso con caducidad automática para compartir documentos de manera segura."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#9370DB" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA MediumSlateBlue en Acción",
+      "subtitulo": "Colabora y comparte documentos en tiempo real",
+      "texto": "Descubre cómo gestionar y compartir documentos fácilmente desde tu navegador.",
+      "imagen": "placeholder.png",
+      "fondo": "#6A5ACD",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#6A5ACD" },
+      { "border": "2px solid #483D8B" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA MediumSlateBlue",
+      "subtitulo": "Tu documentación bajo control",
+      "texto": "La solución perfecta para almacenar, compartir y gestionar documentos de manera eficiente.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Acceso Seguro", "subtitulo": "Gestión de usuarios", "texto": "Autenticación mediante usuario y contraseña para proteger la información confidencial." },
+        { "titulo": "Edición Intuitiva", "subtitulo": "Interfaz clara", "texto": "Editor sencillo y funcional para crear y modificar documentos al instante." },
+        { "titulo": "Control de Versiones", "subtitulo": "Historial automático", "texto": "Guarda las fechas de creación y última modificación para seguimiento de cambios." },
+        { "titulo": "Compartición Flexible", "subtitulo": "Enlaces temporales", "texto": "Comparte documentos con enlaces que caducan automáticamente tras un tiempo establecido." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Experiencias reales con JOCARSA MediumSlateBlue",
+      "texto": "Descubre cómo esta herramienta ha mejorado la gestión de documentos en otras empresas.",
+      "fondo": "#DDA0DD",
+      "testimonios": [
+        {
+          "nombre": "Marta Ruiz",
+          "cargo": "Administradora de Contenidos",
+          "comentario": "La posibilidad de compartir documentos mediante enlaces con caducidad es fundamental para nuestro trabajo colaborativo.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Carlos Pérez",
+          "cargo": "Gerente de Proyectos",
+          "comentario": "Simplificó nuestra gestión documental y mejoró la seguridad de la información compartida.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#DDA0DD" },
+      { "border-left": "5px solid #4B0082" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA MediumSlateBlue!",
+      "subtitulo": "Gestiona documentos de forma segura y eficiente",
+      "texto": "Solicita una demostración gratuita y descubre cómo nuestra plataforma puede ayudarte a organizar tu información empresarial.",
+      "fondo": "#4B0082",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/mediumslateblue"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#4B0082" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

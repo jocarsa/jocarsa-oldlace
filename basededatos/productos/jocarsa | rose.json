@@ -1,0 +1,129 @@
+[
+  {
+    "tipo": "completo",
+    "contenido": {
+      "titulo": "JOCARSA Rose: Detección de Bordes y Movimiento en Tiempo Real",
+      "subtitulo": "Analiza bordes, detecta movimiento y reconoce esquinas al instante",
+      "texto": "JOCARSA Rose es una aplicación web que utiliza procesamiento de imágenes en tiempo real para identificar bordes, detectar movimiento y reconocer esquinas en video mediante la cámara del dispositivo.",
+      "imagen": "placeholder.png",
+      "fondo": "#FF007F"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#FF007F" },
+      { "padding": "20px" },
+      { "border-radius": "10px" }
+    ]
+  },
+  {
+    "tipo": "doscolumnas",
+    "contenido": {
+      "titulo": "Características Destacadas",
+      "subtitulo": "Procesamiento de imágenes en tiempo real",
+      "texto": "JOCARSA Rose ofrece un conjunto de funcionalidades avanzadas para el análisis de video directamente desde el navegador.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFC0CB",
+      "columnas": [
+        {
+          "titulo": "Detección de Bordes",
+          "subtitulo": "Análisis con colores direccionales",
+          "texto": "Identifica bordes con colores según su orientación: rojo (horizontal), verde (vertical) y azul (diagonal)."
+        },
+        {
+          "titulo": "Análisis de Movimiento",
+          "subtitulo": "Seguimiento de cambios dinámicos",
+          "texto": "Detecta y visualiza la dirección de movimiento mediante vectores dinámicos."
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFC0CB" },
+      { "padding": "15px" }
+    ]
+  },
+  {
+    "tipo": "youtube",
+    "contenido": {
+      "titulo": "JOCARSA Rose en Acción",
+      "subtitulo": "Procesamiento de imágenes en tiempo real",
+      "texto": "Observa cómo esta herramienta detecta bordes, movimientos y esquinas en video en vivo.",
+      "imagen": "placeholder.png",
+      "fondo": "#DB7093",
+      "url": "https://www.youtube.com/watch?v=ID_del_video"
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#DB7093" },
+      { "border": "2px solid #C71585" }
+    ]
+  },
+  {
+    "tipo": "mosaico",
+    "contenido": {
+      "titulo": "Ventajas de JOCARSA Rose",
+      "subtitulo": "Un sistema de procesamiento visual innovador",
+      "texto": "Descubre cómo JOCARSA Rose mejora la capacidad de análisis en tiempo real mediante algoritmos avanzados de procesamiento de imágenes.",
+      "imagen": "placeholder.png",
+      "fondo": "#FFFFFF",
+      "bloques": [
+        { "titulo": "Procesamiento en Tiempo Real", "subtitulo": "Eficiencia garantizada", "texto": "Utiliza la cámara del dispositivo para analizar video en tiempo real sin latencia perceptible." },
+        { "titulo": "Análisis de Movimiento", "subtitulo": "Visualización de vectores", "texto": "Muestra la dirección y magnitud del movimiento mediante vectores azules dinámicos." },
+        { "titulo": "Reconocimiento de Bordes", "subtitulo": "Colores para orientación", "texto": "Clasifica bordes según su dirección para un análisis intuitivo." },
+        { "titulo": "Detección de Esquinas", "subtitulo": "Algoritmo de Harris", "texto": "Detecta puntos clave en la imagen para el análisis estructural del entorno." }
+      ]
+    },
+    "estilo": [
+      { "color": "#222222" },
+      { "background": "#FFFFFF" },
+      { "box-shadow": "0 4px 6px rgba(0,0,0,0.1)" }
+    ]
+  },
+  {
+    "tipo": "testimonios",
+    "contenido": {
+      "titulo": "Testimonios de Usuarios",
+      "subtitulo": "Opiniones reales sobre JOCARSA Rose",
+      "texto": "Empresas y usuarios que han probado nuestro sistema comparten su experiencia.",
+      "fondo": "#FFE4E1",
+      "testimonios": [
+        {
+          "nombre": "Ana González",
+          "cargo": "Investigadora en Visión Artificial",
+          "comentario": "JOCARSA Rose ha sido una herramienta clave para nuestros experimentos de análisis visual en tiempo real.",
+          "imagen": "placeholder.png"
+        },
+        {
+          "nombre": "Pedro Sánchez",
+          "cargo": "Desarrollador de Software",
+          "comentario": "La facilidad con la que implementa la detección de bordes y movimiento es impresionante.",
+          "imagen": "placeholder.png"
+        }
+      ]
+    },
+    "estilo": [
+      { "color": "#333333" },
+      { "background": "#FFE4E1" },
+      { "border-left": "5px solid #C71585" }
+    ]
+  },
+  {
+    "tipo": "cta",
+    "contenido": {
+      "titulo": "¡Prueba JOCARSA Rose!",
+      "subtitulo": "Analiza imágenes en tiempo real con tu cámara",
+      "texto": "Solicita una demostración gratuita y experimenta el potencial de la visión por computadora directamente en tu navegador.",
+      "fondo": "#C71585",
+      "boton": {
+        "texto_boton": "Solicitar Demo",
+        "url": "https://jocarsa.com/rose"
+      }
+    },
+    "estilo": [
+      { "color": "#FFFFFF" },
+      { "background": "#C71585" },
+      { "text-align": "center" },
+      { "border-radius": "5px" }
+    ]
+  }
+]

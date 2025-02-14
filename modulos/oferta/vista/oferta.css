@@ -28,3 +28,13 @@
 	text-align:center !important;
 	line-height:30px;
 }
+/* --- Responsive for mobile --- */
+				@media screen and (max-width: 768px) {
+					#oferta {
+						margin-top:60px;
+					}
+					#oferta p {
+						font-size: 0.95em;
+						line-height: 1.4em;
+					}
+				}
