@@ -18,6 +18,11 @@
 				</li>
 				<li>
 					<?php 
+							include "modulos/buscador/vista/buscador.php";
+					?>
+				</li>
+				<li>
+					<?php 
 							include "modulos/tienda/vista/artilugio.php";
 					?>
 				</li>

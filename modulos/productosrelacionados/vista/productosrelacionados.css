@@ -5,6 +5,15 @@ aside article{
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: left;
 }
+aside article p{
+	font-size:12px;
+}
+aside article h4{
+	text-align:center;
+}
+aside article img{
+	width:100%;
+}
 aside{
 	width:30%;
 	display: flex;

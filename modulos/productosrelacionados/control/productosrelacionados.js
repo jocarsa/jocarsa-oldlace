@@ -9,6 +9,10 @@ function productosRelacionados(){
 		datos.splice(4);
 		datos.forEach(function(dato){
 			let articulo = document.createElement("article")
+			let logo = document.createElement("img")
+			let imagenlogo =dato.titulo.replace("jocarsa | ","")
+			logo.setAttribute("src","./static/logo/"+imagenlogo+".png")
+			articulo.appendChild(logo)
 			let titulo = document.createElement("h4")
 			titulo.textContent = dato.titulo
 			let descripcion = document.createElement("p")

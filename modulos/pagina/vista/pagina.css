@@ -1,0 +1,7 @@
+#contenidopagina{
+	width:800px;
+	margin:auto;
+}
+#contenidopagina br{
+	display:none;
+}

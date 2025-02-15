@@ -25,7 +25,7 @@
 }
 #carrusel1 article{
 	width:1024px;
-	min-height:300px;
+	min-height:350px;
 	background:black;
 	color:white;
 	display:inline-block;
@@ -61,7 +61,7 @@
 }
 #carrusel2 article{
 	width:340px;
-	min-height:350px;
+	min-height:450px;
 	background:black;
 	color:white;
 	display:inline-block;

@@ -19,18 +19,19 @@ function cargaProductos(){
 		 let contenedor2 = document.querySelector("#carrusel2")
 		 contenedor.innerHTML = ""
 		 datos.forEach(function(dato){
+		 let color = dato.titulo.replace("jocarsa | ","")
 		 	contenedor.innerHTML += `
-		 		<article style="background:url(`+ruta_static+`/photo/fondonegro.png),url(`+ruta_static+`/photo/maroon.png);background-size:cover;background-position:center center;">
+		 		<article style="background:url(`+ruta_static+`/photo/fondonegro.png),url(`+ruta_static+`/logo/`+color+`.png);background-size:cover;background-position:center center;">
 					<h4>`+dato.titulo+`</h4>
 					<p>`+dato.descripcion+`</p>
-					<a href=""><button>Saber más</button></a>
+					<a href="producto.php?prod=`+dato.titulo+`"><button>Saber más</button></a>
 				</article>
 		 	`
 		 	contenedor2.innerHTML += `
-		 		<article style="background:url(`+ruta_static+`/photo/fondonegro.png),url(`+ruta_static+`/photo/maroon.png);background-size:cover;background-position:center center;">
+		 		<article style="background:url(`+ruta_static+`/photo/fondonegro.png),url(`+ruta_static+`/logo/`+color+`.png);background-size:cover;background-position:center center;">
 					<h4>`+dato.titulo+`</h4>
 					<p>`+dato.descripcion+`</p>
-					<a href=""><button>Saber más</button></a>
+					<a href="producto.php?prod=`+dato.titulo+`"><button>Saber más</button></a>
 				</article>
 		 	`
 		 })

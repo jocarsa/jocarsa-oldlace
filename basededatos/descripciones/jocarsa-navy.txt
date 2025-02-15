@@ -1,0 +1,19 @@
+**Descripción Comercial Ampliada de Jocarsa Navy**
+
+Jocarsa Navy es la herramienta ideal para empresas que necesitan convertir archivos Markdown en páginas HTML claras, interactivas y bien estructuradas. Diseñada para facilitar la creación y presentación de contenidos técnicos o documentales, esta plataforma transforma documentos complejos en páginas web atractivas y accesibles.
+
+### **¿Qué Beneficios Aporta Jocarsa Navy?**
+- **Conversión Avanzada de Markdown:** Soporta bloques de código, encabezados, listas, citas, tablas y diagramas especiales (Mermaid, PlantUML, Graphviz).
+- **Visualización Clara y Ordenada:** Convierte automáticamente listas, tablas y citas en formatos visuales comprensibles.
+- **Soporte de Código en Línea y Bloques:** Muestra fragmentos de código con estilos personalizados para mejorar la legibilidad.
+- **Integración con HTML:** Permite incluir fragmentos HTML directamente en los documentos Markdown.
+- **Diseño Amigable:** Presenta el contenido con una estructura visual profesional, con énfasis en encabezados, citas y listas interactivas.
+
+### **Ventajas Estratégicas para tu Empresa:**
+- **Optimización del Tiempo:** Automatiza la creación de documentos HTML desde archivos Markdown.
+- **Facilidad de Uso:** No requiere conocimientos avanzados; convierte archivos rápidamente con solo cargarlos.
+- **Contenido Profesional:** Genera presentaciones, manuales y guías técnicas bien estructuradas.
+- **Escalabilidad:** Ideal para documentar proyectos pequeños o grandes sistemas empresariales.
+- **Código Abierto:** Licencia GNU GPL v3, garantizando su adaptabilidad y evolución continua.
+
+Jocarsa Navy es más que un convertidor: es tu socio estratégico para transformar documentación técnica en contenido web interactivo, profesional y accesible para toda tu empresa.

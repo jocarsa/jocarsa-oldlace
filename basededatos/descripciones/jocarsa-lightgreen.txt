@@ -1,0 +1,19 @@
+**Descripción Comercial Ampliada de Jocarsa LightGreen**
+
+Jocarsa LightGreen es la solución esencial para empresas que buscan gestionar y visualizar documentación técnica de manera eficiente y organizada. Diseñada para facilitar el acceso a archivos y la búsqueda de información clave, esta plataforma transforma la gestión documental en un proceso ágil y productivo.
+
+### **¿Qué Beneficios Aporta Jocarsa LightGreen?**
+- **Navegación Eficiente:** Organiza carpetas y documentos en un menú lateral con acceso instantáneo.
+- **Buscador Integrado:** Encuentra rápidamente documentos mediante un sistema de búsqueda inteligente.
+- **Visualización de Archivos:** Muestra contenidos en formato legible, facilitando la consulta de documentación técnica.
+- **Interfaz Amigable:** Diseño intuitivo, adaptado para equipos técnicos y administrativos.
+- **Accesibilidad Total:** Compatible con navegadores web para acceso desde cualquier dispositivo.
+
+### **Ventajas Estratégicas para tu Empresa:**
+- **Productividad Potenciada:** Reduce el tiempo de búsqueda y mejora el acceso a la documentación.
+- **Colaboración Ágil:** Facilita el trabajo en equipo mediante un sistema organizado de carpetas.
+- **Escalabilidad:** Se adapta al crecimiento de tu repositorio documental.
+- **Control y Organización:** Centraliza toda la documentación en un solo lugar.
+- **Simplicidad de Uso:** No requiere formación avanzada para su implementación.
+
+Jocarsa LightGreen es más que un visor de documentos: es tu aliado estratégico para gestionar, organizar y consultar tu documentación técnica con rapidez y eficiencia.

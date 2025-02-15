@@ -18,6 +18,13 @@
 				<li><a href="pagina.php?pagina=7">Resolución de conflictos online</a></li>
 			</ul>
 		</div>
+		<div class="columna">
+			<h3>Nosotros</h3>
+			<ul>
+				<li><a href="pagina.php?pagina=8">Sobre nosotros</a></li>
+<li><a href="pagina.php?pagina=9">Misión, visión y valores</a></li>
+			</ul>
+		</div>
 	</div>
 	<div class="centro"><h6>Web hecha con <img src="https://jocarsa.com/static/logo/jocarsa | black.svg">jocarsa | oldlace</h6></div>
 </footer>

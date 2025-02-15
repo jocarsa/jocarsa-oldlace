@@ -1,0 +1,19 @@
+**Descripción Comercial Ampliada de Jocarsa MediumPurple**
+
+Jocarsa MediumPurple es la solución ideal para empresas que desean supervisar y documentar la integridad de sus archivos mediante informes completos y organizados. Esta herramienta convierte la auditoría de carpetas en un proceso eficiente, transparente y fácil de gestionar.
+
+### **¿Qué Beneficios Aporta Jocarsa MediumPurple?**
+- **Informes de Integridad Automatizados:** Genera reportes detallados con nombres de archivos, tamaños y directorios.
+- **Registro Cronológico:** Cada informe incluye una marca de tiempo, permitiendo un seguimiento preciso.
+- **Historial Organizado:** Almacena automáticamente los informes en carpetas ordenadas por fecha y hora.
+- **Detección de Cambios:** Identifica rápidamente nuevos archivos, modificaciones o eliminaciones.
+- **Proceso Ágil y Seguro:** Escanea directorios de forma eficiente y guarda los resultados en archivos accesibles.
+
+### **Ventajas Estratégicas para tu Empresa:**
+- **Optimización del Tiempo:** Automatiza el monitoreo y la generación de informes de archivos.
+- **Control Total:** Registra la evolución de tus archivos para detectar cambios no autorizados.
+- **Auditorías Simplificadas:** Obtén un historial completo de registros para revisiones y controles de seguridad.
+- **Escalabilidad:** Adecuado para gestionar pequeñas carpetas o grandes repositorios.
+- **Simplicidad y Facilidad:** Implementación rápida y uso intuitivo sin necesidad de formación avanzada.
+
+Jocarsa MediumPurple es más que un generador de informes: es tu socio estratégico para supervisar, proteger y mantener la integridad de los archivos críticos de tu empresa.

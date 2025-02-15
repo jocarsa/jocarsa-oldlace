@@ -1,0 +1,21 @@
+**Descripción Comercial Ampliada de Jocarsa Lime**
+
+Jocarsa Lime es la solución interactiva perfecta para empresas que buscan gestionar espacios visuales en tiempo real mediante una cuadrícula isométrica. Esta herramienta innovadora permite pintar celdas, mover personajes (NPCs) y visualizar cambios en tiempo real, todo desde una plataforma amigable y personalizable.
+
+### **¿Qué Beneficios Aporta Jocarsa Lime?**
+- **Interactividad Total:** Permite pintar celdas en una cuadrícula interactiva y guardar cambios automáticamente.
+- **Gestión de NPCs en Tiempo Real:** Visualiza personajes no jugables (NPCs) moviéndose fluidamente en celdas coloreadas.
+- **Panel de Control Personalizado:** Selecciona colores y pinta celdas directamente desde la interfaz.
+- **Actualización Continua:** Sincroniza automáticamente las celdas pintadas y los movimientos de los NPCs.
+- **Diseño Isométrico:** Presenta un atractivo efecto tridimensional para una visualización avanzada.
+
+### **Ventajas Estratégicas para tu Empresa:**
+- **Optimización de Procesos:** Automatiza la actualización de celdas y movimientos de NPCs.
+- **Visualización Clara:** Muestra el progreso en tiempo real con una vista isométrica interactiva.
+- **Colaboración Ágil:** Comparte el espacio visual y permite la participación simultánea de múltiples usuarios.
+- **Escalabilidad:** Se adapta a cualquier proyecto, desde simuladores hasta herramientas de gestión visual.
+- **Experiencia Amigable:** Interfaz sencilla para su uso sin necesidad de formación avanzada.
+
+Jocarsa Lime es más que una cuadrícula interactiva: es tu socio estratégico para gestionar espacios visuales en tiempo real, potenciar la colaboración y transformar la interacción digital en tu empresa.
+
+

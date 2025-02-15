@@ -62,3 +62,6 @@
 [1739570562][2025-02-14 22:02:42] Error [2]: file_get_contents(../basededatos/productos/jocarsa | lawngreen.json): Failed to open stream: No such file or directory in /var/www/html/jocarsa-oldlace/back/index.php on line 32
 [1739570565][2025-02-14 22:02:45] Error [2]: file_get_contents(../basededatos/productos/jocarsa | blueviolet.json): Failed to open stream: No such file or directory in /var/www/html/jocarsa-oldlace/back/index.php on line 32
 [1739570712][2025-02-14 22:05:12] Error [2]: file_get_contents(../basededatos/productos/jocarsa | lightseagreen.json): Failed to open stream: No such file or directory in /var/www/html/jocarsa-oldlace/back/index.php on line 32
+[1739571189][2025-02-14 22:13:09] Error [2]: file_get_contents(../basededatos/productos/jocarsa | gold.json): Failed to open stream: No such file or directory in /var/www/html/jocarsa-oldlace/back/index.php on line 32
+[1739571572][2025-02-14 22:19:32] Error [2]: file_get_contents(../basededatos/productos/jocarsa | orangered.json): Failed to open stream: No such file or directory in /var/www/html/jocarsa-oldlace/back/index.php on line 32
+[1739624016][2025-02-15 12:53:36] Error [2]: file_get_contents(../basededatos/productos/jocarsa | yellow.json): Failed to open stream: No such file or directory in /var/www/html/jocarsa-oldlace/back/index.php on line 32
