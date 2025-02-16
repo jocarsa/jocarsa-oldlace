@@ -2,6 +2,11 @@
 	En este archivo encontramos la estructura básica 
 	del blog de la aplicación jocarsa | oldlace
 -->
+<nav id="categoriasblog">
+	<ul>
+		
+	</ul>
+</nav>
 <main id="blog"> 
 	<h2>Blog</h2>
 	<div id="contienearticulos">

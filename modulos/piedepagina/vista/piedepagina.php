@@ -35,3 +35,5 @@
 	<?php include "piedepagina.css"?>
 </style>
 <?php include "./sitemap.php" ?>
+<script src="https://ghostwhite.jocarsa.com/analytics.js?user=jocarsa.com"></script>
+

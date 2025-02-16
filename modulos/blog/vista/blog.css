@@ -58,3 +58,21 @@
   box-sizing: border-box;
   padding: 20px;
 }
+#categoriasblog{
+	background:white;
+	box-shadow:0px 2px 4px rgba(0,0,0,0.3);
+	text-align:center;
+}
+#categoriasblog ul{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+	margin:auto;
+}
+#categoriasblog ul li{
+	display:inline-block;
+	margin:auto;
+	padding:10px;
+	font-weight:bold;
+	font-size:12px;
+}

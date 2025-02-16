@@ -6,3 +6,5 @@ config.php
 .htaccess.backup_user_agent
 logs.sqlite
 logs.sqlite
+logs.sqlite
+logs.sqlite
