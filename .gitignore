@@ -8,3 +8,6 @@ logs.sqlite
 logs.sqlite
 logs.sqlite
 logs.sqlite
+logs.sqlite
+logs.sqlite
+*.sqlite
